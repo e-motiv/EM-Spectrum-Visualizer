@@ -35,16 +35,16 @@ or
 [here on e-motiv](http://attic.e-motiv.net/em-spectrum) 
 
 ## Help wanted
-You want to take over the torch (more or less) ?
-If you're interested (see end of History above) and you don't know where to start, [mail me](mailto:Ruben@e-motiv.net) or write me a message here.
+You want to take over the torch (more or less) ? (Also see end of History above.) 
+If you're interested and you don't know where to start, [mail me](mailto:Ruben@e-motiv.net) or write me a message here.
 
 ## Development notes
-Mostly, if you start fiddling with script/base.js you will understand everything if you are a developer.
+Mostly, if you start fiddling with script/base.js you will understand everything if you are a developer. But here is the most important structure:
 - index.html: The main starting point
 - script/base.js: Where all the magic happens!
 - content: folder with all graphic and text/html files
 - development: folder with some files to generate the SVGs that come into the content folder or the ones once used for it in case there are some extensions to be made. (In other words, the tool itself is used to make the SVGs and see how well they fit etc.)
-- style
+- style: css and style-only related mages
 
 
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="emrangeflash.css" type="text/css"?>
+<emrange>
+<title>Ultraviolet or UV or Blacklight</title> <range>400 nm - 1 nm</range>
+<body><intro>UV-A (380-315 nm), UV-B (315-280 nm), and UV-C (280-10 nm)<br/>
+UV lies just above the visible spectrum, hence ultra violet (beyond violet).  It's mostly know for the responsable wave for a brown tan. </intro>
+
+<br/><sources>Sources:</sources><source>Stars, Sun, BB, Heat</source>
+
+<br/><uses>Uses:</uses>
+<use>Solar cel (zonnecel), photolithography (a.o. in making microchips), spectroscopy</use>
+<use>Washing powders (to look 'whiter' due to fluorescent dyes)</use>
+<use>Analysis of minerals, detective work</use>
+<use>Astronomy (which radiation doesn't this use ?)</use>
+<use>UV-A: Blacklights (fluorescent lamps), skin tanning, skin therapy</use>
+<use>UV-C: Disinfection/Sterilization (air, water, surfaces)</use>
+
+<br/><effects>Effects:</effects>
+<effect>makes bees "see" interesting flowers</effect>
+<effect>Besides tanning (which is the result of brown pigment melaninon which itself blocks UV as a defense), the upper ranges are unhealthy for our skin (UV-B, UV-C) and can produce skin cancer (UV-B)</effect>
+<effect>UV-B (and UV-C somewhat) can destroy DNA if it can reach it.</effect>
+<effect>Germicidal ultraviolet (UV-C / 253.7 nm): kills germs, such as bacteria, viruses, mold, fungi and spores</effect>
+
+</body>
+</emrange>

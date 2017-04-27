@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="emrangeflash.css" type="text/css"?>
+<emrange>
+<title>Infrared or IR</title> <range>100 µm - 700 nm</range>
+<body><intro>...are just under the visible spectrum, hence infra red (below red).  Heatexchange happens through IR radiation.  It's due to vibration or torsion of molecules (body, fire, temperature, ..)<br/></intro>
+
+<br/><sources>Sources:</sources><source>Stars, dust between stars, Sun,  Blackbody radiation, Heat </source>
+
+<br/><uses>Uses:</uses>
+<use>Heat seeking systems, electronic photography, remote controls or comm. devices (GSM, laptop, ..), fibre optics</use>
+<use>Mobile phones, satellite communications, radar, TV, radio, .. </use>
+
+<br/><effects>Effects:</effects>
+<effect>Heats up most things</effect>
+
+</body>
+</emrange>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="emrangeflash.css" type="text/css"?>
+<emrange>
+<title>MicroWaves or µW</title> <range>(1 GHZ - 3000 GHZ)</range>
+<body><intro>Radio-frequencies are going higher and higher (due to better technology and crowdiness of lower frequencies), nowadays µwaves are also used for radiocommunication.</intro>
+
+<br/><sources>Sources:</sources><source>Stars, Sun</source>
+
+<br/><uses>Uses:</uses>
+<use>- Microwave-oven (2.45 GHZ Water and fat absorb these frequencies and heat up)</use>
+<use>- Radar (around 10 GHZ) At these frequencies the wave reflects on most objects, especially on metal surfaces. From the reflection and time-delay, detected at the radarstation, the distance, direction and surface of objects are generated.</use>
+<use>- Communication (satellites; high capacity comm. devices)</use>
+
+<br/><effects>Effects:</effects>
+
+</body>
+</emrange>

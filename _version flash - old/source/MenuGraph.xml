@@ -1,0 +1,7 @@
+<?xml versiohref="1.0"?>
+<menu>
+	<mI href="attenuationAtmosphere" title="Att Atmosphere">Average attenuation of the earth's atmosphere.<br/>No weather taken into account.</mI>
+	<mI href="bbSun" title="Sun in space">Irradiance of the sun at top of atmosphere.</mI>
+	<mI href="bbSunEarth" title="Sun on earth">Irradiance of the sun at sea level.</mI>
+	<mI href="bbtheoretical" title="BB Theoratical">Theoretical black body lines with their temperature and colors.</mI>
+</menu>

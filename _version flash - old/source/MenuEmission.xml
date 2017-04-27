@@ -1,0 +1,7 @@
+<?xml versiohref="1.0"?>
+<menu>
+	<mI href="Emission Hydrogen" title="Hydrogen (theory)">Theorethical calculated<br/>spectral lines of the<br/>ion Hydrogen.</mI>
+	<mI href="Emission observed" title="Hydrogen (observed)">Observed spectral<br/>lines of the ion<br/>Hydrogen.</mI>
+	<mI href="Emission Oxygen" title="Oxygen (observed)">Observed spectral<br/>lines of the ion<br/>Oxygen.</mI>
+	<mI href="Emission lines" title="Some others">Some generally<br/>important spectral<br/>lines.</mI>
+</menu>

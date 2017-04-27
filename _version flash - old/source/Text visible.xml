@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="emrangeflash.css" type="text/css"?>
+<emrange>
+<title>Visible or optical spectrum (VIS)</title> <range>780 nm - 380 nm</range>
+<body>
+<intro>...are only a very small band of the EM spectrum, though it is emitted and reflected by almost everything and it is also least absorbed by the atmopshere.  Probably this is why evolution decided-make the four cells in the retina of the human eye sensitive-it.  One type of cell 'feels' the intensity of light, the other 3 covers Redish, Greenish and Blue-ish intensities (each with it's sensitivity curves) .  Hence we can see all colours by a combination of those 3.</intro>
+R: ~ 625-740 nm / O: ~ 590-625 nm / Y:	~ 565-590 nm / G: ~ 520-565 nm / Cy: ~ 500-520 nm / B: ~ 430-500 nm / V: ~ 380-430 nm
+<br/><sources>Sources:</sources><source>Everything</source>
+
+<br/><uses>Uses:</uses>
+<use>Sight: the human eye typically has a maximum sensitivity of ~555 nm (in the green; figures when evolved in nature)</use>
+<use>fibre optics, Astronomy</use>
+<use>RGB (red green blue) in TV / computers-"fool" our eyes-see all visible colors by adding different saturations of these colors</use>
+<use>CYV (Cyan Yellow Violet?) in printers / copiers /painters-do the same thing but by substracting values</use>
+
+<br/><effects>Effects:</effects>
+<effect>look around</effect>
+
+</body>
+</emrange>

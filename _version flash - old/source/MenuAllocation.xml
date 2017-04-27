@@ -1,0 +1,5 @@
+<?xml versiohref="1.0"?>
+<menu>
+	<mI href="alloc ITU Region 1" title="ITU Region 1">ITU International Telecommunications Unit<br/>Region 1 = Europe</mI>
+	<mI href="alloc Europe ECa" title="Europe ECA">European body for Frequency allocations</mI>
+</menu>

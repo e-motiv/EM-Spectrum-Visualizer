@@ -1,0 +1,35 @@
+title {	display: none;}
+range {	display: none;}
+
+
+body {
+	display: block;
+}
+
+intro {
+	display: block;}
+
+
+sources {
+	font-style: italic;
+	display: block;
+}
+source {
+	display: block;
+}
+
+
+uses {
+	font-style: italic;
+	display: block;}
+use {
+	display: block;
+}
+
+effects{
+	font-style: italic;
+	margin-right: 5px;
+	display: block;}
+	use {
+	display: block;
+}

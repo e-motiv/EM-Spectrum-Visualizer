@@ -1,0 +1,20 @@
+&nbsp;
+none
+
+<sf *\n *\n *<td class="lft"><b>(.*)</b></td> *\n *<td class="fix"> *([0-9\.]+).*</td>
+<sf N="\2" E="-9">\1
+
+
+<td class="rgt">(.<i>.*)</td>\n <td class="dsh">-</td>\n <td class="lft">(.<i>.*)</td>
+ \1 - \2
+ 
+ <td class.*>.*</td>
+ none
+ 
+ [\n ]*(.)<i>
+  \1
+
+<td class="lft">&nbsp;</td>
+none
+
+...

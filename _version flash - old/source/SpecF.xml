@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<specialfrequencies>
+	<sf N="5" E="1">Net Electricity</sf>
+	<sf N="440" E="0">Acuoustic note A</sf>
+	<sf N="88" E="6">FM Radio min</sf>
+	<sf N="108" E="6" P="1">FM Radio max</sf>
+	<sf N="9" E="8">Mobile phone</sf>
+	<sf N="2" E="9" P="1">Mobile phone</sf>
+	<sf N="245" E="7" P="2">Microwave oven (water resonance f.)</sf>
+	<sf N="428" E="12" C="ff0000">R 700nm</sf>
+	<sf N="550" E="12" C="00ff00">G 546.1nm</sf>
+	<sf N="688" E="12" C="0000ff">B 435.8nm</sf>
+</specialfrequencies>

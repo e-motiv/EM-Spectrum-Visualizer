@@ -1,0 +1,1564 @@
+<?xml version="1.0" ?>
+<specialfrequencies>
+<sf unit="wavelength" N="12.4616" E="-9">O V 1s2 2s2 - 1s2 2s 5p</sf>
+<sf unit="wavelength" N="13.5523" E="-9">O V 1s2 2s2 - 1s2 2s 4p</sf>
+<sf unit="wavelength" N="13.8109" E="-9">O V 1s2 2s 2p - 1s2 2s 5d</sf>
+<sf unit="wavelength" N="13.8109" E="-9">O V 1s2 2s 2p - 1s2 2s 5d</sf>
+<sf unit="wavelength" N="13.8109" E="-9">O V 1s2 2s 2p - 1s2 2s 5d</sf>
+<sf unit="wavelength" N="13.9029" E="-9">O V 1s2 2s2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="15.1447" E="-9">O V 1s2 2s 2p - 1s2 2s 4d</sf>
+<sf unit="wavelength" N="15.1477" E="-9">O V 1s2 2s 2p - 1s2 2s 4d</sf>
+<sf unit="wavelength" N="15.1477" E="-9">O V 1s2 2s 2p - 1s2 2s 4d</sf>
+<sf unit="wavelength" N="15.1546" E="-9">O V 1s2 2s 2p - 1s2 2s 4d</sf>
+<sf unit="wavelength" N="15.1546" E="-9">O V 1s2 2s 2p - 1s2 2s 4d</sf>
+<sf unit="wavelength" N="15.1546" E="-9">O V 1s2 2s 2p - 1s2 2s 4d</sf>
+<sf unit="wavelength" N="16.4574" E="-9">O V 1s2 2s 2p - 1s2 2p(2P&deg;3/2) 3p</sf>
+<sf unit="wavelength" N="16.4657" E="-9">O V 1s2 2s 2p - 1s2 2p(2P&deg;1/2) 3p</sf>
+<sf unit="wavelength" N="16.4657" E="-9">O V 1s2 2s 2p - 1s2 2p(2P&deg;3/2) 3p</sf>
+<sf unit="wavelength" N="16.4709" E="-9">O V 1s2 2s 2p - 1s2 2p(2P&deg;3/2) 3p</sf>
+<sf unit="wavelength" N="16.6235" E="-9">O V 1s2 2s 2p - 1s2 2p(2P&deg;3/2) 3p</sf>
+<sf unit="wavelength" N="16.799" E="-9">O V 1s2 2s 2p - 1s2 2p(2P&deg;3/2) 3p</sf>
+<sf unit="wavelength" N="16.799" E="-9">O V 1s2 2s 2p - 1s2 2p(2P&deg;1/2) 3p</sf>
+<sf unit="wavelength" N="17.0219" E="-9">O V 1s2 2s 2p - 1s2 2s 4d</sf>
+<sf unit="wavelength" N="17.2169" E="-9">O V 1s2 2s2 - 1s2 2s 3p</sf>
+<sf unit="wavelength" N="18.5745" E="-9">O V 1s2 2s 2p - 1s2 2p(2P&deg;3/2) 3p</sf>
+<sf unit="wavelength" N="19.2751" E="-9">O V 1s2 2s 2p - 1s2 2s 3d</sf>
+<sf unit="wavelength" N="19.2799" E="-9">O V 1s2 2s 2p - 1s2 2s 3d</sf>
+<sf unit="wavelength" N="19.2799" E="-9">O V 1s2 2s 2p - 1s2 2s 3d</sf>
+<sf unit="wavelength" N="19.2906" E="-9">O V 1s2 2s 2p - 1s2 2s 3d</sf>
+<sf unit="wavelength" N="19.3003" E="-9">O V 1s2 2p2 - 1s2 2s 4f</sf>
+<sf unit="wavelength" N="19.4593" E="-9">O V 1s2 2s 2p - 1s2 2p(2P&deg;1/2) 3p</sf>
+<sf unit="wavelength" N="19.586" E="-9">O IV 2s2 2p - 2s2 4d</sf>
+<sf unit="wavelength" N="19.601" E="-9">O IV 2s2 2p - 2s2 4d</sf>
+<sf unit="wavelength" N="19.601" E="-9">O IV 2s2 2p - 2s2 4d</sf>
+<sf unit="wavelength" N="20.2161" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="20.2224" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="20.2283" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="20.2334" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="20.2393" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="20.378" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;1/2) 3d</sf>
+<sf unit="wavelength" N="20.382" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="20.385" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;1/2) 3d</sf>
+<sf unit="wavelength" N="20.389" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="20.394" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="20.718" E="-9">O IV 2s2 2p - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="20.724" E="-9">O IV 2s2 2p - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="20.7794" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="21.5040" E="-9">O V 1s2 2s 2p - 1s2 2s 3s</sf>
+<sf unit="wavelength" N="21.5103" E="-9">O V 1s2 2s 2p - 1s2 2s 3s</sf>
+<sf unit="wavelength" N="21.5245" E="-9">O V 1s2 2s 2p - 1s2 2s 3s</sf>
+<sf unit="wavelength" N="21.6018" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;1/2) 3d</sf>
+<sf unit="wavelength" N="22.0352" E="-9">O V 1s2 2s 2p - 1s2 2s 3d</sf>
+<sf unit="wavelength" N="22.7372" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3s</sf>
+<sf unit="wavelength" N="22.7469" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;1/2) 3s</sf>
+<sf unit="wavelength" N="22.7511" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3s</sf>
+<sf unit="wavelength" N="22.7549" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;1/2) 3s</sf>
+<sf unit="wavelength" N="22.7634" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;1/2) 3s</sf>
+<sf unit="wavelength" N="22.7689" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;1/2) 3s</sf>
+<sf unit="wavelength" N="23.1823" E="-9">O V 1s2 2p2 - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="23.346" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="23.350" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="23.352" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="23.356" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="23.360" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="23.836" E="-9">O IV 2s2 2p - 2s2 3d</sf>
+<sf unit="wavelength" N="23.857" E="-9">O IV 2s2 2p - 2s2 3d</sf>
+<sf unit="wavelength" N="24.8459" E="-9">O V 1s2 2s 2p - 1s2 2s 3s</sf>
+<sf unit="wavelength" N="25.256" E="-9">O IV 2p3 - 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="25.295" E="-9">O IV 2s 2p2 - 2s 2p(1P&deg;) 3d</sf>
+<sf unit="wavelength" N="25.308" E="-9">O IV 2s 2p2 - 2s 2p(1P&deg;) 3d</sf>
+<sf unit="wavelength" N="26.039" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="26.056" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="26.434" E="-9">O III 2s2 2p2 - 2s 2p2(4P) 3p</sf>
+<sf unit="wavelength" N="26.448" E="-9">O III 2s2 2p2 - 2s 2p2(4P) 3p</sf>
+<sf unit="wavelength" N="26.697" E="-9">O III 2s2 2p2 - 2s 2p2(4P) 3p</sf>
+<sf unit="wavelength" N="26.698" E="-9">O III 2s2 2p2 - 2s 2p2(4P) 3p</sf>
+<sf unit="wavelength" N="26.703" E="-9">O III 2s2 2p2 - 2s 2p2(4P) 3p</sf>
+<sf unit="wavelength" N="27.738" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 4d</sf>
+<sf unit="wavelength" N="27.963" E="-9">O IV 2s2 2p - 2s2 3s</sf>
+<sf unit="wavelength" N="27.994" E="-9">O IV 2s2 2p - 2s2 3s</sf>
+<sf unit="wavelength" N="28.571" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="28.584" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="28.6448" E="-9">O V 1s2 2p2 - 1s2 2s 3p</sf>
+<sf unit="wavelength" N="29.562" E="-9">O III 2s 2p3 - 2s 2p2(4P) 3d</sf>
+<sf unit="wavelength" N="29.566" E="-9">O III 2s 2p3 - 2s 2p2(4P) 3d</sf>
+<sf unit="wavelength" N="29.572" E="-9">O III 2s 2p3 - 2s 2p2(4P) 3d</sf>
+<sf unit="wavelength" N="30.341" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.346" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.352" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.362" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.369" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.380" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.560" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.566" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.570" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.577" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.584" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="30.662" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3s</sf>
+<sf unit="wavelength" N="30.688" E="-9">O IV 2s 2p2 - 2s 2p(3P&deg;) 3s</sf>
+<sf unit="wavelength" N="32.0979" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="32.845" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="32.874" E="-9">O III</sf>
+<sf unit="wavelength" N="34.531" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="35.514" E="-9">O III 2s 2p3 - 2s 2p2(4P) 3d</sf>
+<sf unit="wavelength" N="35.533" E="-9">O III 2s 2p3 - 2s 2p2(4P) 3d</sf>
+<sf unit="wavelength" N="35.547" E="-9">O III 2s 2p3 - 2s 2p2(4P) 3d</sf>
+<sf unit="wavelength" N="35.902" E="-9">O III 2s 2p3 - 2s 2p2(4P) 3s</sf>
+<sf unit="wavelength" N="35.922" E="-9">O III 2s 2p3 - 2s 2p2(4P) 3s</sf>
+<sf unit="wavelength" N="35.938" E="-9">O III 2s 2p3 - 2s 2p2(4P) 3s</sf>
+<sf unit="wavelength" N="37.380" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="37.400" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="37.408" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="37.416" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="37.433" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="37.444" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="37.6693" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 5d</sf>
+<sf unit="wavelength" N="37.6745" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 5d</sf>
+<sf unit="wavelength" N="37.7045" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 5d</sf>
+<sf unit="wavelength" N="37.7045" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 5d</sf>
+<sf unit="wavelength" N="39.1912" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="39.1943" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="39.2002" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="39.2322" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="39.2322" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="39.5558" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="40.10" E="-9">O II 2s2 2p3 - 2s2 2p2(1S) 3d</sf>
+<sf unit="wavelength" N="40.10" E="-9">O II 2s2 2p3 - 2s2 2p2(1S) 3d</sf>
+<sf unit="wavelength" N="40.10" E="-9">O II 2s2 2p3 - 2s2 2p2(1S) 3d</sf>
+<sf unit="wavelength" N="40.10" E="-9">O II 2s2 2p3 - 2s2 2p2(1S) 3d</sf>
+<sf unit="wavelength" N="40.3035" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="40.3087" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="40.3273" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="40.3372" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="41.8598" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="41.8812" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 5d</sf>
+<sf unit="wavelength" N="42.02" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="42.02" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="42.02" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="42.4577" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="42.4577" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="42.5273" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="42.5273" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="42.6526" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="42.6526" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="42.6526" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4d</sf>
+<sf unit="wavelength" N="42.9557" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="42.9647" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="42.9647" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="42.9716" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="42.9918" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="43.0041" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="43.0177" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="43.498" E="-9">O III 2s2 2p2 - 2s2 2p(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="43.6510" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="43.6649" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="43.7332" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="43.7683" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="44.0552" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="44.0598" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="44.0598" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="44.2001" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="44.2001" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="44.2048" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="44.2048" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="44.3681" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 5d</sf>
+<sf unit="wavelength" N="44.5601" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="44.5601" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="44.5638" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="45.6997" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="45.6997" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="45.6997" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="45.8422" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="45.8422" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="46.4194" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="46.4310" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="46.4310" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="46.4785" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="46.4785" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="46.5529" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="46.5529" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="46.5760" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="46.5760" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="46.7926" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="46.8766" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="46.8766" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="46.8766" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="46.8766" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="47.0408" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="47.0408" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="47.0408" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="48.1587" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.1635" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.1704" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.1755" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.3752" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.3976" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.4025" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.5086" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.5465" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.5515" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.5572" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.5572" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.5572" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.5631" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="48.5631" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="49.9871" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="49.9871" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="50.0343" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="50.0343" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="50.7391" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="50.7683" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="50.8182" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="51.5498" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="51.5640" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="51.5640" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="51.7937" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="51.7937" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="51.8242" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="51.8242" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="52.5795" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="52.59267" E="-9">O II 2s2 2p3 - 2s2 2p2(1S) 3s</sf>
+<sf unit="wavelength" N="52.59267" E="-9">O II 2s2 2p3 - 2s2 2p2(1S) 3s</sf>
+<sf unit="wavelength" N="53.78319" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="53.82636" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="53.8318" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="53.90855" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="53.95489" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="53.98544" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="55.3330" E="-9">O IV 2s2 2p - 2s 2p2</sf>
+<sf unit="wavelength" N="55.4075" E="-9">O IV 2s2 2p - 2s 2p2</sf>
+<sf unit="wavelength" N="55.4514" E="-9">O IV 2s2 2p - 2s 2p2</sf>
+<sf unit="wavelength" N="55.5059" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3s</sf>
+<sf unit="wavelength" N="55.5059" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3s</sf>
+<sf unit="wavelength" N="55.5118" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3s</sf>
+<sf unit="wavelength" N="55.5118" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3s</sf>
+<sf unit="wavelength" N="55.5261" E="-9">O IV 2s2 2p - 2s 2p2</sf>
+<sf unit="wavelength" N="58.04058" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="58.04058" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="58.09707" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="58.09707" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="59.7818" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="59.9598" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="60.0586" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3s</sf>
+<sf unit="wavelength" N="60.0586" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3s</sf>
+<sf unit="wavelength" N="60.0586" E="-9">O II 2s2 2p3 - 2s2 2p2(1D) 3s</sf>
+<sf unit="wavelength" N="60.8398" E="-9">O IV 2s2 2p - 2s 2p2</sf>
+<sf unit="wavelength" N="60.970" E="-9">O III 2s 2p3 - 2p4</sf>
+<sf unit="wavelength" N="60.9829" E="-9">O IV 2s2 2p - 2s 2p2</sf>
+<sf unit="wavelength" N="61.004" E="-9">O III 2s 2p3 - 2p4</sf>
+<sf unit="wavelength" N="61.075" E="-9">O III 2s 2p3 - 2p4</sf>
+<sf unit="wavelength" N="61.085" E="-9">O III 2s 2p3 - 2p4</sf>
+<sf unit="wavelength" N="61.63029" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="61.6378" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="61.6952" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="61.7005" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="61.7036" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="61.70632" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="62.4617" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="62.5130" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="62.5852" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="62.9730" E="-9">O V 1s2 2s2 - 1s2 2s 2p</sf>
+<sf unit="wavelength" N="64.4157" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="64.4157" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="67.2946" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="67.2946" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="67.3768" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="67.3768" E="-9">O II 2s2 2p3 - 2s2 2p2(3P) 3s</sf>
+<sf unit="wavelength" N="68.1272" E="-9">O V</sf>
+<sf unit="wavelength" N="68.5544" E="-9">O I</sf>
+<sf unit="wavelength" N="70.2332" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="70.2822" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="70.2899" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="70.2899" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="70.3850" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="70.3850" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="71.85036" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="71.85663" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="73.9949" E="-9">O II 2s 2p4 - 2s 2p3(5S&deg;) 3s</sf>
+<sf unit="wavelength" N="74.0838" E="-9">O II 2s 2p4 - 2s 2p3(5S&deg;) 3s</sf>
+<sf unit="wavelength" N="74.1293" E="-9">O II 2s 2p4 - 2s 2p3(5S&deg;) 3s</sf>
+<sf unit="wavelength" N="74.4794" E="-9">O I</sf>
+<sf unit="wavelength" N="75.8678" E="-9">O V 1s2 2s 2p - 1s2 2p2</sf>
+<sf unit="wavelength" N="75.9441" E="-9">O V 1s2 2s 2p - 1s2 2p2</sf>
+<sf unit="wavelength" N="76.0228" E="-9">O V 1s2 2s 2p - 1s2 2p2</sf>
+<sf unit="wavelength" N="76.0445" E="-9">O V 1s2 2s 2p - 1s2 2p2</sf>
+<sf unit="wavelength" N="76.1128" E="-9">O V 1s2 2s 2p - 1s2 2p2</sf>
+<sf unit="wavelength" N="76.2003" E="-9">O V 1s2 2s 2p - 1s2 2p2</sf>
+<sf unit="wavelength" N="77.0793" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;3/2) 4d</sf>
+<sf unit="wavelength" N="77.1056" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;5/2) 4d</sf>
+<sf unit="wavelength" N="77.4518" E="-9">O V 1s2 2s 2p - 1s2 2p2</sf>
+<sf unit="wavelength" N="77.5321" E="-9">O I</sf>
+<sf unit="wavelength" N="77.9734" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="77.9821" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="77.9912" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="77.9997" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="78.7711" E="-9">O IV 2s2 2p - 2s 2p2</sf>
+<sf unit="wavelength" N="79.0109" E="-9">O IV 2s2 2p - 2s 2p2</sf>
+<sf unit="wavelength" N="79.0199" E="-9">O IV 2s2 2p - 2s 2p2</sf>
+<sf unit="wavelength" N="79.1973" E="-9">O I 2s2 2p4 - 2s 2p5</sf>
+<sf unit="wavelength" N="79.6644" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="79.6682" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="80.2200" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="80.2255" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="80.4267" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="80.4848" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;5/2) 3d</sf>
+<sf unit="wavelength" N="80.5295" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="80.5810" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;5/2) 3d</sf>
+<sf unit="wavelength" N="83.27587" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="83.2927" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="83.33302" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="83.3742" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="83.44655" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="83.5096" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="83.5292" E="-9">O III 2s2 2p2 - 2s 2p3</sf>
+<sf unit="wavelength" N="87.7879" E="-9">O I 2s2 2p4 - 2s2 2p3(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="90.97" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="90.97" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="90.97" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="92.1296" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="92.1366" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="92.2008" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="92.3367" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="92.3433" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="93.5193" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;3/2) 4s</sf>
+<sf unit="wavelength" N="94.8686" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="94.8686" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="94.8686" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="97.1738" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 4d</sf>
+<sf unit="wavelength" N="97.1738" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 4d</sf>
+<sf unit="wavelength" N="97.1738" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 4d</sf>
+<sf unit="wavelength" N="97.6448" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 5s</sf>
+<sf unit="wavelength" N="98.8773" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;) 3s</sf>
+<sf unit="wavelength" N="99.0204" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;) 3s</sf>
+<sf unit="wavelength" N="102.5762" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="102.5762" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="102.5762" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="102.7431" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="102.7431" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="103.9230" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 4s</sf>
+<sf unit="wavelength" N="104.0942" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 4s</sf>
+<sf unit="wavelength" N="107.4962" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="108.3139" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="108.5056" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="108.6022" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="112.8081" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="112.9251" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="113.0147" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="113.1325" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="113.1914" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="113.2389" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="113.2975" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="114.2601" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 7p</sf>
+<sf unit="wavelength" N="114.2947" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 7p</sf>
+<sf unit="wavelength" N="114.3258" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 7p</sf>
+<sf unit="wavelength" N="114.3548" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 7p</sf>
+<sf unit="wavelength" N="114.7246" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="114.8895" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="115.2152" E="-9">O I 2s2 2p4 - 2s2 2p3(2D&deg;) 3s</sf>
+<sf unit="wavelength" N="115.3368" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="115.4102" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="120.0720" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 6p</sf>
+<sf unit="wavelength" N="120.1485" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 6p</sf>
+<sf unit="wavelength" N="120.1822" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 6p</sf>
+<sf unit="wavelength" N="120.2025" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 6p</sf>
+<sf unit="wavelength" N="120.3004" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 6p</sf>
+<sf unit="wavelength" N="125.6074" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="125.7345" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="125.8156" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 6p</sf>
+<sf unit="wavelength" N="125.9931" E="-9">O II 2s2 2p3 - 2s 2p4</sf>
+<sf unit="wavelength" N="126.1016" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 6p</sf>
+<sf unit="wavelength" N="127.5143" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="128.6409" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="128.9127" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="128.9387" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="130.2168" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 3s</sf>
+<sf unit="wavelength" N="130.4858" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 3s</sf>
+<sf unit="wavelength" N="130.6029" E="-9">O I 2s2 2p4 - 2s2 2p3(4S&deg;) 3s</sf>
+<sf unit="wavelength" N="131.5338" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="131.5518" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="131.6150" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="131.7162" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="131.8269" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="131.9918" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="132.0567" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="132.0957" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="132.1317" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="132.2402" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="132.3731" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="133.8612" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="134.2992" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="134.3512" E="-9">O IV 2s 2p2 - 2p3</sf>
+<sf unit="wavelength" N="137.1292" E="-9">O V 1s2 2s 2p - 1s2 2p2</sf>
+<sf unit="wavelength" N="137.3437" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="137.3595" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="137.6826" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="139.2806" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="139.6304" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="143.3772" E="-9">O II 2s2 2p2(3P) 3s - 2s 2p3(5S&deg;) 3s</sf>
+<sf unit="wavelength" N="143.5943" E="-9">O II 2s2 2p2(3P) 3s - 2s 2p3(5S&deg;) 3s</sf>
+<sf unit="wavelength" N="143.9233" E="-9">O II 2s2 2p2(3P) 3s - 2s 2p3(5S&deg;) 3s</sf>
+<sf unit="wavelength" N="147.689" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 4s</sf>
+<sf unit="wavelength" N="150.2838" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="150.3045" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="150.4121" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="150.672" E="-9">O V</sf>
+<sf unit="wavelength" N="155.9946" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="156.0087" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="156.3150" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="156.3485" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="156.4329" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="156.4463" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="157.8384" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="159.001" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 4s</sf>
+<sf unit="wavelength" N="159.133" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 4s</sf>
+<sf unit="wavelength" N="159.3354" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="159.3977" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="159.4189" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="161.6963" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1S) 3d</sf>
+<sf unit="wavelength" N="163.2681" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="163.6249" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="163.7824" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="163.9767" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="163.9891" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="164.0517" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="164.368" E="-9">O V</sf>
+<sf unit="wavelength" N="164.4924" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="165.0664" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="165.1176" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="165.2045" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="165.3540" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="165.5505" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="166.4060" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="166.7565" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="166.7565" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="166.8794" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="166.9138" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="167.5907" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="167.6394" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="167.7378" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="167.7647" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="168.3762" E="-9">O II 2s2 2p2(1S) 3s - 2s2 2p2(1S) 4p</sf>
+<sf unit="wavelength" N="168.4033" E="-9">O II 2s2 2p2(1S) 3s - 2s2 2p2(1S) 4p</sf>
+<sf unit="wavelength" N="169.1477" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="169.1477" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="169.6614" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="170.7113" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="170.7996" E="-9">O V 1s2 2s 4f - 1s2 2s 5g</sf>
+<sf unit="wavelength" N="170.9790" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="171.0707" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="171.2039" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="171.3730" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="171.4640" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 6s</sf>
+<sf unit="wavelength" N="171.4719" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="171.5094" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="171.5300" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 6s</sf>
+<sf unit="wavelength" N="174.5726" E="-9">O II 2s 2p4 - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="174.5897" E="-9">O II 2s 2p4 - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="175.1289" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 6s</sf>
+<sf unit="wavelength" N="175.1994" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 6s</sf>
+<sf unit="wavelength" N="176.012" E="-9">O III</sf>
+<sf unit="wavelength" N="176.042" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 4s</sf>
+<sf unit="wavelength" N="176.322" E="-9">O III</sf>
+<sf unit="wavelength" N="176.448" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 4s</sf>
+<sf unit="wavelength" N="176.778" E="-9">O III</sf>
+<sf unit="wavelength" N="176.824" E="-9">O III</sf>
+<sf unit="wavelength" N="177.167" E="-9">O III</sf>
+<sf unit="wavelength" N="177.300" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 4s</sf>
+<sf unit="wavelength" N="177.385" E="-9">O III</sf>
+<sf unit="wavelength" N="177.916" E="-9">O III</sf>
+<sf unit="wavelength" N="178.0994" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="178.103" E="-9">O III</sf>
+<sf unit="wavelength" N="178.485" E="-9">O III</sf>
+<sf unit="wavelength" N="178.6708" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="178.966" E="-9">O III</sf>
+<sf unit="wavelength" N="179.9025" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="179.9207" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="180.5173" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="180.7896" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="182.1545" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="182.4503" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="182.7276" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="182.7276" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="182.9362" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="183.0128" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="183.3649" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="183.5906" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="184.826" E="-9">O III</sf>
+<sf unit="wavelength" N="185.662" E="-9">O III</sf>
+<sf unit="wavelength" N="187.278" E="-9">O III</sf>
+<sf unit="wavelength" N="187.287" E="-9">O III</sf>
+<sf unit="wavelength" N="187.494" E="-9">O III</sf>
+<sf unit="wavelength" N="188.2159" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="188.2400" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="188.4350" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="188.5246" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="188.6652" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="188.9246" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="189.3789" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="192.004" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 4s</sf>
+<sf unit="wavelength" N="192.075" E="-9">O III</sf>
+<sf unit="wavelength" N="192.152" E="-9">O III</sf>
+<sf unit="wavelength" N="192.349" E="-9">O III</sf>
+<sf unit="wavelength" N="192.382" E="-9">O III</sf>
+<sf unit="wavelength" N="192.694" E="-9">O III</sf>
+<sf unit="wavelength" N="195.7441" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="195.8122" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="196.0265" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="196.2210" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="196.3793" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="196.4269" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="201.392" E="-9">O III</sf>
+<sf unit="wavelength" N="201.7240" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="202.0992" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="202.2097" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="202.3420" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="202.3984" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="202.4392" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="202.6347" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="202.761" E="-9">O III</sf>
+<sf unit="wavelength" N="202.7756" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="202.8256" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="204.633" E="-9">O III</sf>
+<sf unit="wavelength" N="205.340" E="-9">O III</sf>
+<sf unit="wavelength" N="207.29" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="207.3262" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="207.4766" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="207.5720" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="207.5831" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="209.3541" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="210.0547" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="210.0736" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="210.0736" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="210.1331" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="210.1950" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="210.2992" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="210.4800" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="212.3873" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="213.2491" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="213.2670" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="214.8898" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="214.8898" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="218.3263" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="219.1166" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="219.6150" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="221.6391" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="221.9370" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="225.0416" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="225.3444" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="226.0325" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="226.3385" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="228.4152" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="228.5541" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="229.1545" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="229.4008" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="230.1039" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="230.3517" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="230.8431" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="230.8431" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="231.3788" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="231.3788" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="231.6851" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="231.7477" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="231.7477" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="232.0400" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="232.2855" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="232.5511" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="232.6632" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="232.8653" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="234.0019" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="236.5861" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="237.6456" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="239.117" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="239.506" E="-9">O III</sf>
+<sf unit="wavelength" N="239.9632" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="239.9920" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="240.3087" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="240.7123" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="240.8202" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="241.2355" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="241.2355" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="241.5855" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="241.9194" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="242.358" E="-9">O III</sf>
+<sf unit="wavelength" N="242.6301" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="243.2390" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="243.4272" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="243.5928" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="243.6790" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="243.8805" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="243.957" E="-9">O III 2s2 2p(2P&deg;) 3d - 2s2 2p(2P&deg;) 4p</sf>
+<sf unit="wavelength" N="244.2366" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="244.4989" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="244.6279" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="245.0114" E="-9">O IV</sf>
+<sf unit="wavelength" N="245.0782" E="-9">O IV</sf>
+<sf unit="wavelength" N="245.573" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="249.419" E="-9">O IV 2s 2p(3P&deg;) 3d - 2s 2p(1P&deg;) 3p</sf>
+<sf unit="wavelength" N="249.452" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="250.849" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="250.995" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="251.80" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="251.8732" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="252.3971" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="252.7629" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="253.1035" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="255.883" E="-9">O III 2s2 2p(2P&deg;) 3d - 2s2 2p(2P&deg;) 4p</sf>
+<sf unit="wavelength" N="257.2224" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="257.6042" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="268.833" E="-9">O III 2s 2p2(4P) 3p - 2s 2p2(4P) 3d</sf>
+<sf unit="wavelength" N="269.629" E="-9">O III 2s 2p2(4P) 3p - 2s 2p2(4P) 3d</sf>
+<sf unit="wavelength" N="271.6170" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="271.9634" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="273.4098" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="274.8180" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="278.183" E="-9">O V 1s2 2s 3s - 1s2 2s 3p</sf>
+<sf unit="wavelength" N="278.3847" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="278.781" E="-9">O V 1s2 2s 3s - 1s2 2s 3p</sf>
+<sf unit="wavelength" N="279.067" E="-9">O V 1s2 2s 3s - 1s2 2s 3p</sf>
+<sf unit="wavelength" N="279.0757" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="279.7468" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(1D) 4fP</sf>
+<sf unit="wavelength" N="279.7468" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(1D) 4fP</sf>
+<sf unit="wavelength" N="280.3927" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="280.9556" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="283.7054" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="283.709" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="288.5060" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="288.5624" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="288.8811" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 5fG</sf>
+<sf unit="wavelength" N="289.2137" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="289.2532" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="289.3154" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="289.3154" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="289.8359" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="290.1117" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="290.5096" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="290.5861" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="290.7404" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="290.9495" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="290.9633" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="291.1983" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="291.2622" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="291.6097" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="291.6432" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="292.231" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="294.219" E="-9">O V</sf>
+<sf unit="wavelength" N="294.251" E="-9">O V</sf>
+<sf unit="wavelength" N="296.054" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="296.5035" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="296.6964" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(1S) 4s</sf>
+<sf unit="wavelength" N="297.316" E="-9">O I 2s2 2p4 - 2s2 2p4</sf>
+<sf unit="wavelength" N="297.3637" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="297.9918" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="298.1319" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="298.465" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="299.1545" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="299.6745" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 5fH</sf>
+<sf unit="wavelength" N="299.6745" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 5fH</sf>
+<sf unit="wavelength" N="299.6745" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 5fH</sf>
+<sf unit="wavelength" N="300.2571" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="300.3852" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="300.6834" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="300.6834" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="300.7441" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="300.7911" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="300.7911" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="300.8558" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="300.8558" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="300.9195" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="301.0447" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="301.2412" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="301.2412" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="301.3703" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="301.3703" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="301.4235" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="301.5036" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="301.5347" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="301.6853" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="301.851" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="302.1053" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="302.433" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="302.6099" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="302.6586" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="302.7264" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="302.7264" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="302.8459" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="302.8459" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="302.8858" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="302.9618" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="303.2812" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="303.2812" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="303.2967" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="303.3341" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="303.7286" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="304.0346" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="304.0346" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="304.391" E="-9">O III</sf>
+<sf unit="wavelength" N="304.4877" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="304.7579" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 5fF</sf>
+<sf unit="wavelength" N="304.8001" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="304.802" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="306.0182" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="306.019" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="306.431" E="-9">O IV 2s2 3s - 2s2 3p</sf>
+<sf unit="wavelength" N="307.250" E="-9">O IV 2s2 3s - 2s2 3p</sf>
+<sf unit="wavelength" N="308.2286" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="309.1273" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="309.2434" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="309.8376" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="310.3488" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="310.4950" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="310.8748" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 5fD</sf>
+<sf unit="wavelength" N="311.4514" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="312.262" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="312.3426" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="312.4827" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="313.0241" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="313.377" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="313.5126" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="313.5628" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="313.9244" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="314.0590" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="314.557" E="-9">O V 1s2 2s 3p - 1s2 2s 3d</sf>
+<sf unit="wavelength" N="314.8739" E="-9">O II 2s2 2p2(1S) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="315.6820" E="-9">O II 2s2 2p2(1S) 3s - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="316.8488" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="316.9551" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="317.0782" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="317.0782" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="318.8291" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="319.3281" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="319.3984" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="319.8570" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="320.1613" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="321.059" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="321.6806" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 4s</sf>
+<sf unit="wavelength" N="321.7547" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 4s</sf>
+<sf unit="wavelength" N="321.8844" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 4s</sf>
+<sf unit="wavelength" N="323.950" E="-9">O III</sf>
+<sf unit="wavelength" N="326.192" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="326.640" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="326.825" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="327.1798" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="327.4380" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="327.6566" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="327.8511" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="328.5962" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 5fP</sf>
+<sf unit="wavelength" N="328.8419" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="329.0929" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="329.5941" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="330.2358" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="330.5957" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="330.7401" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="331.325" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="334.170" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="334.904" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="335.007" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="335.523" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="336.1071" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="336.1245" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="336.7673" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="337.1247" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="337.2652" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="337.5046" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="337.5868" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="337.637" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="337.6552" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="337.6576" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="337.7406" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="337.8116" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="337.903" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="338.217" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="338.649" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="339.1182" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="339.776" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="340.450" E="-9">O IV 2s2 3p - 2s2 3d</sf>
+<sf unit="wavelength" N="340.8251" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="341.064" E="-9">O IV 2s 2p(3P&deg;) 3s - 2s 2p(3P&deg;) 3p</sf>
+<sf unit="wavelength" N="341.0688" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="341.267" E="-9">O IV 2s2 3p - 2s2 3d</sf>
+<sf unit="wavelength" N="341.462" E="-9">O IV 2s2 3p - 2s2 3d</sf>
+<sf unit="wavelength" N="342.0822" E="-9">O II 2s2 2p2(1S) 3p - 2s2 2p2(1S) 4s</sf>
+<sf unit="wavelength" N="342.1552" E="-9">O II 2s2 2p2(1S) 3p - 2s2 2p2(1S) 4s</sf>
+<sf unit="wavelength" N="342.9492" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="343.8129" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="344.509" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="344.8849" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="345.4083" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="345.5726" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="345.6075" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="345.611" E="-9">O III 2s 2p2(4P) 3p - 2s 2p2(4P) 3d</sf>
+<sf unit="wavelength" N="345.8911" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="345.9927" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="346.0979" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="346.9414" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="347.1275" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="347.1670" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="347.2396" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="347.5921" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="347.9215" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="348.9171" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="348.9256" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="349.083" E="-9">O IV 2s 2p(1P&deg;) 3s - 2s 2p(1P&deg;) 3p</sf>
+<sf unit="wavelength" N="349.324" E="-9">O IV 2s 2p(1P&deg;) 3s - 2s 2p(1P&deg;) 3p</sf>
+<sf unit="wavelength" N="349.5490" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="349.6235" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="349.7276" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="349.8772" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="350.2671" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="350.6842" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="350.8419" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="351.2659" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="351.5828" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="351.7032" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="351.7800" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="351.8313" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="353.4014" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="354.0211" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="354.4512" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="354.6057" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="354.7225" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="355.0105" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="355.1871" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="356.141" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="356.435" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="356.7586" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(3P) 6p</sf>
+<sf unit="wavelength" N="357.5859" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="358.2509" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="360.6152" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="360.6559" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="364.7599" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="366.3545" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="366.8948" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="367.0517" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="368.4375" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 5p</sf>
+<sf unit="wavelength" N="369.975" E="-9">O III 2s 2p2(4P) 3s - 2s 2p2(4P) 3p</sf>
+<sf unit="wavelength" N="370.380" E="-9">O III</sf>
+<sf unit="wavelength" N="370.442" E="-9">O III 2s 2p2(4P) 3s - 2s 2p2(4P) 3p</sf>
+<sf unit="wavelength" N="370.829" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="371.3797" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="371.614" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="372.699" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="372.710" E="-9">O II 2s2 2p3 - 2s2 2p3</sf>
+<sf unit="wavelength" N="372.8380" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="372.986" E="-9">O II 2s2 2p3 - 2s2 2p3</sf>
+<sf unit="wavelength" N="373.009" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="373.0286" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="373.6846" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 4s</sf>
+<sf unit="wavelength" N="373.791" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="374.0825" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="374.2703" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="374.506" E="-9">O III</sf>
+<sf unit="wavelength" N="374.595" E="-9">O IV 2s 2p(3P&deg;) 3p - 2s 2p(3P&deg;) 3d</sf>
+<sf unit="wavelength" N="374.9946" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1S) 3s</sf>
+<sf unit="wavelength" N="375.0552" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="375.574" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="375.828" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="376.094" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="376.2469" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="376.3534" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="377.8494" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="379.234" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="379.5438" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="380.3111" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="380.4065" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="381.4788" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="382.2622" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="382.449" E="-9">O I 2s2 2p3(2D&deg;) 3s - 2s2 2p3(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="383.1377" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="383.4161" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="383.6943" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="384.3905" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="384.4677" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="384.8983" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="385.1889" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="385.2124" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="385.2563" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="385.3476" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="385.7227" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="385.8260" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="386.4597" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="386.5221" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="386.5522" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="386.5763" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="387.3537" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="387.5190" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="387.6895" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="388.3292" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="388.3546" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="388.4231" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="389.4619" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="389.7408" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="390.8562" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="391.3065" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="391.3215" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="391.8646" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="392.0395" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="392.7696" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="394.61541" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="394.841" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 4p</sf>
+<sf unit="wavelength" N="394.860" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 4p</sf>
+<sf unit="wavelength" N="394.871" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 4p</sf>
+<sf unit="wavelength" N="395.54810" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="395.573" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(2P&deg;) 3s</sf>
+<sf unit="wavelength" N="396.271" E="-9">O III 2s2 2p(2P&deg;) 3p - 2s2 2p(2P&deg;) 3d</sf>
+<sf unit="wavelength" N="397.3189" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="397.43802" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="397.5945" E="-9">O II 2s2 2p2(1S) 3p - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="398.38405" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="398.6545" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="399.3886" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="400.8595" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="402.4995" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="402.7450" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="403.3387" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="403.3622" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="403.4295" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="403.6208" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="403.6601" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="404.2431" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="404.3093" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="404.6085" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="404.7256" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="404.8942" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="404.9358" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="405.5226" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="405.5226" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="405.5226" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="405.5673" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="405.5673" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="406.1746" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fG</sf>
+<sf unit="wavelength" N="406.1746" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fG</sf>
+<sf unit="wavelength" N="406.2175" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fG</sf>
+<sf unit="wavelength" N="406.4083" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="406.6192" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="407.0772" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="407.1035" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="407.2383" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="407.3307" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="407.7013" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="407.8866" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="407.9994" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="408.5048" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="408.5805" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="408.62658" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="408.8306" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="408.9422" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="409.0442" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="409.40842" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="409.5296" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="409.6800" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="409.7344" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="409.7681" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="409.8085" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="409.8414" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="409.8414" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="409.9400" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="410.4159" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="410.58815" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="410.6151" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="410.7178" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="410.8250" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="410.8492" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="410.9912" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="411.0447" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="411.0999" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="411.1358" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="411.19458" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="411.3182" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="411.4996" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="411.5663" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="412.0377" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="412.1442" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="412.1707" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="412.26247" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="412.515" E="-9">O V 1s2 2p(2P&deg;3/2) 3s - 1s2 2p(2P&deg;3/2) 3p</sf>
+<sf unit="wavelength" N="413.0486" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="413.39661" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="414.1871" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="414.3101" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 3d</sf>
+<sf unit="wavelength" N="414.3233" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 3d</sf>
+<sf unit="wavelength" N="414.3436" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 3d</sf>
+<sf unit="wavelength" N="414.4493" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 3d</sf>
+<sf unit="wavelength" N="414.4685" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 3d</sf>
+<sf unit="wavelength" N="414.4905" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 3d</sf>
+<sf unit="wavelength" N="414.6868" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 3d</sf>
+<sf unit="wavelength" N="414.7076" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 3d</sf>
+<sf unit="wavelength" N="414.7245" E="-9">O II 2s 2p3(5S&deg;) 3p - 2s 2p3(5S&deg;) 3d</sf>
+<sf unit="wavelength" N="415.44691" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="415.7702" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="417.0400" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="418.6629" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="419.0970" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="419.3699" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="419.7442" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="419.7884" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="422.2892" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="422.5986" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="423.446" E="-9">O I 2s2 2p3(4S&deg;) 4p - 2s2 2p3(2D&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="423.9123" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="424.6714" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="425.5093" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fH</sf>
+<sf unit="wavelength" N="425.5319" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fH</sf>
+<sf unit="wavelength" N="425.8747" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="427.4307" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="427.5443" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="427.6754" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="427.7197" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="427.7484" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="427.7952" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="427.8631" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="427.8631" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="427.8910" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="427.9096" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="428.0360" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="428.2523" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="428.4169" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="428.4454" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="428.4932" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="428.5207" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="428.5599" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="428.6893" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="428.8940" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="429.0027" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="429.0027" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="429.2461" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="429.3064" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="429.3419" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="429.4162" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="429.5989" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="430.4068" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fG</sf>
+<sf unit="wavelength" N="430.4068" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fG</sf>
+<sf unit="wavelength" N="430.4280" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fG</sf>
+<sf unit="wavelength" N="430.4820" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="430.5036" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="430.6601" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="430.7176" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fP</sf>
+<sf unit="wavelength" N="430.7176" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fP</sf>
+<sf unit="wavelength" N="430.7565" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fP</sf>
+<sf unit="wavelength" N="430.8445" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="431.0211" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="431.0211" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="431.3320" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="431.4655" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="431.6607" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="431.6607" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="431.7042" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="431.8352" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="431.8914" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="432.0844" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="432.3661" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="432.6006" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="432.6974" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="432.8682" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="432.9068" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="432.9803" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="433.2394" E="-9">O II 2s2 2p2(1S) 3p - 2s2 2p2(1S) 3d</sf>
+<sf unit="wavelength" N="433.2686" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="433.3080" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="433.3925" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="433.5248" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="433.5405" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="433.6581" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="433.8081" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="434.1548" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="434.3225" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="434.4034" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="434.4034" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="434.4423" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="434.4423" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="434.5596" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="434.6179" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="434.6782" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="434.7381" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="434.8445" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="434.8445" E="-9">O II 2s2 2p2(1S) 3p - 2s2 2p2(1S) 3d</sf>
+<sf unit="wavelength" N="434.8642" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="435.0649" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="435.2485" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="435.4818" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="435.5402" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="435.8477" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="435.8477" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="435.8477" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="435.9676" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="436.0617" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="436.7757" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="436.8119" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="436.948" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 4p</sf>
+<sf unit="wavelength" N="437.0503" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="437.2846" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="437.5524" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="437.9257" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="437.9657" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="437.9657" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="439.7177" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="439.9090" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="440.6187" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="440.7225" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="441.6145" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="441.8214" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="443.6751" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="444.4254" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="444.4763" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="444.8057" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="444.8057" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="444.8922" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="444.9435" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="445.3625" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="446.6670" E="-9">O II 2s 2p3(5S&deg;) 3s - 2s 2p3(5S&deg;) 3p</sf>
+<sf unit="wavelength" N="446.7494" E="-9">O II 2s2 2p2(1S) 3s - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="446.7668" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="446.8729" E="-9">O II 2s2 2p2(1S) 3s - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="446.9175" E="-9">O II 2s 2p3(5S&deg;) 3s - 2s 2p3(5S&deg;) 3p</sf>
+<sf unit="wavelength" N="447.0627" E="-9">O II 2s 2p3(5S&deg;) 3s - 2s 2p3(5S&deg;) 3p</sf>
+<sf unit="wavelength" N="447.9161" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="448.8975" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="448.9455" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="448.9455" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fD</sf>
+<sf unit="wavelength" N="449.0722" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="449.2487" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="456.4457" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="459.2258" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="459.7248" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="459.7463" E="-9">O II 2s2 2p2(1D) 3s - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="460.3417" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="460.4518" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="461.0733" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="461.1494" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="461.2362" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="461.4429" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="461.4973" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="462.2566" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fF</sf>
+<sf unit="wavelength" N="464.01540" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="464.31102" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="464.4686" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="464.9104" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="464.9104" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="465.04365" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="465.21416" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="466.29383" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="467.0573" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="467.0734" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="467.50405" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="467.75439" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="467.8377" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="468.1893" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="469.2209" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="469.2729" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="469.4508" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="469.7661" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="469.7661" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="469.9761" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="470.0318" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="470.0535" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="470.2500" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="470.3024" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="470.4479" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="470.6669" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="470.8801" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="470.9128" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="471.1330" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="474.3033" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="475.2600" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="475.4010" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="477.5117" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="477.5394" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="484.4719" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4fP</sf>
+<sf unit="wavelength" N="484.6267" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="485.7752" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="485.8115" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="486.2326" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="486.6238" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="487.2881" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="487.3366" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(1D) 3d</sf>
+<sf unit="wavelength" N="489.2224" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="490.8203" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="492.5906" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="493.165" E="-9">O V</sf>
+<sf unit="wavelength" N="494.2448" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="494.4379" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="495.7088" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="504.3382" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="507.2214" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="509.2339" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="511.1724" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="516.1379" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="517.7338" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="519.1941" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="520.8100" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="532.4006" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 6s</sf>
+<sf unit="wavelength" N="533.058" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="533.058" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="533.116" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="533.222" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="534.5590" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="537.5845" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="537.9063" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="538.0848" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="538.3268" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="539.4110" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="541.0707" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="541.7278" E="-9">O II 2s 2p4 - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="542.5147" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="543.669" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 6s</sf>
+<sf unit="wavelength" N="543.729" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 6s</sf>
+<sf unit="wavelength" N="543.837" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 6s</sf>
+<sf unit="wavelength" N="546.2558" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(3P) 3d</sf>
+<sf unit="wavelength" N="557.889" E="-9">O I 2s2 2p4 - 2s2 2p4</sf>
+<sf unit="wavelength" N="558.4782" E="-9">O II 2s2 2p2(1S) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="559.392" E="-9">O III 2s2 2p(2P&deg;) 3s - 2s2 2p(2P&deg;) 3p</sf>
+<sf unit="wavelength" N="559.946" E="-9">O V 1s2 2s 3p - 1s2 2s 3d</sf>
+<sf unit="wavelength" N="561.2619" E="-9">O II 2s2 2p2(1S) 3s - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="561.5030" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="575.5513" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="576.2606" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="578.5392" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="578.5392" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="581.1854" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="584.7853" E="-9">O II 2s2 2p2(3P) 5p - 2s2 2p2(1D) 5s</sf>
+<sf unit="wavelength" N="590.4714" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="596.004" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="596.004" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="596.023" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="596.023" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="596.023" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5d</sf>
+<sf unit="wavelength" N="599.694" E="-9">O I</sf>
+<sf unit="wavelength" N="604.790" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 6s</sf>
+<sf unit="wavelength" N="604.811" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 6s</sf>
+<sf unit="wavelength" N="604.816" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 6s</sf>
+<sf unit="wavelength" N="608.2908" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1S) 3s</sf>
+<sf unit="wavelength" N="610.5076" E="-9">O II 2s2 2p2(3P) 3p - 2s2 2p2(1S) 3s</sf>
+<sf unit="wavelength" N="610.796" E="-9">O I</sf>
+<sf unit="wavelength" N="611.4679" E="-9">O II 2s2 2p2(3P) 4s - 2s 2p3(5S&deg;) 3s</sf>
+<sf unit="wavelength" N="615.4269" E="-9">O II 2s2 2p2(3P) 4s - 2s 2p3(5S&deg;) 3s</sf>
+<sf unit="wavelength" N="615.768" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4d</sf>
+<sf unit="wavelength" N="615.847" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4d</sf>
+<sf unit="wavelength" N="615.988" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4d</sf>
+<sf unit="wavelength" N="619.9637" E="-9">O II 2s 2p4 - 2s2 2p2(1D) 3p</sf>
+<sf unit="wavelength" N="621.5969" E="-9">O II 2s2 2p2(3P) 4s - 2s 2p3(5S&deg;) 3s</sf>
+<sf unit="wavelength" N="625.856" E="-9">O I</sf>
+<sf unit="wavelength" N="626.328" E="-9">O I</sf>
+<sf unit="wavelength" N="635.9719" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="636.810" E="-9">O I</sf>
+<sf unit="wavelength" N="637.608" E="-9">O I</sf>
+<sf unit="wavelength" N="645.538" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5s</sf>
+<sf unit="wavelength" N="645.622" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5s</sf>
+<sf unit="wavelength" N="645.776" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5s</sf>
+<sf unit="wavelength" N="645.8831" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="645.9591" E="-9">O II 2s2 2p2(1D) 4fG - 2s2 2p2(1D2) 6g</sf>
+<sf unit="wavelength" N="645.9591" E="-9">O II 2s2 2p2(1D) 4fG - 2s2 2p2(1D2) 6g</sf>
+<sf unit="wavelength" N="645.9591" E="-9">O II 2s2 2p2(1D) 4fG - 2s2 2p2(1D2) 6g</sf>
+<sf unit="wavelength" N="647.3212" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="647.3212" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="647.5680" E="-9">O II 2s2 2p2(1D) 4fF - 2s2 2p2(1D2) 6g</sf>
+<sf unit="wavelength" N="647.7063" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="647.9700" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="648.5771" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="648.6885" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 6g</sf>
+<sf unit="wavelength" N="648.8253" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 6g</sf>
+<sf unit="wavelength" N="649.3718" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="649.7597" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="649.7597" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="650.0212" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="650.204" E="-9">O V 1s2 2p(2P&deg;3/2) 3p - 1s2 2p(2P&deg;3/2) 3d</sf>
+<sf unit="wavelength" N="650.2624" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P0) 6g</sf>
+<sf unit="wavelength" N="650.3206" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P0) 6g</sf>
+<sf unit="wavelength" N="650.3984" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P1) 6g</sf>
+<sf unit="wavelength" N="650.4247" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P1) 6g</sf>
+<sf unit="wavelength" N="650.7825" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="651.1510" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 6g</sf>
+<sf unit="wavelength" N="651.2421" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 6g</sf>
+<sf unit="wavelength" N="651.2551" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="653.7634" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="653.9363" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="654.1176" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="655.1953" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="655.2408" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="655.3567" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="655.6430" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="655.7656" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="655.7879" E="-9">O II 2s2 2p2(1D) 4fH - 2s2 2p2(1D2) 6g</sf>
+<sf unit="wavelength" N="655.7879" E="-9">O II 2s2 2p2(1D) 4fH - 2s2 2p2(1D2) 6g</sf>
+<sf unit="wavelength" N="655.7879" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="656.0872" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 6g</sf>
+<sf unit="wavelength" N="656.2181" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P0) 6g</sf>
+<sf unit="wavelength" N="656.2181" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(3P) 4fG</sf>
+<sf unit="wavelength" N="656.7097" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="657.2915" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="659.0826" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(3P) 4fD</sf>
+<sf unit="wavelength" N="660.673" E="-9">O I</sf>
+<sf unit="wavelength" N="662.9215" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="664.2888" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="664.8185" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P1) 6g</sf>
+<sf unit="wavelength" N="665.4400" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="665.567" E="-9">O I</sf>
+<sf unit="wavelength" N="666.8508" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="667.9706" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="671.9606" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="672.3254" E="-9">O II 2s2 2p2(3P) 3s - 2s2 2p2(3P) 3p</sf>
+<sf unit="wavelength" N="677.6843" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="684.8702" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="687.1380" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="688.6811" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="689.7011" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="690.8348" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="690.9778" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="691.2468" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="692.4265" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="693.7932" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="700.385" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4d</sf>
+<sf unit="wavelength" N="700.416" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4d</sf>
+<sf unit="wavelength" N="708.5928" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="711.2043" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="713.0850" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="714.6447" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="715.3058" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="715.8063" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="715.867" E="-9">O I 2s2 2p3(2D&deg;) 3s - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="716.9809" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="718.4071" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="720.4191" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="723.1134" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="725.4716" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="725.615" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5s</sf>
+<sf unit="wavelength" N="725.645" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5s</sf>
+<sf unit="wavelength" N="725.653" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 5s</sf>
+<sf unit="wavelength" N="726.1282" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="726.9633" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="727.9443" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="728.0264" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="728.2263" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="728.9902" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="729.4138" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="729.4971" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="729.8320" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="730.0123" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="730.6182" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="731.5129" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="732.1003" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="732.194" E="-9">O II 2s2 2p3 - 2s2 2p3</sf>
+<sf unit="wavelength" N="733.221" E="-9">O II 2s2 2p3 - 2s2 2p3</sf>
+<sf unit="wavelength" N="733.221" E="-9">O II 2s2 2p3 - 2s2 2p3</sf>
+<sf unit="wavelength" N="734.8391" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="734.8919" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="735.7388" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="736.3675" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="736.5074" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="736.6964" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="736.9724" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="737.1047" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="737.7018" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="738.3151" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="738.5778" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="738.9359" E="-9">O II 2s2 2p2(1D) 3d - 2s2 2p2(1D) 4p</sf>
+<sf unit="wavelength" N="740.9381" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="740.9861" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="744.0188" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="747.850" E="-9">O I</sf>
+<sf unit="wavelength" N="747.930" E="-9">O I</sf>
+<sf unit="wavelength" N="748.114" E="-9">O I</sf>
+<sf unit="wavelength" N="748.273" E="-9">O I</sf>
+<sf unit="wavelength" N="752.9084" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="753.2694" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="755.6852" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="756.7565" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="760.0346" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="760.1307" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="760.4903" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="762.9560" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="763.0568" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="765.0710" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="765.1663" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="767.9057" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="770.887" E="-9">O I</sf>
+<sf unit="wavelength" N="777.408" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 3p</sf>
+<sf unit="wavelength" N="777.631" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 3p</sf>
+<sf unit="wavelength" N="777.753" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 3p</sf>
+<sf unit="wavelength" N="788.844" E="-9">O I</sf>
+<sf unit="wavelength" N="789.6781" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="790.0625" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="794.533" E="-9">O I</sf>
+<sf unit="wavelength" N="794.936" E="-9">O I</sf>
+<sf unit="wavelength" N="794.974" E="-9">O I</sf>
+<sf unit="wavelength" N="795.299" E="-9">O I</sf>
+<sf unit="wavelength" N="795.435" E="-9">O I</sf>
+<sf unit="wavelength" N="798.414" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(2D&deg;) 3s</sf>
+<sf unit="wavelength" N="798.460" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(2D&deg;) 3s</sf>
+<sf unit="wavelength" N="798.918" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(2D&deg;) 3s</sf>
+<sf unit="wavelength" N="798.953" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(2D&deg;) 3s</sf>
+<sf unit="wavelength" N="799.727" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(2D&deg;) 3s</sf>
+<sf unit="wavelength" N="801.5361" E="-9">O II 2s2 2p2(3P) 4s - 2s2 2p2(1S) 3p</sf>
+<sf unit="wavelength" N="822.408" E="-9">O I 2s2 2p3(2D&deg;) 3s - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="822.991" E="-9">O I 2s2 2p3(2D&deg;) 3s - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="823.228" E="-9">O I 2s2 2p3(2D&deg;) 3s - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="823.526" E="-9">O I 2s2 2p3(2D&deg;) 3s - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="823.761" E="-9">O I 2s2 2p3(2D&deg;) 3s - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="837.8143" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="840.5679" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="842.848" E="-9">O I</sf>
+<sf unit="wavelength" N="844.857" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 3p</sf>
+<sf unit="wavelength" N="844.868" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 3p</sf>
+<sf unit="wavelength" N="844.908" E="-9">O I 2s2 2p3(4S&deg;) 3s - 2s2 2p3(4S&deg;) 3p</sf>
+<sf unit="wavelength" N="861.5685" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="868.8474" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="868.9539" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="870.1175" E="-9">O II 2s2 2p2(3P) 3d - 2s2 2p2(3P) 4p</sf>
+<sf unit="wavelength" N="870.9439" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="871.0905" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="876.4434" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="876.8916" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="878.6700" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="879.1241" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="882.285" E="-9">O I 2s2 2p3(2D&deg;) 3s - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="884.9938" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="885.9478" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="886.4300" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="888.8753" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="900.0094" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="900.0350" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="905.273" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="905.950" E="-9">O I</sf>
+<sf unit="wavelength" N="908.080" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="910.745" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="911.363" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="911.363" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="912.079" E="-9">O I</sf>
+<sf unit="wavelength" N="913.722" E="-9">O I</sf>
+<sf unit="wavelength" N="915.265" E="-9">O I</sf>
+<sf unit="wavelength" N="915.399" E="-9">O I</sf>
+<sf unit="wavelength" N="915.852" E="-9">O I</sf>
+<sf unit="wavelength" N="920.222" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="923.876" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="924.118" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="926.335" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="926.338" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="926.348" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="926.512" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="926.521" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="926.531" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="926.848" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="926.855" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="930.910" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="931.968" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="940.177" E="-9">O I</sf>
+<sf unit="wavelength" N="942.030" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="942.407" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="946.050" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="948.376" E="-9">O I</sf>
+<sf unit="wavelength" N="948.548" E="-9">O I 2s2 2p3(2D&deg;) 3s - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="949.003" E="-9">O I</sf>
+<sf unit="wavelength" N="949.339" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="949.531" E="-9">O I</sf>
+<sf unit="wavelength" N="950.058" E="-9">O I</sf>
+<sf unit="wavelength" N="950.191" E="-9">O I</sf>
+<sf unit="wavelength" N="950.820" E="-9">O I</sf>
+<sf unit="wavelength" N="952.457" E="-9">O I</sf>
+<sf unit="wavelength" N="952.597" E="-9">O I</sf>
+<sf unit="wavelength" N="952.657" E="-9">O I</sf>
+<sf unit="wavelength" N="953.089" E="-9">O I</sf>
+<sf unit="wavelength" N="955.637" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="955.637" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fD</sf>
+<sf unit="wavelength" N="955.908" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fG</sf>
+<sf unit="wavelength" N="959.717" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="961.444" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 5s</sf>
+<sf unit="wavelength" N="962.477" E="-9">O I 2s2 2p3(4S&deg;) 4d - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="962.793" E="-9">O I 2s2 2p3(4S&deg;) 4d - 2s2 2p3(2D&deg;) 3p</sf>
+<sf unit="wavelength" N="965.105" E="-9">O II 2s2 2p2(1D) 3p - 2s2 2p2(3P) 4s</sf>
+<sf unit="wavelength" N="968.003" E="-9">O I</sf>
+<sf unit="wavelength" N="969.732" E="-9">O I 2s2 2p3(4S&deg;) 4s - 2s2 2p3(4S&deg;) 6p</sf>
+<sf unit="wavelength" N="969.757" E="-9">O I 2s2 2p3(4S&deg;) 4s - 2s2 2p3(4S&deg;) 6p</sf>
+<sf unit="wavelength" N="974.417" E="-9">O I</sf>
+<sf unit="wavelength" N="976.121" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="976.333" E="-9">O I</sf>
+<sf unit="wavelength" N="980.730" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="980.905" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="980.942" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="989.383" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="989.687" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="989.830" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="990.401" E="-9">O II 2s2 2p2(1D) 4fG - 2s2 2p2(1D2) 5g</sf>
+<sf unit="wavelength" N="990.401" E="-9">O II 2s2 2p2(1D) 4fG - 2s2 2p2(1D2) 5g</sf>
+<sf unit="wavelength" N="990.401" E="-9">O II 2s2 2p2(1D) 4fG - 2s2 2p2(1D2) 5g</sf>
+<sf unit="wavelength" N="990.618" E="-9">O II 2s2 2p2(3P) 4d - 2s2 2p2(3P) 5fF</sf>
+<sf unit="wavelength" N="991.177" E="-9">O I</sf>
+<sf unit="wavelength" N="993.267" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="993.267" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="993.621" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="993.918" E="-9">O II 2s2 2p2(3P1) 5g - 2s2 2p2(1D) 4fF</sf>
+<sf unit="wavelength" N="993.970" E="-9">O I</sf>
+<sf unit="wavelength" N="994.066" E="-9">O II 2s2 2p2(1D) 4fF - 2s2 2p2(1D2) 5g</sf>
+<sf unit="wavelength" N="994.066" E="-9">O II 2s2 2p2(1D) 4fF - 2s2 2p2(1D2) 5g</sf>
+<sf unit="wavelength" N="994.066" E="-9">O II 2s2 2p2(1D) 4fF - 2s2 2p2(1D2) 5g</sf>
+<sf unit="wavelength" N="994.314" E="-9">O I</sf>
+<sf unit="wavelength" N="995.349" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="995.946" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="996.220" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="996.535" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="998.517" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="999.128" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="999.248" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="999.301" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P0) 5g</sf>
+<sf unit="wavelength" N="999.301" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="999.418" E="-9">O II 2s2 2p2(3P) 4fD - 2s2 2p2(3P0) 5g</sf>
+<sf unit="wavelength" N="999.805" E="-9">O I</sf>
+<sf unit="wavelength" N="1001.163" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="1001.361" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="1003.564" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="1005.930" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P0) 5g</sf>
+<sf unit="wavelength" N="1006.284" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P0) 5g</sf>
+<sf unit="wavelength" N="1007.656" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1008.071" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1010.025" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1010.135" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1010.396" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1010.449" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1010.887" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1011.040" E="-9">O II 2s2 2p2(1D) 4fH - 2s2 2p2(1D2) 5g</sf>
+<sf unit="wavelength" N="1011.040" E="-9">O II 2s2 2p2(1D) 4fH - 2s2 2p2(1D2) 5g</sf>
+<sf unit="wavelength" N="1011.040" E="-9">O II 2s2 2p2(1D) 4fH - 2s2 2p2(1D2) 5g</sf>
+<sf unit="wavelength" N="1011.314" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1011.676" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1011.967" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1012.047" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1012.172" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P2) 5g</sf>
+<sf unit="wavelength" N="1017.035" E="-9">O II 2s2 2p2(3P) 4fG - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="1027.041" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="1027.467" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="1033.049" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P1) 5g</sf>
+<sf unit="wavelength" N="1042.404" E="-9">O I</sf>
+<sf unit="wavelength" N="1044.508" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P0) 5g</sf>
+<sf unit="wavelength" N="1044.793" E="-9">O II 2s2 2p2(3P) 4fF - 2s2 2p2(3P0) 5g</sf>
+<sf unit="wavelength" N="1112.291" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="1128.943" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="1129.000" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="1129.011" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="1129.041" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 3d</sf>
+<sf unit="wavelength" N="1129.819" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4s</sf>
+<sf unit="wavelength" N="1130.077" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4s</sf>
+<sf unit="wavelength" N="1130.547" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4s</sf>
+<sf unit="wavelength" N="1136.180" E="-9">O I</sf>
+<sf unit="wavelength" N="1136.573" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="1166.625" E="-9">O II 2s2 2p2(3P) 4p - 2s2 2p2(3P) 4d</sf>
+<sf unit="wavelength" N="1246.743" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 5f</sf>
+<sf unit="wavelength" N="1246.743" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 5f</sf>
+<sf unit="wavelength" N="1246.743" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 5f</sf>
+<sf unit="wavelength" N="1257.348" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 5f</sf>
+<sf unit="wavelength" N="1257.348" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 5f</sf>
+<sf unit="wavelength" N="1299.432" E="-9">O I</sf>
+<sf unit="wavelength" N="1308.049" E="-9">O I 2s2 2p3(4S&deg;) 4s - 2s2 2p3(4S&deg;) 5p</sf>
+<sf unit="wavelength" N="1316.749" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4s</sf>
+<sf unit="wavelength" N="1316.845" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4s</sf>
+<sf unit="wavelength" N="1316.871" E="-9">O I 2s2 2p3(4S&deg;) 3p - 2s2 2p3(4S&deg;) 4s</sf>
+<sf unit="wavelength" N="1621.649" E="-9">O I</sf>
+<sf unit="wavelength" N="1797.161" E="-9">O I</sf>
+<sf unit="wavelength" N="1802.613" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 4f</sf>
+<sf unit="wavelength" N="1802.613" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 4f</sf>
+<sf unit="wavelength" N="1802.613" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 4f</sf>
+<sf unit="wavelength" N="1804.641" E="-9">O I</sf>
+<sf unit="wavelength" N="1804.712" E="-9">O I</sf>
+<sf unit="wavelength" N="1805.116" E="-9">O I</sf>
+<sf unit="wavelength" N="1823.421" E="-9">O I 2s2 2p3(4S&deg;) 4p - 2s2 2p3(4S&deg;) 6s</sf>
+<sf unit="wavelength" N="1824.861" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 4f</sf>
+<sf unit="wavelength" N="1824.861" E="-9">O I 2s2 2p3(4S&deg;) 3d - 2s2 2p3(4S&deg;) 4f</sf>
+<sf unit="wavelength" N="2618.070" E="-9">O I</sf>
+</specialfrequencies>

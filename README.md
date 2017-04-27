@@ -1,5 +1,8 @@
 # EM-Spectrum-Visualiser
 A multi-purpose graphical tool to explore, learn, calculate and visualise everything around the electromagnetic spectrum.
+
+([Developers needed!](#Help-wanted))
+
 Some examples:
 - EM spectrum bands visualisation and knowledge (radio waves, micro waves, infrared, visible spectrum, ultra violet, X-rays, gamma rays, cosmic radiation)
 - frequency wavelength calculator / positionor
@@ -31,6 +34,7 @@ or
 [here on e-motiv](http://attic.e-motiv.net/em-spectrum) 
 
 ## Help wanted
+You want to take over the torch (more or less) ?
 If you're interested (see end of History above) and you don't know where to start, [mail me](mailto:Ruben@e-motiv.net) or write me a message here.
 
 

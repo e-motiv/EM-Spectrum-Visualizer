@@ -44,6 +44,8 @@ Mostly, if you start fiddling with script/base.js you will understand everything
 - script/base.js: Where all the magic happens!
 - content: folder with all graphic and text/html files
 - development: folder with some files to generate the SVGs that come into the content folder or the ones once used for it in case there are some extensions to be made. (In other words, the tool itself is used to make the SVGs and see how well they fit etc.)
+  - development/todo.txt: All the TODO's that are not inline the code
+  - development/decsions.txt: Decisiosn that have been made and are important to remember not to make the same mistakes later
 - style: css and style-only related mages
 
 

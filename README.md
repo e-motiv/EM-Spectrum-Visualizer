@@ -17,6 +17,11 @@ Some examples:
 ## Screenshot
 ![Screenshot](/_screenshot.png?raw=true "Sreenshot EM SPectrum Visualiser")
 
+## Running version / Status
+You can use it already for different purposes, though it's not really ready and the data is not always right (like Y-axis values or missing data).
+
+[Running project page](https://e-motiv.github.io/EM-Spectrum-Visualiser/)
+
 ## History
 A long time ago e-motiv.et (aka Ruben Goethals) had some free time on his hands, so he created the same tool in Flash (see link below). Flash together with actionscript was a promising platform for graphical presentations. Even today (2017) its benifits and possibilities are not matched. Unfortunatly, someone (like a certain former director of Apple) has made it possible to fade out Flash from popular acceptance. (You won't hear this from all the Flash haters out there though, but well..)
 

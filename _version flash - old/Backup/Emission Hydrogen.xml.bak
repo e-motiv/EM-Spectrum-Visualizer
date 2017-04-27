@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<specialfrequencies>
+<!-- Lyman, Balmer, PAschen, Bracket -->
+	<sf  unit="wavelength" N="7460" E="-9">H (Pfund 6 7460nm)</sf>
+	<sf  unit="wavelength" N="4650" E="-9">H (Pfund 7 4650nm)</sf>
+	<sf  unit="wavelength" N="3740" E="-9">H (Pfund 8 3740nm)</sf>
+	<sf  unit="wavelength" N="3300" E="-9">H (Pfund 9 3300nm)</sf>
+	<sf  unit="wavelength" N="3040" E="-9">H (Pfund 10 3040nm)</sf>
+	<sf  unit="wavelength" N="2280" E="-9">H (Pfund inf 2280nm)</sf>
+	<sf  unit="wavelength" N="4050" E="-9">H (Brackett 5 4050nm)</sf>
+	<sf  unit="wavelength" N="2920" E="-9">H (Brackett 6 2920nm)</sf>
+	<sf  unit="wavelength" N="2170" E="-9">H (Brackett 7 2170nm)</sf>
+	<sf  unit="wavelength" N="1940" E="-9">H (Brackett 8 1940nm)</sf>
+	<sf  unit="wavelength" N="1820" E="-9">H (Brackett 9 1820nm)</sf>
+	<sf  unit="wavelength" N="1460" E="-9">H (Brackett inf 1460nm)</sf>
+	<sf  unit="wavelength" N="1870" E="-9">H (Paschen 4 1870nm)</sf>
+	<sf  unit="wavelength" N="1280" E="-9">H (Paschen 5 1280nm)</sf>
+	<sf  unit="wavelength" N="1090" E="-9">H (Paschen 6 1090nm)</sf>
+	<sf  unit="wavelength" N="1000" E="-9">H (Paschen 7 1000nm)</sf>
+	<sf  unit="wavelength" N="954" E="-9">H (Paschen 8 954nm)</sf>
+	<sf  unit="wavelength" N="820" E="-9">H (Paschen inf 820nm)</sf>
+	<sf  unit="wavelength" N="656" E="-9">H (Balmer 3 656nm)</sf>
+	<sf  unit="wavelength" N="486" E="-9">H (Balmer 4 486nm)</sf>
+	<sf  unit="wavelength" N="434" E="-9">H (Balmer 5 434nm)</sf>
+	<sf  unit="wavelength" N="410" E="-9">H (Balmer 6 410nm)</sf>
+	<sf  unit="wavelength" N="397" E="-9">H (Balmer 7 397nm)</sf>
+	<sf  unit="wavelength" N="365" E="-9">H (Balmer inf 365nm)</sf>
+	<sf  unit="wavelength" N="122" E="-9">H (Lyman 2 122nm)</sf>
+	<sf  unit="wavelength" N="103" E="-9">H (Lyman 3 103nm)</sf>
+	<sf  unit="wavelength" N="97.2" E="-9">H (Lyman 4 97.2nm)</sf>
+	<sf  unit="wavelength" N="94.9" E="-9">H (Lyman 5 94.9nm)</sf>
+	<sf  unit="wavelength" N="93.7" E="-9">H (Lyman 6 93.7nm)</sf>
+	<sf  unit="wavelength" N="91.1" E="-9">H (Lyman inf. 91.1nm)</sf>
+
+
+
+</specialfrequencies>

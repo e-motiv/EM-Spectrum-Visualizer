@@ -1,0 +1,7 @@
+<?xml versiohref="1.0"?>
+<menu>
+	<mI href="attenuationAtmosphere" title="Att Atmosphere"> </mI>
+	<mI href="bbSun" title="Sun in space"> </mI>
+	<mI href="bbSunEarth" title="Sun on earth"> </mI>
+	<mI href="bbtheoretical" title="BB Theoratical"> </mI>
+</menu>

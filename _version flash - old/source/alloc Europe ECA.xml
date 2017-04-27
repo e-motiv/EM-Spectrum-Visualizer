@@ -1,0 +1,581 @@
+<?xml version="1.0"?>
+<EMData>
+<values>
+
+<fr nl="9.0" el="3" nh="14.0" eh="3" ><all>RADIONAVIGATION</all></fr>
+<fr nl="14.0" el="3" nh="1995" eh="1" ><all>FIXED</all><all>MARITIME MOBILE</all></fr>
+<fr nl="1995" el="1" nh="2005" eh="1" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all></fr>
+<fr nl="20.05" el="3" nh="70.0" eh="3" ><all>FIXED</all><all>MARITIME MOBILE</all></fr>
+<fr nl="70.0" el="3" nh="72.0" eh="3" ><all>RADIONAVIGATION</all></fr>
+<fr nl="72.0" el="3" nh="84.0" eh="3" ><all>FIXED</all><all>MARITIME MOBILE</all><all>RADIONAVIGATION</all></fr>
+<fr nl="84.0" el="3" nh="86.0" eh="3" ><all>RADIONAVIGATION</all></fr>
+<fr nl="86.0" el="3" nh="90.0" eh="3" ><all>FIXED</all><all>MARITIME MOBILE</all><all>RADIONAVIGATION</all></fr>
+<fr nl="90.0" el="3" nh="110.0" eh="3" ><all>RADIONAVIGATION</all><all>Fixed</all></fr>
+<fr nl="110.0" el="3" nh="112.0" eh="3" ><all>FIXED</all><all>MARITIME MOBILE</all><all>RADIONAVIGATION</all></fr>
+<fr nl="112.0" el="3" nh="115.0" eh="3" ><all>RADIONAVIGATION</all></fr>
+<fr nl="115.0" el="3" nh="117.6" eh="3" ><all>RADIONAVIGATION</all><all>Fixed</all><all>Maritime Mobile</all></fr>
+<fr nl="117.6" el="3" nh="126.0" eh="3" ><all>FIXED</all><all>MARITIME MOBILE</all><all>RADIONAVIGATION</all></fr>
+<fr nl="126.0" el="3" nh="129.0" eh="3" ><all>RADIONAVIGATION</all></fr>
+<fr nl="129.0" el="3" nh="130.0" eh="3" ><all>FIXED</all><all>MARITIME MOBILE</all><all>RADIONAVIGATION</all></fr>
+<fr nl="130.0" el="3" nh="148.5" eh="3" ><all>FIXED</all><all>MARITIME MOBILE</all></fr>
+<fr nl="148.5" el="3" nh="255.0" eh="3" ><all>BROADCASTING</all></fr>
+<fr nl="255.0" el="3" nh="283.5" eh="3" ><all>AERONAUTICAL RADIONAVIGATION</all></fr>
+<fr nl="283.5" el="3" nh="315.0" eh="3" ><all>AERONAUTICAL RADIONAVIGATION</all><all>MARITIME RADIONAVIGATION</all></fr>
+<fr nl="315.0" el="3" nh="325.0" eh="3" ><all>AERONAUTICAL RADIONAVIGATION</all><all>Maritime Radionavigation</all></fr>
+<fr nl="325.0" el="3" nh="405.0" eh="3" ><all>AERONAUTICAL RADIONAVIGATION</all></fr>
+<fr nl="405.0" el="3" nh="415.0" eh="3" ><all>RADIONAVIGATION</all></fr>
+<fr nl="415.0" el="3" nh="435.0" eh="3" ><all>AERONAUTICAL RADIONAVIGATION</all><all>MARITIME MOBILE</all></fr>
+<fr nl="435.0" el="3" nh="495.0" eh="3" ><all>MARITIME MOBILE</all><all>Aeronautical Radionavigation</all></fr>
+<fr nl="495.0" el="3" nh="505.0" eh="3" ><all>MOBILE (distress and calling)</all><all>GMDSS</all></fr>
+<fr nl="505.0" el="3" nh="526.5" eh="3" ><all>AERONAUTICAL RADIONAVIGATION</all><all>MARITIME MOBILE</all><all>Beacons (aeronautical)</all><all>Maritime</all><all>Maritime communications</all><all>NAVTEX</all></fr>
+<fr nl="526.5" el="3" nh="1606.5" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="1606.5" el="3" nh="1625.0" eh="3" ><all>FIXED</all><all>LAND MOBILE</all><all>MARITIME MOBILE</all></fr>
+<fr nl="1625.0" el="3" nh="1635.0" eh="3" ><all>RADIOLOCATION</all></fr>
+<fr nl="1635.0" el="3" nh="1800.0" eh="3" ><all>FIXED</all><all>LAND MOBILE</all><all>MARITIME MOBILE</all></fr>
+<fr nl="1800.0" el="3" nh="1810.0" eh="3" ><all>RADIOLOCATION</all></fr>
+<fr nl="1810.0" el="3" nh="1850.0" eh="3" ><all>AMATEUR</all></fr>
+<fr nl="1850.0" el="3" nh="2000.0" eh="3" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="2000.0" el="3" nh="2025.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all></fr>
+<fr nl="2025.0" el="3" nh="2045.0" eh="3" ><all>FIXED</all><all>MOBILE</all><all>MOBILE except aeronautical mobile (R)</all></fr>
+<fr nl="2045.0" el="3" nh="2160.0" eh="3" ><all>FIXED</all><all>LAND MOBILE</all><all>MARITIME MOBILE</all></fr>
+<fr nl="2160.0" el="3" nh="2170.0" eh="3" ><all>RADIOLOCATION</all><all>Radiolocation (civil)</all><all>Radiolocation (military)</all></fr>
+<fr nl="2170.0" el="3" nh="2173.5" eh="3" ><all>MARITIME MOBILE</all><all>Maritime</all></fr>
+<fr nl="2173.5" el="3" nh="2190.5" eh="3" ><all>MOBILE (distress and calling)</all><all>DSC</all><all>GMDSS</all><all>SAR (communications)</all></fr>
+<fr nl="2190.5" el="3" nh="2194.0" eh="3" ><all>MARITIME MOBILE</all><all>Maritime</all></fr>
+<fr nl="2194.0" el="3" nh="2300.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all></fr>
+<fr nl="2300.0" el="3" nh="2498.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all></fr>
+<fr nl="2498.0" el="3" nh="2501.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all></fr>
+<fr nl="2501.0" el="3" nh="2502.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all><all>Space Research</all></fr>
+<fr nl="2502.0" el="3" nh="2625.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all><all>Defence systems</all><all>Radiolocation (civil)</all><all>Radiolocation (military)</all></fr>
+<fr nl="2625.0" el="3" nh="2650.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all></fr>
+<fr nl="2650.0" el="3" nh="2850.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all></fr>
+<fr nl="2850.0" el="3" nh="3025.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all></fr>
+<fr nl="3025.0" el="3" nh="3155.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all></fr>
+<fr nl="3155.0" el="3" nh="3200.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all></fr>
+<fr nl="3200.0" el="3" nh="3230.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all></fr>
+<fr nl="3230.0" el="3" nh="3400.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="3400.0" el="3" nh="3500.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="3500.0" el="3" nh="3800.0" eh="3" ><all>AMATEUR</all><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>Amateur</all><all>Defence systems</all></fr>
+<fr nl="3800.0" el="3" nh="3900.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>FIXED</all><all>LAND MOBILE</all></fr>
+<fr nl="3900.0" el="3" nh="3950.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all></fr>
+<fr nl="3950.0" el="3" nh="4000.0" eh="3" ><all>BROADCASTING</all><all>FIXED</all><all>Broadcasting</all><all>Defence systems</all></fr>
+<fr nl="4000.0" el="3" nh="4063.0" eh="3" ><all>FIXED</all><all>MARITIME MOBILE</all><all>Maritime</all></fr>
+<fr nl="4063.0" el="3" nh="4438.0" eh="3" ><all>MARITIME MOBILE</all><all>DSC</all><all>Maritime</all><all>Maritime communications</all><all>SAR (communications)</all></fr>
+<fr nl="4438.0" el="3" nh="4650.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all><all>Defence systems</all><all>Euroloop</all></fr>
+<fr nl="4650.0" el="3" nh="4700.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="4700.0" el="3" nh="4750.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all></fr>
+<fr nl="4750.0" el="3" nh="4850.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>FIXED</all><all>LAND MOBILE</all></fr>
+<fr nl="4850.0" el="3" nh="4995.0" eh="3" ><all>FIXED</all><all>LAND MOBILE</all><all>Defence systems</all></fr>
+<fr nl="4995.0" el="3" nh="5003.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all></fr>
+<fr nl="5003.0" el="3" nh="5005.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all><all>Space Research</all></fr>
+<fr nl="5005.0" el="3" nh="5060.0" eh="3" ><all>BROADCASTING</all><all>FIXED</all></fr>
+<fr nl="5060.0" el="3" nh="5250.0" eh="3" ><all>FIXED</all><all>Mobile except aeronautical mobile</all></fr>
+<fr nl="5250.0" el="3" nh="5450.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="5450.0" el="3" nh="5480.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>FIXED</all><all>LAND MOBILE</all></fr>
+<fr nl="5480.0" el="3" nh="5680.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all><all>SAR (communications)</all></fr>
+<fr nl="5680.0" el="3" nh="5730.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>Aeronautical communications</all><all>Aeronautical military systems</all><all>SAR (communications)</all></fr>
+<fr nl="5730.0" el="3" nh="5900.0" eh="3" ><all>FIXED</all><all>LAND MOBILE</all><all>Defence systems</all></fr>
+<fr nl="5900.0" el="3" nh="5950.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="5950.0" el="3" nh="6200.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="6200.0" el="3" nh="6525.0" eh="3" ><all>MARITIME MOBILE</all><all>DSC</all><all>Maritime</all><all>Maritime communications</all><all>SAR (communications)</all></fr>
+<fr nl="6525.0" el="3" nh="6685.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="6685.0" el="3" nh="6765.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>Aeronautical communications</all><all>Aeronautical military systems</all></fr>
+<fr nl="6765.0" el="3" nh="7000.0" eh="3" ><all>FIXED</all><all>Land Mobile</all></fr>
+<fr nl="7000.0" el="3" nh="7100.0" eh="3" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>Amateur</all><all>Amateur-satellite</all></fr>
+<fr nl="7100.0" el="3" nh="7200.0" eh="3" ><all>AMATEUR</all><all>Amateur</all></fr>
+<fr nl="7200.0" el="3" nh="7300.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="7300.0" el="3" nh="7400.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="7400.0" el="3" nh="7450.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="7450.0" el="3" nh="8100.0" eh="3" ><all>FIXED</all><all>Land Mobile</all></fr>
+<fr nl="8100.0" el="3" nh="8195.0" eh="3" ><all>FIXED</all><all>MARITIME MOBILE</all></fr>
+<fr nl="8195.0" el="3" nh="8815.0" eh="3" ><all>MARITIME MOBILE</all></fr>
+<fr nl="8815.0" el="3" nh="8965.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="8965.0" el="3" nh="9040.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all></fr>
+<fr nl="9040.0" el="3" nh="9400.0" eh="3" ><all>FIXED</all></fr>
+<fr nl="9400.0" el="3" nh="9500.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="9500.0" el="3" nh="9900.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="9900.0" el="3" nh="9995.0" eh="3" ><all>FIXED</all><all>Defence systems</all></fr>
+<fr nl="9995.0" el="3" nh="10003.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all></fr>
+<fr nl="10003.0" el="3" nh="10005.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all><all>Space Research</all></fr>
+<fr nl="10005.0" el="3" nh="10100.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="10100.0" el="3" nh="10150.0" eh="3" ><all>AMATEUR</all><all>FIXED</all></fr>
+<fr nl="10150.0" el="3" nh="11175.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile (R)</all></fr>
+<fr nl="11175.0" el="3" nh="11275.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>Aeronautical communications</all><all>Aeronautical military systems</all></fr>
+<fr nl="11275.0" el="3" nh="11400.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="11400.0" el="3" nh="11600.0" eh="3" ><all>FIXED</all><all>Defence systems</all></fr>
+<fr nl="11600.0" el="3" nh="11650.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="11650.0" el="3" nh="12050.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="12050.0" el="3" nh="12100.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="12100.0" el="3" nh="12230.0" eh="3" ><all>FIXED</all><all>Defence systems</all></fr>
+<fr nl="12230.0" el="3" nh="13200.0" eh="3" ><all>MARITIME MOBILE</all><all>DSC</all><all>Maritime</all><all>Maritime communications</all><all>SAR (communications)</all></fr>
+<fr nl="13200.0" el="3" nh="13260.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>Aeronautical communications</all><all>Aeronautical military systems</all></fr>
+<fr nl="13260.0" el="3" nh="13360.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="13360.0" el="3" nh="13410.0" eh="3" ><all>FIXED</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="13410.0" el="3" nh="13570.0" eh="3" ><all>FIXED</all><all>Mobile except aeronautical mobile (R)</all></fr>
+<fr nl="13570.0" el="3" nh="13600.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="13600.0" el="3" nh="13800.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="13800.0" el="3" nh="13870.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="13870.0" el="3" nh="14000.0" eh="3" ><all>FIXED</all><all>Mobile except aeronautical mobile (R)</all><all>Defence systems</all></fr>
+<fr nl="14000.0" el="3" nh="14250.0" eh="3" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all></fr>
+<fr nl="14250.0" el="3" nh="14350.0" eh="3" ><all>AMATEUR</all></fr>
+<fr nl="14350.0" el="3" nh="14990.0" eh="3" ><all>FIXED</all><all>Mobile except aeronautical mobile (R)</all><all>Defence systems</all></fr>
+<fr nl="14990.0" el="3" nh="15005.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all></fr>
+<fr nl="15005.0" el="3" nh="15010.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all><all>Space Research</all></fr>
+<fr nl="15010.0" el="3" nh="15100.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>Aeronautical communications</all><all>Aeronautical military systems</all></fr>
+<fr nl="15100.0" el="3" nh="15600.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="15600.0" el="3" nh="15800.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="15800.0" el="3" nh="16360.0" eh="3" ><all>FIXED</all><all>Defence systems</all></fr>
+<fr nl="16360.0" el="3" nh="17410.0" eh="3" ><all>MARITIME MOBILE</all><all>DSC</all><all>Maritime</all><all>Maritime communications</all><all>SAR (communications)</all></fr>
+<fr nl="17410.0" el="3" nh="17480.0" eh="3" ><all>FIXED</all><all>Defence systems</all></fr>
+<fr nl="17480.0" el="3" nh="17550.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="17550.0" el="3" nh="17900.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="17900.0" el="3" nh="17970.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="17970.0" el="3" nh="18030.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>Aeronautical communications</all><all>Aeronautical military systems</all></fr>
+<fr nl="18030.0" el="3" nh="18052.0" eh="3" ><all>FIXED</all></fr>
+<fr nl="18052.0" el="3" nh="18068.0" eh="3" ><all>FIXED</all><all>Space Research</all></fr>
+<fr nl="18068.0" el="3" nh="18168.0" eh="3" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>Amateur</all><all>Amateur-satellite</all></fr>
+<fr nl="18168.0" el="3" nh="18780.0" eh="3" ><all>FIXED</all><all>Mobile except aeronautical mobile</all><all>Defence systems</all><all>Maritime communications</all></fr>
+<fr nl="18780.0" el="3" nh="18900.0" eh="3" ><all>MARITIME MOBILE</all><all>Maritime</all></fr>
+<fr nl="18900.0" el="3" nh="19020.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="19020.0" el="3" nh="19680.0" eh="3" ><all>FIXED</all><all>Defence systems</all></fr>
+<fr nl="19680.0" el="3" nh="19800.0" eh="3" ><all>MARITIME MOBILE</all><all>Maritime</all><all>Maritime communications</all></fr>
+<fr nl="19800.0" el="3" nh="19990.0" eh="3" ><all>FIXED</all><all>Defence systems</all></fr>
+<fr nl="19990.0" el="3" nh="19995.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all><all>Space Research</all><all>SAR (communications)</all><all>SAR (navigation)</all></fr>
+<fr nl="19995.0" el="3" nh="20010.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all></fr>
+<fr nl="20010.0" el="3" nh="21000.0" eh="3" ><all>FIXED</all><all>MOBILE</all><all>Defence systems</all></fr>
+<fr nl="21000.0" el="3" nh="21450.0" eh="3" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>Amateur</all><all>Amateur-satellite</all></fr>
+<fr nl="21450.0" el="3" nh="21850.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="21850.0" el="3" nh="21870.0" eh="3" ><all>FIXED</all><all>Defence systems</all></fr>
+<fr nl="21870.0" el="3" nh="21924.0" eh="3" ><all>FIXED</all><all>Defence systems</all></fr>
+<fr nl="21924.0" el="3" nh="22000.0" eh="3" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="22000.0" el="3" nh="22855.0" eh="3" ><all>MARITIME MOBILE</all><all>Maritime</all><all>Maritime communications</all></fr>
+<fr nl="22855.0" el="3" nh="23000.0" eh="3" ><all>FIXED</all></fr>
+<fr nl="23000.0" el="3" nh="23200.0" eh="3" ><all>FIXED</all><all>Mobile except aeronautical mobile (R)</all></fr>
+<fr nl="23200.0" el="3" nh="23350.0" eh="3" ><all>AERONAUTICAL MOBILE (OR)</all><all>FIXED</all></fr>
+<fr nl="23350.0" el="3" nh="24000.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="24000.0" el="3" nh="24890.0" eh="3" ><all>FIXED</all><all>LAND MOBILE</all></fr>
+<fr nl="24890.0" el="3" nh="24990.0" eh="3" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>Amateur</all><all>Amateur-satellite</all></fr>
+<fr nl="24990.0" el="3" nh="25005.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all></fr>
+<fr nl="25005.0" el="3" nh="25010.0" eh="3" ><all>STANDARD FREQUENCY AND TIME SIGNAL</all><all>Space Research</all><all>Space research</all></fr>
+<fr nl="25010.0" el="3" nh="25070.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>Defence systems</all></fr>
+<fr nl="25070.0" el="3" nh="25210.0" eh="3" ><all>MARITIME MOBILE</all><all>Maritime</all><all>Maritime communications</all></fr>
+<fr nl="25210.0" el="3" nh="25550.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>Defence systems</all></fr>
+<fr nl="25550.0" el="3" nh="25670.0" eh="3" ><all>RADIO ASTRONOMY</all><all>Radio astronomy</all></fr>
+<fr nl="25670.0" el="3" nh="26100.0" eh="3" ><all>BROADCASTING</all><all>Broadcasting</all></fr>
+<fr nl="26100.0" el="3" nh="26175.0" eh="3" ><all>MARITIME MOBILE</all><all>Maritime</all><all>Maritime communications</all></fr>
+<fr nl="26175.0" el="3" nh="27500.0" eh="3" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="27.5" el="6" nh="28.0" eh="6" ><all>FIXED</all><all>METEOROLOGICAL AIDS</all><all>MOBILE</all><all>Defence systems</all></fr>
+<fr nl="28.0" el="6" nh="29.7" eh="6" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all></fr>
+<fr nl="29.7" el="6" nh="30.005" eh="6" ><all>MOBILE</all></fr>
+<fr nl="30.005" el="6" nh="30.01" eh="6" ><all>MOBILE</all></fr>
+<fr nl="30.01" el="6" nh="37.5" eh="6" ><all>MOBILE</all></fr>
+<fr nl="37.5" el="6" nh="38.25" eh="6" ><all>MOBILE except aeronautical mobile</all><all>Radio Astronomy</all></fr>
+<fr nl="38.25" el="6" nh="39.986" eh="6" ><all>MOBILE</all></fr>
+<fr nl="39.986" el="6" nh="40.02" eh="6" ><all>MOBILE</all><all>Space Research</all></fr>
+<fr nl="40.02" el="6" nh="40.66" eh="6" ><all>MOBILE</all></fr>
+<fr nl="40.66" el="6" nh="40.7" eh="6" ><all>MOBILE</all></fr>
+<fr nl="40.7" el="6" nh="40.98" eh="6" ><all>MOBILE</all></fr>
+<fr nl="40.98" el="6" nh="41.015" eh="6" ><all>MOBILE</all><all>Space Research</all></fr>
+<fr nl="41.015" el="6" nh="44.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="44.0" el="6" nh="46.4" eh="6" ><all>MOBILE</all></fr>
+<fr nl="46.4" el="6" nh="47.0" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="47.0" el="6" nh="48.0" eh="6" ><all>LAND MOBILE</all></fr>
+<fr nl="48.0" el="6" nh="48.5" eh="6" ><all>LAND MOBILE</all></fr>
+<fr nl="48.5" el="6" nh="50.0" eh="6" ><all>LAND MOBILE</all></fr>
+<fr nl="50.0" el="6" nh="51.0" eh="6" ><all>LAND MOBILE</all><all>Amateur</all></fr>
+<fr nl="51.0" el="6" nh="52.0" eh="6" ><all>LAND MOBILE</all><all>Amateur</all></fr>
+<fr nl="52.0" el="6" nh="54.0" eh="6" ><all>LAND MOBILE</all></fr>
+<fr nl="54.0" el="6" nh="61.0" eh="6" ><all>LAND MOBILE</all></fr>
+<fr nl="61.0" el="6" nh="68.0" eh="6" ><all>LAND MOBILE</all></fr>
+<fr nl="68.0" el="6" nh="70.45" eh="6" ><all>MOBILE</all></fr>
+<fr nl="70.45" el="6" nh="74.8" eh="6" ><all>MOBILE except aeronautical mobile</all><all>Radio Astronomy</all></fr>
+<fr nl="74.8" el="6" nh="75.2" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>ILS</all></fr>
+<fr nl="75.2" el="6" nh="77.7" eh="6" ><all>MOBILE</all></fr>
+<fr nl="77.7" el="6" nh="77.8" eh="6" ><all>MOBILE</all></fr>
+<fr nl="77.8" el="6" nh="84.6" eh="6" ><all>MOBILE</all></fr>
+<fr nl="84.6" el="6" nh="85.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="85.0" el="6" nh="87.5" eh="6" ><all>MOBILE</all></fr>
+<fr nl="87.5" el="6" nh="100.0" eh="6" ><all>BROADCASTING</all></fr>
+<fr nl="100.0" el="6" nh="108.0" eh="6" ><all>BROADCASTING</all></fr>
+<fr nl="108.0" el="6" nh="117.975" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all></fr>
+<fr nl="117.975" el="6" nh="121.45" eh="6" ><all>AERONAUTICAL MOBILE (R)</all><all>Aeronautical communications</all></fr>
+<fr nl="121.45" el="6" nh="121.55" eh="6" ><all>AERONAUTICAL MOBILE</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>EPIRBs</all></fr>
+<fr nl="121.55" el="6" nh="136.0" eh="6" ><all>AERONAUTICAL MOBILE (R)</all></fr>
+<fr nl="136.0" el="6" nh="137.0" eh="6" ><all>AERONAUTICAL MOBILE (R)</all></fr>
+<fr nl="137.0" el="6" nh="137.025" eh="6" ><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>Space Operation (space-to-Earth)</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="137.025" el="6" nh="137.175" eh="6" ><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>Mobile-Satellite (space-to-Earth)</all><all>Space Operation (space-to-Earth)</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="137.175" el="6" nh="137.825" eh="6" ><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>Space Operation (space-to-Earth)</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="137.825" el="6" nh="138.0" eh="6" ><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>Mobile-Satellite (space-to-Earth)</all><all>Space Operation (space-to-Earth)</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="138.0" el="6" nh="143.6" eh="6" ><all>AERONAUTICAL MOBILE (OR)</all><all>LAND MOBILE</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="143.6" el="6" nh="143.65" eh="6" ><all>AERONAUTICAL MOBILE (OR)</all><all>LAND MOBILE</all><all>SPACE RESEARCH (space-to-Earth)</all></fr>
+<fr nl="143.65" el="6" nh="144.0" eh="6" ><all>AERONAUTICAL MOBILE (OR)</all><all>LAND MOBILE</all></fr>
+<fr nl="144.0" el="6" nh="146.0" eh="6" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>Amateur</all><all>Amateur-satellite</all></fr>
+<fr nl="146.0" el="6" nh="146.8" eh="6" ><all>MOBILE</all></fr>
+<fr nl="146.8" el="6" nh="148.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="148.0" el="6" nh="148.4" eh="6" ><all>MOBILE</all><all>MOBILE-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="148.4" el="6" nh="149.9" eh="6" ><all>MOBILE</all><all>MOBILE-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="149.9" el="6" nh="150.05" eh="6" ><all>MOBILE</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>RADIONAVIGATION-SATELLITE</all></fr>
+<fr nl="150.05" el="6" nh="151.4" eh="6" ><all>MOBILE except aeronautical mobile</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="151.4" el="6" nh="153.0" eh="6" ><all>MOBILE except aeronautical mobile</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="153.0" el="6" nh="154.0" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="154.0" el="6" nh="154.5" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="154.5" el="6" nh="154.65" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="154.65" el="6" nh="156.0" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="156.0" el="6" nh="156.5125" eh="6" ><all>MOBILE except aeronautical mobile</all><all>Maritime communications</all></fr>
+<fr nl="156.5125" el="6" nh="156.5375" eh="6" ><all>MARITIME MOBILE</all><all>DSC</all></fr>
+<fr nl="156.5375" el="6" nh="156.7625" eh="6" ><all>MOBILE except aeronautical mobile</all><all>Maritime communications</all></fr>
+<fr nl="156.7625" el="6" nh="156.8375" eh="6" ><all>MARITIME MOBILE</all><all>SAR (communications)</all></fr>
+<fr nl="156.8375" el="6" nh="157.45" eh="6" ><all>MOBILE except aeronautical mobile</all><all>Maritime communications</all></fr>
+<fr nl="157.45" el="6" nh="160.6" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="160.6" el="6" nh="160.975" eh="6" ><all>MOBILE except aeronautical mobile</all><all>Maritime communications</all></fr>
+<fr nl="160.975" el="6" nh="161.475" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="161.475" el="6" nh="162.05" eh="6" ><all>MOBILE except aeronautical mobile</all><all>AIS</all><all>Maritime communications</all></fr>
+<fr nl="162.05" el="6" nh="165.2" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="165.2" el="6" nh="165.225" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="165.225" el="6" nh="169.4" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="169.4" el="6" nh="169.825" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="169.825" el="6" nh="174.0" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="174.0" el="6" nh="216.0" eh="6" ><all>BROADCASTING</all><all>LAND MOBILE</all></fr>
+<fr nl="216.0" el="6" nh="223.0" eh="6" ><all>BROADCASTING</all></fr>
+<fr nl="223.0" el="6" nh="225.0" eh="6" ><all>BROADCASTING</all></fr>
+<fr nl="225.0" el="6" nh="230.0" eh="6" ><all>BROADCASTING</all><all>Land Mobile</all></fr>
+<fr nl="230.0" el="6" nh="235.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="235.0" el="6" nh="240.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="240.0" el="6" nh="242.95" eh="6" ><all>MOBILE</all></fr>
+<fr nl="242.95" el="6" nh="243.055" eh="6" ><all>AERONAUTICAL MOBILE</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>EPIRBs</all></fr>
+<fr nl="243.055" el="6" nh="267.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="267.0" el="6" nh="272.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="272.0" el="6" nh="273.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="273.0" el="6" nh="312.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="312.0" el="6" nh="315.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="315.0" el="6" nh="322.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="322.0" el="6" nh="328.65" eh="6" ><all>MOBILE</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="328.65" el="6" nh="335.4" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>ILS</all></fr>
+<fr nl="335.4" el="6" nh="380.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="380.0" el="6" nh="385.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="385.0" el="6" nh="387.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="387.0" el="6" nh="390.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="390.0" el="6" nh="395.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="395.0" el="6" nh="399.9" eh="6" ><all>MOBILE</all></fr>
+<fr nl="399.9" el="6" nh="400.05" eh="6" ><all>MOBILE-SATELLITE (Earth-to-space)</all><all>RADIONAVIGATION-SATELLITE</all></fr>
+<fr nl="400.05" el="6" nh="400.15" eh="6" ><all>STANDARD FREQUENCY AND TIME SIGNAL-SATELLITE</all></fr>
+<fr nl="400.15" el="6" nh="401.0" eh="6" ><all>METEOROLOGICAL-SATELLITE (Earth-to-space)</all><all>METEOROLOGICAL AIDS</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>SPACE OPERATION (space-to-Earth)</all><all>SPACE RESEARCH (space-to-Earth)</all><all>MSS Earth stations</all><all>Sondes</all></fr>
+<fr nl="401.0" el="6" nh="402.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (Earth-to-space)</all><all>METEOROLOGICAL-SATELLITE (Earth-to-space)</all><all>METEOROLOGICAL AIDS</all><all>Sondes</all><all>Weather satellites</all></fr>
+<fr nl="402.0" el="6" nh="403.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (Earth-to-space)</all><all>METEOROLOGICAL-SATELLITE (Earth-to-space)</all><all>METEOROLOGICAL AIDS</all></fr>
+<fr nl="403.0" el="6" nh="406.0" eh="6" ><all>METEOROLOGICAL AIDS</all></fr>
+<fr nl="406.0" el="6" nh="406.1" eh="6" ><all>MOBILE-SATELLITE (Earth-to-space)</all><all>EPIRBs</all></fr>
+<fr nl="406.1" el="6" nh="410.0" eh="6" ><all>LAND MOBILE</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="410.0" el="6" nh="420.0" eh="6" ><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="420.0" el="6" nh="430.0" eh="6" ><all>MOBILE except aeronautical mobile</all><all>Radiolocation</all></fr>
+<fr nl="430.0" el="6" nh="433.05" eh="6" ><all>AMATEUR</all><all>RADIOLOCATION</all></fr>
+<fr nl="433.05" el="6" nh="434.79" eh="6" ><all>AMATEUR</all><all>RADIOLOCATION</all><all>Land Mobile</all></fr>
+<fr nl="434.79" el="6" nh="438.0" eh="6" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>RADIOLOCATION</all></fr>
+<fr nl="438.0" el="6" nh="440.0" eh="6" ><all>AMATEUR</all><all>RADIOLOCATION</all></fr>
+<fr nl="440.0" el="6" nh="450.0" eh="6" ><all>MOBILE except aeronautical mobile</all><all>Radiolocation</all></fr>
+<fr nl="450.0" el="6" nh="455.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="455.0" el="6" nh="456.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="456.0" el="6" nh="459.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="459.0" el="6" nh="460.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="460.0" el="6" nh="470.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="470.0" el="6" nh="608.0" eh="6" ><all>BROADCASTING</all><all>Mobile</all></fr>
+<fr nl="608.0" el="6" nh="614.0" eh="6" ><all>BROADCASTING</all><all>Mobile</all><all>Radio Astronomy</all></fr>
+<fr nl="614.0" el="6" nh="790.0" eh="6" ><all>BROADCASTING</all><all>Mobile</all></fr>
+<fr nl="790.0" el="6" nh="838.0" eh="6" ><all>BROADCASTING</all><all>Mobile</all></fr>
+<fr nl="838.0" el="6" nh="862.0" eh="6" ><all>BROADCASTING</all><all>MOBILE</all></fr>
+<fr nl="862.0" el="6" nh="870.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="870.0" el="6" nh="876.0" eh="6" ><all>MOBILE</all></fr>
+<fr nl="876.0" el="6" nh="880.0" eh="6" ><all>MOBILE</all><all>Defence systems</all><all>GSM-R</all><all>Land mobile</all></fr>
+<fr nl="880.0" el="6" nh="890.0" eh="6" ><all>MOBILE</all><all>Defence systems</all><all>GSM</all></fr>
+<fr nl="890.0" el="6" nh="915.0" eh="6" ><all>MOBILE</all><all>Radiolocation</all><all>GSM</all></fr>
+<fr nl="915.0" el="6" nh="921.0" eh="6" ><all>MOBILE</all><all>Radiolocation</all></fr>
+<fr nl="921.0" el="6" nh="925.0" eh="6" ><all>MOBILE</all><all>Radiolocation</all><all>Defence systems</all><all>GSM-R</all><all>Land mobile</all></fr>
+<fr nl="925.0" el="6" nh="935.0" eh="6" ><all>MOBILE</all><all>Radiolocation</all><all>Defence systems</all><all>GSM</all></fr>
+<fr nl="935.0" el="6" nh="942.0" eh="6" ><all>MOBILE</all><all>Radiolocation</all><all>GSM</all></fr>
+<fr nl="942.0" el="6" nh="960.0" eh="6" ><all>MOBILE</all><all>GSM</all></fr>
+<fr nl="960.0" el="6" nh="1215.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all></fr>
+<fr nl="1215.0" el="6" nh="1240.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE (space-to-Earth) (space-to-space)</all><all>SPACE RESEARCH (active)</all></fr>
+<fr nl="1240.0" el="6" nh="1260.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE (space-to-Earth) (space-to-space)</all><all>SPACE RESEARCH (active)</all><all>Amateur</all></fr>
+<fr nl="1260.0" el="6" nh="1270.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE (space-to-Earth) (space-to-space)</all><all>SPACE RESEARCH (active)</all><all>Amateur</all><all>Amateur-Satellite</all></fr>
+<fr nl="1270.0" el="6" nh="1300.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE (space-to-Earth) (space-to-space)</all><all>SPACE RESEARCH (active)</all><all>Amateur</all></fr>
+<fr nl="1300.0" el="6" nh="1350.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>RADIOLOCATION</all><all>RADIONAVIGATION-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="1350.0" el="6" nh="1400.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>RADIOLOCATION</all></fr>
+<fr nl="1400.0" el="6" nh="1427.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Passive sensors (satellite)</all></fr>
+<fr nl="1427.0" el="6" nh="1429.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>SPACE OPERATION (Earth-to-space)</all></fr>
+<fr nl="1429.0" el="6" nh="1452.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="1452.0" el="6" nh="1492.0" eh="6" ><all>BROADCASTING</all><all>BROADCASTING-SATELLITE</all><all>Fixed</all><all>Mobile except aeronautical mobile</all><all>Satellite radio</all><all>T-DAB</all></fr>
+<fr nl="1492.0" el="6" nh="1517.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="1517.0" el="6" nh="1525.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="1525.0" el="6" nh="1530.0" eh="6" ><all>FIXED</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>SPACE OPERATION (space-to-Earth)</all></fr>
+<fr nl="1530.0" el="6" nh="1533.0" eh="6" ><all>MOBILE-SATELLITE (space-to-Earth)</all><all>SPACE OPERATION (space-to-Earth)</all><all>Earth Exploration-Satellite</all><all>Fixed</all><all>Mobile except aeronautical mobile</all></fr>
+<fr nl="1533.0" el="6" nh="1535.0" eh="6" ><all>MOBILE-SATELLITE (space-to-Earth)</all><all>SPACE OPERATION (space-to-Earth)</all><all>Earth Exploration-Satellite</all><all>Mobile except aeronautical mobile</all></fr>
+<fr nl="1535.0" el="6" nh="1544.0" eh="6" ><all>MOBILE-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="1544.0" el="6" nh="1545.0" eh="6" ><all>MOBILE-SATELLITE (space-to-Earth)</all><all>GMDSS</all></fr>
+<fr nl="1545.0" el="6" nh="1555.0" eh="6" ><all>MOBILE-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="1555.0" el="6" nh="1559.0" eh="6" ><all>MOBILE-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="1559.0" el="6" nh="1610.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE (space-to-Earth) (space-to-space)</all><all>Satellite navigation systems</all></fr>
+<fr nl="1610.0" el="6" nh="1610.6" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>MOBILE-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="1610.6" el="6" nh="1613.8" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="1613.8" el="6" nh="1626.5" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>Mobile-Satellite (space-to-Earth)</all></fr>
+<fr nl="1626.5" el="6" nh="1631.5" eh="6" ><all>MOBILE-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="1631.5" el="6" nh="1636.5" eh="6" ><all>MOBILE-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="1636.5" el="6" nh="1645.5" eh="6" ><all>MOBILE-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="1645.5" el="6" nh="1646.5" eh="6" ><all>MOBILE-SATELLITE (Earth-to-space)</all><all>GMDSS</all></fr>
+<fr nl="1646.5" el="6" nh="1656.5" eh="6" ><all>MOBILE-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="1656.5" el="6" nh="1660.0" eh="6" ><all>MOBILE-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="1660.0" el="6" nh="1660.5" eh="6" ><all>MOBILE-SATELLITE (Earth-to-space)</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="1660.5" el="6" nh="1668.4" eh="6" ><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Fixed</all><all>Mobile except aeronautical mobile</all></fr>
+<fr nl="1668.4" el="6" nh="1670.0" eh="6" ><all>FIXED</all><all>METEOROLOGICAL AIDS</all><all>RADIO ASTRONOMY</all><all>Mobile except aeronautical mobile</all></fr>
+<fr nl="1670.0" el="6" nh="1675.0" eh="6" ><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>METEOROLOGICAL AIDS</all><all>MOBILE</all><all>Fixed</all><all>Meteorology</all><all>TFTS</all></fr>
+<fr nl="1675.0" el="6" nh="1690.0" eh="6" ><all>FIXED</all><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>METEOROLOGICAL AIDS</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="1690.0" el="6" nh="1700.0" eh="6" ><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>METEOROLOGICAL AIDS</all><all>Fixed</all><all>Mobile except aeronautical mobile</all></fr>
+<fr nl="1700.0" el="6" nh="1710.0" eh="6" ><all>FIXED</all><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>Mobile except aeronautical mobile</all></fr>
+<fr nl="1710.0" el="6" nh="1785.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>GSM</all></fr>
+<fr nl="1785.0" el="6" nh="1800.0" eh="6" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="1800.0" el="6" nh="1805.0" eh="6" ><all>MOBILE</all><all>Fixed</all><all>TFTS</all></fr>
+<fr nl="1805.0" el="6" nh="1880.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>GSM</all></fr>
+<fr nl="1880.0" el="6" nh="1885.0" eh="6" ><all>MOBILE</all><all>Fixed</all><all>DECT</all></fr>
+<fr nl="1885.0" el="6" nh="1900.0" eh="6" ><all>MOBILE</all><all>Fixed</all><all>DECT</all></fr>
+<fr nl="1900.0" el="6" nh="1930.0" eh="6" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="1930.0" el="6" nh="1970.0" eh="6" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="1970.0" el="6" nh="1980.0" eh="6" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="1980.0" el="6" nh="2010.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>MOBILE-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="2010.0" el="6" nh="2025.0" eh="6" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="2025.0" el="6" nh="2110.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (Earth-to-space) (space-to-space)</all><all>FIXED</all><all>MOBILE</all><all>SPACE OPERATION (Earth-to-space) (space-to-space)</all><all>SPACE RESEARCH (Earth-to-space) (space-to-space)</all></fr>
+<fr nl="2110.0" el="6" nh="2120.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>SPACE RESEARCH (deep space) (Earth-to-space)</all></fr>
+<fr nl="2120.0" el="6" nh="2170.0" eh="6" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="2170.0" el="6" nh="2200.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>MOBILE-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="2200.0" el="6" nh="2290.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (space-to-Earth) (space-to-space)</all><all>FIXED</all><all>MOBILE</all><all>SPACE OPERATION (space-to-Earth) (space-to-space)</all><all>SPACE RESEARCH (space-to-Earth) (space-to-space)</all></fr>
+<fr nl="2290.0" el="6" nh="2300.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>SPACE RESEARCH (deep space) (space-to-Earth)</all><all>Land mobile</all></fr>
+<fr nl="2300.0" el="6" nh="2400.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>Amateur</all><all>Radiolocation</all></fr>
+<fr nl="2400.0" el="6" nh="2450.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>Amateur</all><all>Amateur-Satellite</all></fr>
+<fr nl="2450.0" el="6" nh="2483.5" eh="6" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="2483.5" el="6" nh="2500.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>MOBILE-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="2500.0" el="6" nh="2520.0" eh="6" ><all>MOBILE except aeronautical mobile</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>Fixed</all></fr>
+<fr nl="2520.0" el="6" nh="2655.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="2655.0" el="6" nh="2670.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>Earth Exploration-Satellite (passive)</all><all>Radio Astronomy</all><all>Space Research (passive)</all></fr>
+<fr nl="2670.0" el="6" nh="2690.0" eh="6" ><all>MOBILE except aeronautical mobile</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>Fixed</all><all>Radio Astronomy</all></fr>
+<fr nl="2690.0" el="6" nh="2700.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Passive sensors (satellite)</all></fr>
+<fr nl="2700.0" el="6" nh="2900.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>Radiolocation</all><all>Aeronautical navigation</all><all>Radiolocation (civil)</all><all>Radiolocation (military)</all><all>Weather radar</all></fr>
+<fr nl="2900.0" el="6" nh="3100.0" eh="6" ><all>RADIOLOCATION</all><all>RADIONAVIGATION</all></fr>
+<fr nl="3100.0" el="6" nh="3300.0" eh="6" ><all>RADIOLOCATION</all><all>Earth Exploration-Satellite (active)</all><all>Space Research (active)</all></fr>
+<fr nl="3300.0" el="6" nh="3400.0" eh="6" ><all>RADIOLOCATION</all></fr>
+<fr nl="3400.0" el="6" nh="3500.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>Amateur</all><all>Radiolocation</all></fr>
+<fr nl="3500.0" el="6" nh="3600.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all></fr>
+<fr nl="3600.0" el="6" nh="4200.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="4200.0" el="6" nh="4400.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>Altimeters</all><all>Earth exploration-satellite</all></fr>
+<fr nl="4400.0" el="6" nh="4500.0" eh="6" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="4500.0" el="6" nh="4800.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all></fr>
+<fr nl="4800.0" el="6" nh="4990.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>Radio Astronomy</all></fr>
+<fr nl="4990.0" el="6" nh="5000.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="5000.0" el="6" nh="5030.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>Radio Astronomy</all><all>Space Research (passive)</all></fr>
+<fr nl="5030.0" el="6" nh="5150.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>MLS</all></fr>
+<fr nl="5150.0" el="6" nh="5250.0" eh="6" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all></fr>
+<fr nl="5250.0" el="6" nh="5255.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>SPACE RESEARCH</all><all>Mobile</all></fr>
+<fr nl="5255.0" el="6" nh="5350.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>SPACE RESEARCH (active)</all><all>Mobile</all></fr>
+<fr nl="5350.0" el="6" nh="5450.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>EARTH EXPLORATION-SATELLITE (active)</all><all>Fixed</all><all>Radiolocation</all></fr>
+<fr nl="5450.0" el="6" nh="5460.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>EARTH EXPLORATION-SATELLITE (active)</all><all>Radiolocation</all></fr>
+<fr nl="5460.0" el="6" nh="5470.0" eh="6" ><all>RADIONAVIGATION</all><all>Radiolocation</all></fr>
+<fr nl="5470.0" el="6" nh="5650.0" eh="6" ><all>MARITIME RADIONAVIGATION</all><all>MOBILE</all><all>Radiolocation</all></fr>
+<fr nl="5650.0" el="6" nh="5725.0" eh="6" ><all>MOBILE</all><all>RADIOLOCATION</all><all>Amateur</all></fr>
+<fr nl="5725.0" el="6" nh="5830.0" eh="6" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>RADIOLOCATION</all><all>Amateur</all><all>Mobile</all></fr>
+<fr nl="5830.0" el="6" nh="5850.0" eh="6" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>RADIOLOCATION</all><all>Amateur</all><all>Amateur-Satellite (space-to-Earth)</all><all>Mobile</all></fr>
+<fr nl="5850.0" el="6" nh="5925.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all></fr>
+<fr nl="5925.0" el="6" nh="6425.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="6425.0" el="6" nh="6700.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>Earth Exploration-Satellite (passive)</all></fr>
+<fr nl="6700.0" el="6" nh="7075.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>Earth Exploration-Satellite (passive)</all></fr>
+<fr nl="7075.0" el="6" nh="7125.0" eh="6" ><all>FIXED</all><all>Earth Exploration-Satellite (passive)</all></fr>
+<fr nl="7125.0" el="6" nh="7250.0" eh="6" ><all>FIXED</all><all>MOBILE</all><all>Earth Exploration-Satellite (Earth-to-space)</all><all>Space Operation (Earth-to-space)</all><all>Space Research (Earth-to-space)</all></fr>
+<fr nl="7250.0" el="6" nh="7300.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all></fr>
+<fr nl="7300.0" el="6" nh="7450.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="7450.0" el="6" nh="7550.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="7550.0" el="6" nh="7750.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="7750.0" el="6" nh="7850.0" eh="6" ><all>FIXED</all><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="7850.0" el="6" nh="7900.0" eh="6" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="7900.0" el="6" nh="8025.0" eh="6" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all></fr>
+<fr nl="8025.0" el="6" nh="8175.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (space-to-Earth)</all><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all></fr>
+<fr nl="8175.0" el="6" nh="8215.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (space-to-Earth)</all><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>METEOROLOGICAL-SATELLITE (Earth-to-space)</all><all>MOBILE</all></fr>
+<fr nl="8215.0" el="6" nh="8400.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (space-to-Earth)</all><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all></fr>
+<fr nl="8400.0" el="6" nh="8500.0" eh="6" ><all>FIXED</all><all>SPACE RESEARCH (space-to-Earth)</all><all>Radiolocation</all></fr>
+<fr nl="8500.0" el="6" nh="8550.0" eh="6" ><all>RADIOLOCATION</all></fr>
+<fr nl="8550.0" el="6" nh="8650.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>SPACE RESEARCH (active)</all></fr>
+<fr nl="8650.0" el="6" nh="8750.0" eh="6" ><all>RADIOLOCATION</all></fr>
+<fr nl="8750.0" el="6" nh="8850.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>RADIOLOCATION</all><all>Space Research</all></fr>
+<fr nl="8850.0" el="6" nh="9000.0" eh="6" ><all>MARITIME RADIONAVIGATION</all><all>RADIOLOCATION</all><all>Space Research</all></fr>
+<fr nl="9000.0" el="6" nh="9200.0" eh="6" ><all>AERONAUTICAL RADIONAVIGATION</all><all>Radiolocation</all><all>Space Research</all></fr>
+<fr nl="9200.0" el="6" nh="9300.0" eh="6" ><all>MARITIME RADIONAVIGATION</all><all>RADIOLOCATION</all><all>Space Research</all></fr>
+<fr nl="9300.0" el="6" nh="9500.0" eh="6" ><all>RADIONAVIGATION</all><all>Radiolocation</all><all>Space Research</all></fr>
+<fr nl="9500.0" el="6" nh="9800.0" eh="6" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>SPACE RESEARCH (active)</all></fr>
+<fr nl="9800.0" el="6" nh="10000.0" eh="6" ><all>RADIOLOCATION</all><all>Space Research</all></fr>
+<fr nl="10.0" el="9" nh="10.15" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIOLOCATION</all><all>Amateur</all></fr>
+<fr nl="10.15" el="9" nh="10.3" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIOLOCATION</all><all>Amateur</all></fr>
+<fr nl="10.3" el="9" nh="10.45" eh="9" ><all>FIXED</all><all>RADIOLOCATION</all><all>Amateur</all><all>Mobile</all></fr>
+<fr nl="10.45" el="9" nh="10.5" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIOLOCATION</all><all>Amateur</all><all>Amateur-Satellite</all></fr>
+<fr nl="10.5" el="9" nh="10.55" eh="9" ><all>FIXED</all><all>MOBILE</all><all>Radiolocation</all></fr>
+<fr nl="10.55" el="9" nh="10.6" eh="9" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>Radiolocation</all></fr>
+<fr nl="10.6" el="9" nh="10.65" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Radiolocation</all></fr>
+<fr nl="10.65" el="9" nh="10.68" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="10.68" el="9" nh="10.7" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="10.7" el="9" nh="11.7" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE except aeronautical mobile</all><all>Land Mobile-Satellite (space-to-Earth)</all></fr>
+<fr nl="11.7" el="9" nh="12.5" eh="9" ><all>BROADCASTING-SATELLITE</all><all>FIXED</all><all>Mobile except aeronautical mobile</all><all>Broadcasting-satellite receivers</all></fr>
+<fr nl="12.5" el="9" nh="12.75" eh="9" ><all>FIXED-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="12.75" el="9" nh="13.25" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>FSS Earth stations</all><all>Fixed links</all></fr>
+<fr nl="13.25" el="9" nh="13.4" eh="9" ><all>AERONAUTICAL RADIONAVIGATION</all><all>EARTH EXPLORATION-SATELLITE (active)</all><all>SPACE RESEARCH (active)</all></fr>
+<fr nl="13.4" el="9" nh="13.75" eh="9" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>SPACE RESEARCH</all></fr>
+<fr nl="13.75" el="9" nh="14.0" eh="9" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>RADIOLOCATION</all><all>Space Research</all></fr>
+<fr nl="14.0" el="9" nh="14.25" eh="9" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>Mobile-Satellite (Earth-to-space) except aeronautical mobile-satellite</all><all>Space Research</all></fr>
+<fr nl="14.25" el="9" nh="14.3" eh="9" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>Mobile-Satellite (Earth-to-space) except aeronautical mobile-satellite</all><all>Space Research</all></fr>
+<fr nl="14.3" el="9" nh="14.4" eh="9" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>Mobile-Satellite (Earth-to-space) except aeronautical mobile-satellite</all></fr>
+<fr nl="14.4" el="9" nh="14.47" eh="9" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>Mobile-Satellite (Earth-to-space) except aeronautical mobile-satellite</all></fr>
+<fr nl="14.47" el="9" nh="14.5" eh="9" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>Mobile-Satellite (Earth-to-space) except aeronautical mobile-satellite</all><all>Radio Astronomy</all></fr>
+<fr nl="14.5" el="9" nh="14.8" eh="9" ><all>FIXED</all><all>MOBILE</all><all>Radio Astronomy</all></fr>
+<fr nl="14.8" el="9" nh="15.35" eh="9" ><all>FIXED</all><all>MOBILE</all><all>Radio Astronomy</all></fr>
+<fr nl="15.35" el="9" nh="15.4" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="15.4" el="9" nh="15.43" eh="9" ><all>AERONAUTICAL RADIONAVIGATION</all><all>Active sensors (satellite)</all><all>Radiolocation (civil)</all></fr>
+<fr nl="15.43" el="9" nh="15.63" eh="9" ><all>AERONAUTICAL RADIONAVIGATION</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>Active sensors (satellite)</all><all>FSS Earth stations</all><all>Radiolocation (civil)</all></fr>
+<fr nl="15.63" el="9" nh="15.7" eh="9" ><all>AERONAUTICAL RADIONAVIGATION</all><all>Active sensors (satellite)</all><all>Radiolocation (civil)</all></fr>
+<fr nl="15.7" el="9" nh="16.6" eh="9" ><all>RADIOLOCATION</all></fr>
+<fr nl="16.6" el="9" nh="17.1" eh="9" ><all>RADIOLOCATION</all><all>Space Research (Earth-to-space)</all></fr>
+<fr nl="17.1" el="9" nh="17.2" eh="9" ><all>RADIOLOCATION</all><all>Mobile</all></fr>
+<fr nl="17.2" el="9" nh="17.3" eh="9" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>MOBILE</all><all>RADIOLOCATION</all><all>SPACE RESEARCH (active)</all></fr>
+<fr nl="17.3" el="9" nh="17.7" eh="9" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>Radiolocation</all></fr>
+<fr nl="17.7" el="9" nh="18.1" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="18.1" el="9" nh="18.3" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>METEOROLOGICAL-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="18.3" el="9" nh="18.4" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="18.4" el="9" nh="18.6" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="18.6" el="9" nh="18.8" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>Earth Exploration-Satellite (passive)</all></fr>
+<fr nl="18.8" el="9" nh="19.3" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="19.3" el="9" nh="19.7" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth) (Earth-to-space)</all></fr>
+<fr nl="19.7" el="9" nh="20.1" eh="9" ><all>FIXED-SATELLITE (space-to-Earth)</all><all>Mobile-Satellite (space-to-Earth)</all></fr>
+<fr nl="20.1" el="9" nh="20.2" eh="9" ><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="20.2" el="9" nh="21.2" eh="9" ><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>FSS Earth stations</all><all>MSS Earth stations</all><all>Satellite communications (military)</all></fr>
+<fr nl="21.2" el="9" nh="21.4" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>MOBILE</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="21.4" el="9" nh="22.0" eh="9" ><all>BROADCASTING-SATELLITE</all><all>Satellite TV</all></fr>
+<fr nl="22.0" el="9" nh="22.21" eh="9" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="22.21" el="9" nh="22.5" eh="9" ><all>FIXED</all><all>MOBILE except aeronautical mobile</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Earth Exploration-Satellite (passive)</all></fr>
+<fr nl="22.5" el="9" nh="22.55" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="22.55" el="9" nh="22.6" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="22.6" el="9" nh="23.0" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="23.0" el="9" nh="23.55" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all></fr>
+<fr nl="23.55" el="9" nh="23.6" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all></fr>
+<fr nl="23.6" el="9" nh="24.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Continuum measurements</all><all>Passive sensors (satellite)</all></fr>
+<fr nl="24.0" el="9" nh="24.05" eh="9" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all></fr>
+<fr nl="24.05" el="9" nh="24.25" eh="9" ><all>RADIOLOCATION</all><all>Amateur</all><all>Earth Exploration-Satellite (active)</all><all>Fixed</all><all>Mobile</all></fr>
+<fr nl="24.25" el="9" nh="24.45" eh="9" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="24.45" el="9" nh="24.5" eh="9" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="24.5" el="9" nh="24.65" eh="9" ><all>FIXED</all></fr>
+<fr nl="24.65" el="9" nh="24.75" eh="9" ><all>FIXED</all></fr>
+<fr nl="24.75" el="9" nh="25.25" eh="9" ><all>FIXED</all></fr>
+<fr nl="25.25" el="9" nh="25.5" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all></fr>
+<fr nl="25.5" el="9" nh="26.5" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all><all>Earth Exploration-Satellite (space-to-Earth)</all></fr>
+<fr nl="26.5" el="9" nh="27.0" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all><all>Earth Exploration-Satellite (space-to-Earth)</all></fr>
+<fr nl="27.0" el="9" nh="27.5" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all><all>Earth Exploration-Satellite (space-to-Earth)</all></fr>
+<fr nl="27.5" el="9" nh="28.5" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth) (Earth-to-space)</all></fr>
+<fr nl="28.5" el="9" nh="29.1" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>Earth Exploration-Satellite (Earth-to-space)</all></fr>
+<fr nl="29.1" el="9" nh="29.5" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>Earth Exploration-Satellite (Earth-to-space)</all></fr>
+<fr nl="29.5" el="9" nh="29.9" eh="9" ><all>FIXED-SATELLITE (Earth-to-space)</all><all>Earth Exploration-Satellite (Earth-to-space)</all><all>Mobile-Satellite (Earth-to-space)</all></fr>
+<fr nl="29.9" el="9" nh="30.0" eh="9" ><all>FIXED-SATELLITE (space-to-Earth) (Earth-to-space)</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>Earth Exploration-Satellite (Earth-to-space)</all></fr>
+<fr nl="30.0" el="9" nh="31.0" eh="9" ><all>FIXED-SATELLITE (space-to-Earth) (Earth-to-space)</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>FSS Earth stations</all><all>MSS Earth stations</all></fr>
+<fr nl="31.0" el="9" nh="31.3" eh="9" ><all>FIXED</all><all>MOBILE</all></fr>
+<fr nl="31.3" el="9" nh="31.5" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="31.5" el="9" nh="31.8" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Fixed</all><all>Mobile except aeronautical mobile</all></fr>
+<fr nl="31.8" el="9" nh="32.0" eh="9" ><all>FIXED</all><all>RADIONAVIGATION</all><all>SPACE RESEARCH (space-to-Earth)</all></fr>
+<fr nl="32.0" el="9" nh="32.3" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>RADIONAVIGATION</all><all>SPACE RESEARCH (space-to-Earth)</all></fr>
+<fr nl="32.3" el="9" nh="33.0" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>RADIONAVIGATION</all></fr>
+<fr nl="33.0" el="9" nh="33.4" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>RADIONAVIGATION</all></fr>
+<fr nl="33.4" el="9" nh="34.2" eh="9" ><all>RADIOLOCATION</all></fr>
+<fr nl="34.2" el="9" nh="34.7" eh="9" ><all>RADIOLOCATION</all><all>SPACE RESEARCH (Earth-to-space)</all></fr>
+<fr nl="34.7" el="9" nh="35.2" eh="9" ><all>RADIOLOCATION</all><all>Space Research</all></fr>
+<fr nl="35.2" el="9" nh="35.5" eh="9" ><all>METEOROLOGICAL AIDS</all><all>RADIOLOCATION</all></fr>
+<fr nl="35.5" el="9" nh="36.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>METEOROLOGICAL AIDS</all><all>RADIOLOCATION</all><all>SPACE RESEARCH (active)</all></fr>
+<fr nl="36.0" el="9" nh="37.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>MOBILE</all><all>SPACE RESEARCH (passive)</all><all>Radio Astronomy</all><all>Defence systems</all><all>Passive sensors (satellite)</all><all>Radio astronomy</all></fr>
+<fr nl="37.0" el="9" nh="37.5" eh="9" ><all>FIXED</all><all>SPACE RESEARCH (space-to-Earth)</all></fr>
+<fr nl="37.5" el="9" nh="38.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>SPACE RESEARCH (space-to-Earth)</all><all>Earth Exploration-Satellite (space-to-Earth)</all></fr>
+<fr nl="38.0" el="9" nh="39.5" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>Earth Exploration-Satellite (space-to-Earth)</all></fr>
+<fr nl="39.5" el="9" nh="40.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>Earth Exploration-Satellite (space-to-Earth)</all><all>FSS Earth stations</all></fr>
+<fr nl="40.0" el="9" nh="40.5" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>SPACE RESEARCH (Earth-to-space)</all><all>Earth Exploration-Satellite (space-to-Earth)</all><all>FSS Earth stations</all><all>Land mobile</all></fr>
+<fr nl="40.5" el="9" nh="41.0" eh="9" ><all>BROADCASTING</all><all>BROADCASTING-SATELLITE</all><all>FIXED</all></fr>
+<fr nl="41.0" el="9" nh="42.0" eh="9" ><all>BROADCASTING</all><all>BROADCASTING-SATELLITE</all><all>FIXED</all></fr>
+<fr nl="42.0" el="9" nh="42.5" eh="9" ><all>BROADCASTING</all><all>BROADCASTING-SATELLITE</all><all>FIXED</all></fr>
+<fr nl="42.5" el="9" nh="43.5" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE except aeronautical mobile</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="43.5" el="9" nh="45.5" eh="9" ><all>MOBILE</all><all>MOBILE-SATELLITE</all><all>Fixed-Satellite</all><all>Defence systems</all></fr>
+<fr nl="45.5" el="9" nh="47.0" eh="9" ><all>MOBILE</all><all>MOBILE-SATELLITE</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE</all></fr>
+<fr nl="47.0" el="9" nh="47.2" eh="9" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>Amateur</all><all>Amateur-satellite</all></fr>
+<fr nl="47.2" el="9" nh="48.5" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all><all>Amateur</all></fr>
+<fr nl="48.5" el="9" nh="50.2" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="50.2" el="9" nh="50.4" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>SPACE RESEARCH (passive)</all><all>Passive sensors (satellite)</all></fr>
+<fr nl="50.4" el="9" nh="51.4" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>Mobile-Satellite (Earth-to-space)</all></fr>
+<fr nl="51.4" el="9" nh="52.6" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>Fixed links</all></fr>
+<fr nl="52.6" el="9" nh="54.25" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="54.25" el="9" nh="55.78" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="55.78" el="9" nh="56.9" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>INTER-SATELLITE</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="56.9" el="9" nh="57.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>MOBILE</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="57.0" el="9" nh="58.2" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="58.2" el="9" nh="59.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="59.0" el="9" nh="59.3" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all><all>RADIOLOCATION</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="59.3" el="9" nh="62.0" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all><all>RADIOLOCATION</all></fr>
+<fr nl="62.0" el="9" nh="63.0" eh="9" ><all>INTER-SATELLITE</all><all>MOBILE</all><all>RADIOLOCATION</all></fr>
+<fr nl="63.0" el="9" nh="64.0" eh="9" ><all>INTER-SATELLITE</all><all>MOBILE</all><all>RADIOLOCATION</all></fr>
+<fr nl="64.0" el="9" nh="65.0" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE except aeronautical mobile</all></fr>
+<fr nl="65.0" el="9" nh="66.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE</all><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE except aeronautical mobile</all><all>SPACE RESEARCH</all></fr>
+<fr nl="66.0" el="9" nh="71.0" eh="9" ><all>INTER-SATELLITE</all><all>MOBILE</all><all>MOBILE-SATELLITE</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE</all></fr>
+<fr nl="71.0" el="9" nh="74.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>Defence systems</all></fr>
+<fr nl="74.0" el="9" nh="75.5" eh="9" ><all>BROADCASTING</all><all>BROADCASTING-SATELLITE</all><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="75.5" el="9" nh="76.0" eh="9" ><all>BROADCASTING</all><all>BROADCASTING-SATELLITE</all><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="76.0" el="9" nh="77.5" eh="9" ><all>RADIO ASTRONOMY</all><all>RADIOLOCATION</all><all>Amateur</all><all>Amateur-Satellite</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="77.5" el="9" nh="78.0" eh="9" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>Radio Astronomy</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="78.0" el="9" nh="79.0" eh="9" ><all>RADIOLOCATION</all><all>Amateur</all><all>Amateur-Satellite</all><all>Radio Astronomy</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="79.0" el="9" nh="81.0" eh="9" ><all>RADIO ASTRONOMY</all><all>RADIOLOCATION</all><all>Amateur</all><all>Amateur-Satellite</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="81.0" el="9" nh="84.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>RADIO ASTRONOMY</all><all>Space Research (space-to-Earth)</all></fr>
+<fr nl="84.0" el="9" nh="86.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="86.0" el="9" nh="92.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Passive sensors (satellite)</all></fr>
+<fr nl="92.0" el="9" nh="94.0" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>RADIOLOCATION</all></fr>
+<fr nl="94.0" el="9" nh="94.1" eh="9" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>RADIOLOCATION</all><all>SPACE RESEARCH (active)</all><all>Radio Astronomy</all></fr>
+<fr nl="94.1" el="9" nh="95.0" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>RADIOLOCATION</all></fr>
+<fr nl="95.0" el="9" nh="100.0" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>RADIOLOCATION</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE</all></fr>
+<fr nl="100.0" el="9" nh="102.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="102.0" el="9" nh="105.0" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all></fr>
+<fr nl="105.0" el="9" nh="109.5" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="109.5" el="9" nh="111.8" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Radio astronomy</all></fr>
+<fr nl="111.8" el="9" nh="114.25" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="114.25" el="9" nh="116.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Radio astronomy</all></fr>
+<fr nl="116.0" el="9" nh="119.98" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>INTER-SATELLITE</all></fr>
+<fr nl="119.98" el="9" nh="120.02" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>INTER-SATELLITE</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="120.02" el="9" nh="122.25" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>INTER-SATELLITE</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="122.25" el="9" nh="123.0" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all><all>Amateur</all><all>Amateur</all><all>Amateur-satellite</all><all>Non-specific SRDs</all></fr>
+<fr nl="123.0" el="9" nh="126.0" eh="9" ><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE</all><all>Radio Astronomy</all></fr>
+<fr nl="126.0" el="9" nh="130.0" eh="9" ><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE-SATELLITE (space-to-Earth)</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE</all><all>Radio Astronomy</all></fr>
+<fr nl="130.0" el="9" nh="134.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (active)</all><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>Radio astronomy</all></fr>
+<fr nl="134.0" el="9" nh="136.0" eh="9" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>Radio Astronomy</all></fr>
+<fr nl="136.0" el="9" nh="141.0" eh="9" ><all>RADIO ASTRONOMY</all><all>RADIOLOCATION</all><all>Amateur</all><all>Amateur-Satellite</all></fr>
+<fr nl="141.0" el="9" nh="148.5" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>RADIOLOCATION</all></fr>
+<fr nl="148.5" el="9" nh="151.5" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Passive sensors (satellite)</all></fr>
+<fr nl="151.5" el="9" nh="155.5" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>RADIOLOCATION</all></fr>
+<fr nl="155.5" el="9" nh="158.5" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="158.5" el="9" nh="164.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>MOBILE-SATELLITE (space-to-Earth)</all></fr>
+<fr nl="164.0" el="9" nh="167.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Passive sensors (satellite)</all></fr>
+<fr nl="167.0" el="9" nh="168.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>INTER-SATELLITE</all><all>MOBILE</all></fr>
+<fr nl="168.0" el="9" nh="170.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>INTER-SATELLITE</all><all>MOBILE</all></fr>
+<fr nl="170.0" el="9" nh="174.5" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>INTER-SATELLITE</all><all>MOBILE</all></fr>
+<fr nl="174.5" el="9" nh="174.8" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all></fr>
+<fr nl="174.8" el="9" nh="182.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>INTER-SATELLITE</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="182.0" el="9" nh="185.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="185.0" el="9" nh="190.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>INTER-SATELLITE</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="190.0" el="9" nh="191.8" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="191.8" el="9" nh="200.0" eh="9" ><all>FIXED</all><all>INTER-SATELLITE</all><all>MOBILE</all><all>MOBILE-SATELLITE</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE</all></fr>
+<fr nl="200.0" el="9" nh="202.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="202.0" el="9" nh="209.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="209.0" el="9" nh="217.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>Radio astronomy</all></fr>
+<fr nl="217.0" el="9" nh="226.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all></fr>
+<fr nl="226.0" el="9" nh="231.5" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Passive sensors (satellite)</all><all>Radio astronomy</all></fr>
+<fr nl="231.5" el="9" nh="232.0" eh="9" ><all>FIXED</all><all>MOBILE</all><all>Radiolocation</all></fr>
+<fr nl="232.0" el="9" nh="235.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>Radiolocation</all></fr>
+<fr nl="235.0" el="9" nh="238.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>SPACE RESEARCH (passive)</all><all>Passive sensors (satellite)</all><all>Radio astronomy</all></fr>
+<fr nl="238.0" el="9" nh="240.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (space-to-Earth)</all><all>MOBILE</all><all>RADIOLOCATION</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE</all></fr>
+<fr nl="240.0" el="9" nh="241.0" eh="9" ><all>FIXED</all><all>MOBILE</all><all>RADIOLOCATION</all></fr>
+<fr nl="241.0" el="9" nh="248.0" eh="9" ><all>RADIO ASTRONOMY</all><all>RADIOLOCATION</all><all>Amateur</all><all>Amateur-Satellite</all></fr>
+<fr nl="248.0" el="9" nh="250.0" eh="9" ><all>AMATEUR</all><all>AMATEUR-SATELLITE</all><all>Radio Astronomy</all></fr>
+<fr nl="250.0" el="9" nh="252.0" eh="9" ><all>EARTH EXPLORATION-SATELLITE (passive)</all><all>RADIO ASTRONOMY</all><all>SPACE RESEARCH (passive)</all><all>Earth exploration-satellite</all></fr>
+<fr nl="252.0" el="9" nh="265.0" eh="9" ><all>FIXED</all><all>MOBILE</all><all>MOBILE-SATELLITE (Earth-to-space)</all><all>RADIO ASTRONOMY</all><all>RADIONAVIGATION</all><all>RADIONAVIGATION-SATELLITE</all><all>Radio astronomy</all></fr>
+<fr nl="265.0" el="9" nh="275.0" eh="9" ><all>FIXED</all><all>FIXED-SATELLITE (Earth-to-space)</all><all>MOBILE</all><all>RADIO ASTRONOMY</all></fr>
+
+</values></EMData></xml>

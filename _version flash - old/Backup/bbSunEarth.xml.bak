@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<EMData>
+<head>
+<yscale description="Solar Curve" unit="Topmax" max="4" />
+</head>
+<values>
+	<!-- section description="Radiation blocked by high altitude charges" -->
+	<f unit="wavelength" N="3.3" E="-6" val="0.12"/>
+	<f unit="wavelength" N="3" E="-6" val="0.12"/>
+	<f unit="wavelength" N="2.9" E="-6" val="0.5"/>
+	<f unit="wavelength" N="2.8" E="-6" val="0.4"/>
+	<f unit="wavelength" N="2.35" E="-6" val="0.3"/>
+	<f unit="wavelength" N="2.17" E="-6" val="0.15"/>
+	<f unit="wavelength" N="2.07" E="-6" val="0.15"/>
+	<f unit="wavelength" N="1.9" E="-6" val="0.05"/>
+	<f unit="wavelength" N="1.6" E="-6" val="0.3"/>
+	<f unit="wavelength" N="1.5" E="-6" val="0.3"/>
+	<f unit="wavelength" N="1.36" E="-6" val="0.01"/>
+	<f unit="wavelength" N="1.25" E="-6" val="0.5"/>
+	<f unit="wavelength" N="1.19" E="-6" val="0.7"/>
+	<f unit="wavelength" N="1.09" E="-6" val="0.34"/>
+	<f unit="wavelength" N="1.07" E="-6" val="0.4"/>
+	<f unit="wavelength" N="1.07" E="-6" val="0.4"/>
+	<f unit="wavelength" N="1.06" E="-6" val="0.89"/>
+	<f unit="wavelength" N="1.0" E="-6" val="0.98"/>
+	<f unit="wavelength" N="9.5" E="-7" val="0.95"/>
+	<f unit="wavelength" N="9.4" E="-7" val="0.7"/>
+	<f unit="wavelength" N="9.2" E="-7" val="0.75"/>
+	<f unit="wavelength" N="8.8" E="-7" val="0.75"/>
+	<f unit="wavelength" N="8.7" E="-7" val="1.25"/>
+	<f unit="wavelength" N="8.7" E="-7" val="1.2"/>
+	<f unit="wavelength" N="8.4" E="-7" val="1.28"/>
+	<f unit="wavelength" N="8.1" E="-7" val="1.2"/>
+	<f unit="wavelength" N="7.7" E="-7" val="1.53"/>
+	<f unit="wavelength" N="7.4" E="-7" val="1.0"/>
+	<f unit="wavelength" N="7.2" E="-7" val="1.7"/>
+	<f unit="wavelength" N="6.7" E="-7" val="1.7"/>
+	<f unit="wavelength" N="6.7" E="-7" val="1.9"/>
+	<f unit="wavelength" N="5.5" E="-7" val="2.1"/>
+	<f unit="wavelength" N="5.1" E="-7" val="2.3"/>
+	<f unit="wavelength" N="4.47" E="-7" val="2.35"/>
+	<f unit="wavelength" N="4" E="-7" val="2.2"/>
+	<f unit="wavelength" N="3.8" E="-7" val="1"/>
+	<f unit="wavelength" N="3.5" E="-7" val="0.8"/>	
+	<f unit="wavelength" N="3" E="-7" val="0.5"/>	
+	<f unit="wavelength" N="3" E="-7" val="0"/>
+	<!-- /section -->
+</values>
+</EMData>

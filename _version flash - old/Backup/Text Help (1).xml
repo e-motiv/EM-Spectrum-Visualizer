@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="emrangeflash.css" type="text/css"?>
+<emrange>
+<title>Help</title>
+<body>
+Keys:
++:   Zoom in
+-:   Zoom Out
+0:   Zoom 100%
+->:  Scroll Scale left
+<-:  Scroll Scale right
+</body>
+</emrange>

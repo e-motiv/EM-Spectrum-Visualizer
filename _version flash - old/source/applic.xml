@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<EMData>
+<values>
+	<!-- section description="---" -->
+	<fr nl="144" el="3" nh="288" eh="3">AM Radio UL</fr>
+	<fr nl="144" el="3" nh="240" eh="3">AM Radio UL</fr>
+	<fr nl="144" el="3" nh="220" eh="3">AM Radio UL</fr>
+	<fr nl="522" el="3" nh="1611" eh="3">AM Radio UM?</fr>
+	<fr nl="2696" el="4" nh="2741" eh="4">CB radio</fr>
+	<fr nl="41" el="6" nh="216" eh="6">TV channels 2-13</fr>
+	<fr nl="87.5" el="6" nh="108" eh="6">FM Radio</fr>
+	<fr nl="470" el="6" nh="960" eh="6">TV channels 14-83</fr>
+	<fr nl="880" el="6" nh="960" eh="6">GSM900</fr>
+	<fr nl="1215" el="6" nh="1300" eh="6">Satellite band L</fr>
+	<fr nl="13" el="8" nh="27" eh="8">Satellite band L2?</fr>
+	<fr nl="1710" el="6" nh="1880" eh="6">GSM1800</fr>
+	<fr nl="1850" el="6" nh="1980" eh="6">GSM1900</fr>
+	<fr nl="1900.0" el="6" nh="1980.0" eh="6">UMTS</fr>
+	<fr nl="2110.0" el="6" nh="2170.0" eh="6">UMTS</fr>
+	<fr nl="2400.0" el="6" nh="2483.5" eh="6">Radio LANs</fr>
+	<fr nl="2520.0" el="6" nh="2670.0" eh="6">UMTS</fr>
+	<fr nl="27" el="8" nh="31" eh="8">Satellite band S</fr>
+	<fr nl="8.4" el="9" nh="9.6" eh="9">Satellite band X</fr>
+	<fr nl="8.8" el="9" nh="9.2" eh="9">Satellite band X</fr>
+	<fr nl="9.34" el="9" nh="9.4" eh="9">Satellite band X</fr>
+	<fr nl="11.7" el="9" nh="12.7" eh="9">Satellite band Ku</fr>
+	<fr nl="14" el="9" nh="17.8" eh="9">Satellite band Ku</fr>
+	<fr nl="18" el="9" nh="31" eh="9">Satellite band Ka</fr>
+	<fr nl="31.8" el="9" nh="33.4" eh="9">Satellite band Kl</fr>
+	<!-- /section -->
+</values>
+</EMData>
+</xml>

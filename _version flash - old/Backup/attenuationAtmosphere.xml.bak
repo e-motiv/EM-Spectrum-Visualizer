@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<EMData>
+<head>
+<yscale description="Attenuation" unit="%" />
+</head>
+<values>
+	<!-- section description="Radiation blocked by high altitude charges" -->
+	<f N="1" E="0" val=".83"/>
+	<f N="5" E="2" val=".80"/>
+	<f N="7" E="2" val=".70"/>
+	<f N="9.7" E="2" val="0"/>
+	<!-- /section -->
+	<!-- section description="Radiation blocked by high altitude charges" -->
+	<f N="1" E="11" val="0"/>	
+	<f N="1" E="13" val=".83"/>
+	<f N="1" E="14" val="1"/>
+	<f N="1.1" E="14" val="1"/>	
+	<f N="1.2" E="14" val="0.01"/>	
+	<f N="1.35" E="14" val="0.04"/>	
+	<f N="1.48" E="14" val="1"/>			
+	<f N="1.55" E="14" val="1"/>				
+	<f N="1.6" E="14" val="0.02"/>				
+	<f N="1.85" E="14" val="0.03"/>					
+	<f N="2" E="14" val="1"/>	
+	<f N="2.15" E="14" val="1"/>
+	<f N="2.2" E="14" val="0.04"/>
+	<f N="2.25" E="14" val="0.03"/>
+	<f N="2.3" E="14" val="0.22"/>
+	<f N="2.6" E="14" val="0.83"/>
+	<f N="2.7" E="14" val="0.05"/>	
+	<f N="3" E="14" val="0.06"/>	
+	<f N="3.2" E="14" val="0.8"/>	
+	<f N="3.3" E="14" val="0.3"/>	
+	<f N="3.4" E="14" val="0.06"/>
+	<f N="3.5" E="14" val="0.25"/>
+	<f N="3.55" E="14" val="0.08"	/>
+	<f N="3.7" E="14" val="0.4"/>	
+	<f N="3.8" E="14" val="0.09"/>	
+	<f N="3.9" E="14" val="0.3"/>
+	<f N="4.2" E="14" val="0.1"/>	
+	<f N="7.5" E="14" val="0.2"/>
+	<!-- /section -->
+	<!-- section description="Radiation absorbed by ozon and oxygen" -->
+	<f N="3.1" E="17" val=".83"/>	
+	<f N="6.1" E="22" val=".4"/>	
+	<!-- /section -->
+</values>
+</EMData>

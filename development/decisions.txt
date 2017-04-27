@@ -1,0 +1,11 @@
+*********** Function Move
+**** Moving bands
+** SVG or css transform?
+	=> Test Results: More or less the same, but with svg no browser scrollbar
+	Code:
+		bandsSVG.setAttribute( "transform", "translate(" + canvas2DOM(totalTransform) + ",0)" ); 
+		bandsSVG.style.transform	= "translate(" + canvas2DOM(totalTransform) + "px)" ; 
+		
+*********** Load script	from script
+** Isn't there a better mehtod ?
+	=> Yes, check example HTMLScriptElement in JS doc, but more or less the same

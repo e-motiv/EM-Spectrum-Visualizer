@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="BlackBody" width="5374"
+	height="720">
+	<g data-fn="7.49" data-fe="0" transform="translate(100,480)">
+		<image href="earth.png" width="150" height="148"></image>
+		<text text-anchor="middle" x="75" dy="-50">40,075 km</text>
+		<text text-anchor="middle" x="75" dy="-25">Circumference of the earth</text>
+	</g>
+	<g data-fn="5" data-fe="2" transform="translate(481.5,480)">
+		<image href="hubble.png" width="117" height="290"></image>
+		<text text-anchor="middle" x="58" dy="-50">600 km</text>
+		<text text-anchor="middle" x="58" dy="-25">Height Hubble Space Telescope</text>
+	</g>
+	<g data-fn="20" data-fe="3" transform="translate(785,480)">
+		<image href="jet.png" width="150" height="246"></image>
+		<text text-anchor="middle" x="75" dy="-50">Upto 15 km</text>
+		<text text-anchor="middle" x="75" dy="-25">Cruising height Jet</text>
+	</g>
+	<g data-fn="3" data-fe="6" transform="translate(1182.5,480)">
+		<image href="soccer-field.svg" width="225" height="153"></image>
+		<text text-anchor="middle" x="112" dy="-50">100 m</text>
+		<text text-anchor="middle" x="112" dy="-25">Football field</text>
+	</g>
+	<g data-fn="171" data-fe="6" transform="translate(1563,480)">
+		<image href="man.svg" width="168" height="174"></image>
+		<text text-anchor="middle" x="84" dy="-50">1.75 m</text>
+		<text text-anchor="middle" x="84" dy="-25">Human</text>
+	</g>
+	<g data-fn="7.03" data-fe="9" transform="translate(1894,480)">
+		<image href="golf-ball.svg" width="150" height="150"></image>
+		<text text-anchor="middle" x="75" dy="-50">42.67 mm</text>
+		<text text-anchor="middle" x="75" dy="-25">Golf ball</text>
+	</g>
+	<g data-fn="75" data-fe="9" transform="translate(2060.5,480)">
+		<image href="mosquito.png" width="218" height="140"></image>
+		<text text-anchor="middle" x="115" dy="-50">4 mm</text>
+		<text text-anchor="middle" x="115" dy="-25">Mosquito</text>
+	</g>
+	<g data-fn="1.67" data-fe="12" transform="translate(2370,480)">
+		<image href="hair.png" width="150" height="150"></image>
+		<text text-anchor="middle" x="75" dy="-50">17 - 180 µm</text>
+		<text text-anchor="middle" x="75" dy="-25">Width of human hair</text>
+	</g>
+	<g data-fn="43" data-fe="12" transform="translate(2652,480)">
+		<image href="neuron.png" width="150" height="212"></image>
+		<text text-anchor="middle" x="75" dy="-50">10 - 100 µm / 3 - 18 µm</text>
+		<text text-anchor="middle" x="75" dy="-25">Cells / Neuron body</text>
+	</g>
+	<g data-fn="2" data-fe="15" transform="translate(2960,480)">
+		<image href="virus.png" width="200" height="177"></image>
+		<text text-anchor="middle" x="100" dy="-50">± 20 - 300 nm</text>
+		<text text-anchor="middle" x="100" dy="-25">Virus</text>
+	</g>
+	<g data-fn="24" data-fe="15" transform="translate(3201,480)">
+		<image href="rubisco.png" width="150" height="150"></image>
+		<text text-anchor="middle" x="75" dy="-50">3 - 100 nm (± 10 nm)</text>
+		<text text-anchor="middle" x="75" dy="-25">Proteins (Rubisco)</text>
+	</g>
+	<g data-fn="300" data-fe="15" transform="translate(3386.5,480)">
+		<image href="DNA.png" width="217" height="160"></image>
+		<text text-anchor="middle" x="108" dy="-50">1 nm</text>
+		<text text-anchor="middle" x="108" dy="-25">DNA string radius</text>
+	</g>
+	<g data-fn="10" data-fe="18" transform="translate(3709,480)">
+		<image href="h2o.png" width="182" height="150"></image>
+		<text text-anchor="middle" x="91" dy="-50">275 pm / 53 pm</text>
+		<text text-anchor="middle" x="91" dy="-25">Water / Hydrogen</text>
+	</g>
+	<g data-fn="351" data-fe="21" transform="translate(4634,480)">
+		<image href="proton.svg" width="150" height="150"></image>
+		<text text-anchor="middle" x="75" dy="-50">840 – 870 am</text>
+		<text text-anchor="middle" x="75" dy="-25">Proton</text>
+	</g>
+	<g data-fn="313" data-fe="24" transform="translate(5224,480)">
+		<image href="up-quark.svg" width="150" height="150"></image>
+		<text text-anchor="middle" x="75" dy="-50">0.43 am</text>
+		<text text-anchor="middle" x="75" dy="-25">Quark (up/down)</text>
+	</g>
+</svg>

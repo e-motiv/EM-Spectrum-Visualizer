@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<EMData>
+<head>
+<yscale description="Black body temperatures" unit="Topmax" max="100" />
+</head>
+<images>
+	<!-- section description="Radiation blocked by high altitude charges" -->
+	<f href="Black Bodies.swf" beginN="7" beginE="13" endN="8" endE="16" />
+	<!-- /section -->
+</images>
+</EMData>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>EM Spectrum Vizualiser</title>
+<link href="style/EMSV.css" rel="stylesheet">
+<script src="script/base.js"></script>
+<meta name="description" content="Interactive graphical presentation of the electromagnetic spectrum, with frequency wavelength calculator, black body graphics and other things">
+<meta name="keywords" content="EM spectrum, electromagnetic spectrum, frequency wavelength calculator, atmospheric attenuation, all sizes compared, radio waves, micro waves, infrared, visible spectrum, ultra violet, X-rays, gamma rays, cosmic radiation">
+</head>
+<body>
+	<div id="topBand">
+		<div id="tooltip">This is a tooltip. You shouldn't see this text though. Something went wrong.</div>
+		<div>
+			<a href="#" title="Everything warm radiates!\nAtmosphere prefers blocking.">Black bodies & attenuations</a>
+			<div>
+				<a href="content/img/black body.svg" id="butBb" class="loadSVG" data-svgscale="0" title="Everything with a temperature radiates!">Black bodies / Cold & warm colors</a>
+				<a href="content/img/irradiance sun top atmosphere.svg" id="butSunS" class="loadSVG" title="Irradiance of the sun at top of atmosphere"">Sun in space</a>
+				<a href="content/img/irradiance sun sea.svg" id="butSunE" class="loadSVG" data-svgscale="0" title="Irradiance of the sun at sea level">Sun on sea</a>
+				<a href="development/attenuationAtmosphere.xml"  class="loadXMLPlot" title="Average attenuation of atmosphere in good weather.">Atmospheric attenuation</a>
+				<a href="development/attAtm10G-1P.xml"  class="loadXMLPlot" title="Average attenuation of atmosphere in good weather.">Atmospheric attenuation (other source)</a>
+			</div>
+		</div><div>
+			<a href="#" title="Molecular & atomic sources">Interaction with matter</a>
+			<div>
+				<a href="" id="butMA" class="loadSVG" data-svgscale="0" title="">All of them together? </a>
+			</div>
+		</div>
+		<div>Some button</div>
+		<div>
+			<a href="#">Varia</a>
+			<div>
+				<a href="#">Molecular movement effects</a>
+				<a href="content/img/sizeCompare.svg" id="butSize" class="loadTopSVGs" title="Compare wavelength size with common items">Size comparisons</a>
+			</div>
+		</div>
+	</div>
+	<iframe id="info"></iframe>
+	
+	<svg id="fixTopSVG" width="1600" height="720"></svg>
+	<svg id="topSVG" width="1600" height="720"></svg>
+	<table id="readout">
+		<tbody>
+			<tr>
+				<td>f:</td>
+				<td><input id="roFN" type="number" inputmode="numeric" min="0" max="999" step="0.01" value="0"></td>
+				<td><div id="roFE"></div></div><input id="roFPre" type="text" maxlength="1"> Hz</td>
+			</tr>
+			<tr>
+				<td>ƛ:</td>
+				<td><input id="roWN" type="number" inputmode="numeric" min="0" max="999" step="0.01" value="0"></td>
+				<td><div id="roWE"></div><input id="roWPre" type="text" maxlength="1"> m</td>
+			</tr>
+		</tbody>
+	</table>
+	<svg id="btmSVG" width="1600" height="180">
+	<defs id="bandsDefs">
+	<linearGradient id="gradVis">
+		<stop offset="0%" stop-color="hsl(0,60%,40%)"/>
+		<stop offset="17%" stop-color="hsl(42,60%,40%)"/>
+		<stop offset="33%" stop-color="hsl(85,60%,40%)"/>
+		<stop offset="50%" stop-color="hsl(128,60%,40%)"/>
+		<stop offset="66%" stop-color="hsl(171,60%,40%)"/>
+		<stop offset="83%" stop-color="hsl(213,60%,40%)"/>
+		<stop offset="100%" stop-color="hsl(255,60%,40%)"/>
+	</linearGradient>
+	</defs>
+	<g id="bandsSVG"></g>
+	<g id="mLineSVG" transform="translate(0,115)">
+	</g>
+	</svg>
+	<div id="yelLine"></div>
+	<div id="left" data-dir="1"></div>
+	<div id="right" data-dir="-1"></div>
+</body>
+</html>

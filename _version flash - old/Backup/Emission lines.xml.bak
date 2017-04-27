@@ -1,0 +1,13 @@
+<?xml versioN="1.0"?>
+<specialfrequencies>
+	<sf  unit="wavelength" N="4.9" E="-9">C Hydrogen from Sun</sf>
+	<sf  unit="wavelength" N="617.16" E="-9">Hydrogen H2</sf>
+	<sf  unit="wavelength" N="6" E="-9">F Hydrogen from Sun</sf>
+	<sf  unit="wavelength" N="691.24" E="-9">Water? H2</sf>
+	<sf  unit="wavelength" N="731.53" E="-9">Water? H2</sf>
+	<sf N="5.5" E="14">D1 Potassium (Na) from Sun</sf>
+	<sf N="5.6x" E="14">D2 Potassium (Na) from Sun</sf>
+	<sf N="6.8" E="14">E Iron from Sun</sf>
+	<sf N="6.5" E="14">G Iron + Calcium from Sun</sf>
+	<sf N="7" E="14">H Calcium from Sun</sf>
+</specialfrequeNcies>

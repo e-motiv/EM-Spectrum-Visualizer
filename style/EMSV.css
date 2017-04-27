@@ -1,0 +1,214 @@
+html, body {
+	color: white;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	background-color: black;
+}
+text:not([fill]) {
+	fill: #ddd;
+}
+
+#topBand {
+	position: relative;
+	top: 0;
+	left: 3%;
+	margin: 0;
+	padding: 10px;
+	height: 60px;
+	background-color: hsla(0, 0%, 0%, 0.8);
+	z-index: 15;
+}
+
+#topBand > * {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 1em;
+}
+
+
+ #topBand a, #topBand div div a {
+	display: block;
+}
+
+#topBand a {
+	color: hsl(60, 86.9%, 26.9%);
+	background-color: hsla(0, 0%, 0%, 0.9);
+	padding: 1ex;
+	text-decoration: inherit;
+	font-weight: bold;
+}
+
+.on {
+	background-color: hsla(237, 100%, 12.7%, 0.9) !important;
+}
+
+#topBand a:hover {
+	background-color: hsla(237, 100%, 7%, 0.9);
+}
+
+#topBand div div {
+	position: absolute;
+	padding-top: 1em;
+	transition: all 300ms ease-out;
+	transform: scale(0, 0) translate(-100%, -100%);
+}
+
+#topBand div:hover div {
+	transform: none;
+}
+
+#tooltip {	
+	position: absolute;
+	padding: 1em;
+	transition: all 300ms ease-out;
+	transform: scale(0, 0) translate(-100%, -100%);	
+	background-color: hsla(0, 0%, 0%, 0.8);
+	z-index: 25;
+}
+
+#topSVG, #fixTopSVG {
+	position: absolute;
+	bottom: 180px;
+	left: 0;
+	width: 100%;
+	height: calc(100% - 180px - 70px);
+	background-color: transparent;
+	z-index: 4; /*under yelLine, above fixtop*/
+}
+#fixTopSVG{
+	z-index: 3; 
+	
+}
+
+#left, #right {
+	position: absolute;
+	top: 0;
+	height: 100%;
+	width: 3%;
+	opacity: 0.2;
+	z-index: 20;
+}
+
+#left {
+	left: 0;
+	cursor: url(left.png) 0 0, w-resize;
+	background: url(left.png) repeat-y 10%,
+		linear-gradient(to right, hsla(0, 0%, 50%, 0.7), hsla(0, 0%, 0%, 0))
+}
+
+#right {
+	right: 0;
+	cursor: url(right.png) 0 0, e-resize;
+	background: url(right.png) repeat-y 90%,
+		linear-gradient(to left, hsla(0, 0%, 50%, 0.7), hsla(0, 0%, 0%, 0))
+}
+
+#left:hover, #right:hover {
+	opacity: 0.9;
+	backgroundcolor: white;
+}
+
+#info {
+	position: relative;
+	width: 94%;
+	left: 3%;
+	height: calc(100% - 180px -  70px);
+	border: none;
+	width: 94%;
+	z-index: 6; /*above yelLine*/
+	background-color: hsla(0,0%,0%,0.7);
+}
+
+
+/****************************************** readout *********************************************/
+
+#readout {
+	position: absolute;
+	bottom: 180px;
+	z-index: 11;
+	right: 3%;
+	background-color: hsla(0, 0%, 0%, 0.8);
+	padding: 2ex;
+}
+#readout td:nth-child(2) {
+	width: 35px;
+	text-align: right;
+}
+
+#roFPre {
+	color: yellow;
+	font-weight: bold;
+}
+
+#roWPre {
+	color: magenta;
+	font-weight: bold;
+}
+#readout td {
+	position: relative; /*to position RoFe & roWe*/
+}
+#roFE, #roWE {
+	color: hsla(0, 0%, 100%, 0.4);
+	position: absolute;
+	font-size: 0.7em;
+	left: 0.5ex;
+	top: -3ex;
+}
+#roWE {
+	bottom: -3ex;
+	top: auto;
+}
+
+#readout input[type=text] {
+	width: 2ex;
+	text-align: center;
+}
+
+input {
+	color: white;
+	background-color: hsla(0, 0%, 0%, 0.5);
+	border: 1px solid hsl(0, 0%, 20%);
+}
+input[type=number] {
+	-moz-appearance: textfield;
+	width: 5ex;
+	text-align: right;
+}
+
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+/**/
+
+
+#btmSVG {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 180px;
+	background-color: transparent;
+	z-index: 10; /*for line not to bother me*/
+}
+
+#btmSVG .hover:hover {
+	cursor: pointer;
+	filter: invert(25%);
+}
+#mLineSVG:hover {
+	cursor: crosshair;
+}
+#yelLine {	
+	position: absolute;
+	top:0;
+	height:100%;
+	width:4px; /*best to keep even*/
+	box-shadow: 0 0 0 2px hsla(61, 100%, 50%, 0.3) inset;
+	z-index: 5;
+}
+div.metricLabel {
+	position: absolute;
+	color: hsl(0,0%,50%);
+}

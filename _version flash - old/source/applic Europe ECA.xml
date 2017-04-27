@@ -1,0 +1,342 @@
+<?xml version="1.0"?><EMData><values>
+<fr  nl="9.0" el="3" nh="19.95" eh="3">ISM<br/>Inductive applications</fr>
+<fr nl="9.0" el="3" nh="19.95" eh="3">Inductive applications</fr>
+<fr nl="20.05" el="3" nh="148.5" eh="3">Defence systems</fr>
+<fr nl="20.05" el="3" nh="148.5" eh="3">Maritime</fr>
+<fr nl="20.05" el="3" nh="148.5" eh="3">Inductive applications </fr>
+<fr nl="72.0" el="3" nh="148.5" eh="3">Maritime<br/>Standard Frequency and Time Signal</fr>
+<fr nl="72.0" el="3" nh="148.5" eh="3">Defence systems </fr>
+<fr nl="135.7" el="3" nh="137.8" eh="3">Maritime<br/>Amateur </fr>
+<fr nl="148.5" el="3" nh="283.5" eh="3">Broadcasting </fr>
+<fr nl="255.0" el="3" nh="435.0" eh="3">Beacons (aeronautical) </fr>
+<fr nl="455.0" el="3" nh="457.0" eh="3">Detection of avalanche victims<br/>Maritime<br/>Maritime communications<br/>NAVTEX<br/>Broadcasting (terresfrial) </fr>
+<fr nl="1606.5" el="3" nh="1810.0" eh="3">Defence systems MaritimeRadiolocation (civil)</fr>
+<fr nl="1606.5" el="3" nh="1810.0" eh="3">Radiolocation (military) </fr>
+<fr nl="1810.0" el="3" nh="2000.0" eh="3">Amateur </fr>
+<fr nl="1850.0" el="3" nh="2045.0" eh="3">Maritime</fr>
+<fr nl="1850.0" el="3" nh="2160.0" eh="3">Defence systems </fr>
+<fr nl="1850.0" el="3" nh="2045.0" eh="3">Radiolocation (military & civil) </fr>
+<fr nl="2194.0" el="3" nh="2498.0" eh="3">Maritime</fr>
+<fr nl="2194.0" el="3" nh="2498.0" eh="3">Defence systems </fr>
+<fr nl="2625.0" el="3" nh="2850.0" eh="3">Maritime</fr>
+<fr nl="2625.0" el="3" nh="2850.0" eh="3">Defence systems </fr>
+<fr nl="2850.0" el="3" nh="3155.0" eh="3">SAR (communications)</fr>
+<fr nl="2850.0" el="3" nh="3155.0" eh="3">Aeronautical communications </fr>
+<fr nl="3155.0" el="3" nh="3400.0" eh="3">Maritime</fr>
+<fr nl="3155.0" el="3" nh="3400.0" eh="3">Defence systems </fr>
+<fr nl="3800.0" el="3" nh="3950.0" eh="3">Aeronautical communications</fr>
+<fr nl="4700.0" el="3" nh="4850.0" eh="3">Aeronautical military systems </fr>
+<fr nl="5005.0" el="3" nh="5480.0" eh="3">Defence systems </fr>
+<fr nl="6765.0" el="3" nh="6795.0" eh="3">Inductive applications </fr>
+<fr nl="6765.0" el="3" nh="6795.0" eh="3">Non-specific SRDs </fr>
+<fr nl="7450.0" el="3" nh="8815.0" eh="3">Inductive applications </fr>
+<fr nl="8965.0" el="3" nh="9400.0" eh="3">Aeronautical communications<br/>Aeronautical military systems</fr>
+<fr nl="8965.0" el="3" nh="9400.0" eh="3">Defence systems </fr>
+<fr nl="10100.0" el="3" nh="11175.0" eh="3">Amateur</fr>
+<fr nl="10100.0" el="3" nh="11175.0" eh="3">Defence systems </fr>
+<fr nl="13360.0" el="3" nh="13570.0" eh="3">Radio astronomy</fr>
+<fr nl="13360.0" el="3" nh="13570.0" eh="3">Defence systems </fr>
+<fr nl="13553.0" el="3" nh="13567.0" eh="3">ISM </fr>
+<fr nl="13553.0" el="3" nh="13567.0" eh="3">Inductive applications </fr>
+<fr nl="13553.0" el="3" nh="13567.0" eh="3">Non-specific SRDs </fr>
+<fr nl="14000.0" el="3" nh="14350.0" eh="3">Amateur-satelliteAmateur </fr>
+<fr nl="14000.0" el="3" nh="14350.0" eh="3">Amateur </fr>
+<fr nl="18030.0" el="3" nh="18068.0" eh="3">Defence systems </fr>
+<fr nl="22855.0" el="3" nh="24890.0" eh="3">Defence systems </fr>
+<fr nl="26945.0" el="3" nh="27245.0" eh="3">Defence systems<br/>Eurobalise Model confrol </fr>
+<fr nl="26957.0" el="3" nh="27283.0" eh="3">ISM </fr>
+<fr nl="26957.0" el="3" nh="27283.0" eh="3">Inductive applications </fr>
+<fr nl="26957.0" el="3" nh="27283.0" eh="3">Non-specific SRDs </fr>
+<fr nl="26960.0" el="3" nh="27410.0" eh="3">CB radio</fr>
+<fr nl="28.8365" el="6" nh="29.4525" eh="6">Amateur<br/>Amateur-satellite<br/>Fixed links </fr>
+<fr nl="28.8365" el="6" nh="29.4525" eh="6">Point-to-Multipoint </fr>
+<fr nl="29.7" el="6" nh="30.3" eh="6">Defence systems </fr>
+<fr nl="29.7" el="6" nh="34.9" eh="6">Radio Microphones </fr>
+<fr nl="29.7" el="6" nh="30.3" eh="6">Defence systems </fr>
+<fr nl="30.01" el="6" nh="40.66" eh="6">PMR/PAMR </fr>
+<fr nl="30.3" el="6" nh="30.5" eh="6">Defence systems </fr>
+<fr nl="30.5" el="6" nh="32.15" eh="6">Defence systems </fr>
+<fr nl="32.15" el="6" nh="32.45" eh="6">Defence systems </fr>
+<fr nl="32.45" el="6" nh="41.0" eh="6">Defence systems </fr>
+<fr nl="34.995" el="6" nh="35.225" eh="6">Model aircraft confrol </fr>
+<fr nl="30.01" el="6" nh="40.66" eh="6">PMR/PAMR </fr>
+<fr nl="37.5" el="6" nh="47.0" eh="6">Continuum measurements<br/>Radio Microphones </fr>
+<fr nl="39.0" el="6" nh="39.2" eh="6">Meteor scatter communications </fr>
+<fr nl="40.7" el="6" nh="74.8" eh="6">PMR/PAMR </fr>
+<fr nl="37.5" el="6" nh="47.0" eh="6">Radio Microphones </fr>
+<fr nl="41.0" el="6" nh="47.0" eh="6">Defence systems </fr>
+<fr nl="46.0" el="6" nh="68.0" eh="6">Wind profilers </fr>
+<fr nl="47.0" el="6" nh="47.25" eh="6">On-site paging </fr>
+<fr nl="47.0" el="6" nh="73.3" eh="6">Defence systems </fr>
+<fr nl="49.5" el="6" nh="50.0" eh="6">Non-specific SRDs </fr>
+<fr nl="50.0" el="6" nh="52.0" eh="6">Amateur </fr>
+<fr nl="47.0" el="6" nh="73.3" eh="6">Defence systems </fr>
+<fr nl="73.0" el="6" nh="74.6" eh="6">Continuum measurements<br/>Radio astronomy </fr>
+<fr nl="73.3" el="6" nh="74.1" eh="6">Defence systems </fr>
+<fr nl="74.1" el="6" nh="74.8" eh="6">Defence systems </fr>
+<fr nl="46.0" el="6" nh="68.0" eh="6">Wind profilers </fr>
+<fr nl="79.0" el="6" nh="79.7" eh="6">Defence systems </fr>
+<fr nl="79.7" el="6" nh="87.5" eh="6">Defence systems </fr>
+<fr nl="75.2" el="6" nh="87.5" eh="6">PMR/PAMR </fr>
+<fr nl="87.5" el="6" nh="108.0" eh="6">FM sound analogue </fr>
+<fr nl="108.0" el="6" nh="112.0" eh="6">ILS </fr>
+<fr nl="121.55" el="6" nh="137.0" eh="6">Aeronautical communications </fr>
+<fr nl="46.0" el="6" nh="68.0" eh="6">Wind profilers </fr>
+<fr nl="46.0" el="6" nh="68.0" eh="6">Wind profilers </fr>
+<fr nl="137.0" el="6" nh="138.0" eh="6">Weather satellites </fr>
+<fr nl="138.0" el="6" nh="144.0" eh="6">Aeronautical communications </fr>
+<fr nl="138.0" el="6" nh="144.0" eh="6">Defence systems </fr>
+<fr nl="138.0" el="6" nh="144.0" eh="6">Land mobile </fr>
+<fr nl="138.2" el="6" nh="138.45" eh="6">Short Range Devices </fr>
+<fr nl="148.0" el="6" nh="150.05" eh="6">MSS Earth stations </fr>
+<fr nl="146.0" el="6" nh="156.0" eh="6">PMR/PAMR </fr>
+<fr nl="150.05" el="6" nh="153.0" eh="6">Continuum measurements </fr>
+<fr nl="150.05" el="6" nh="153.0" eh="6">Radio astronomy </fr>
+<fr nl="146.0" el="6" nh="156.0" eh="6">PMR/PAMR </fr>
+<fr nl="162.05" el="6" nh="174.0" eh="6">PMR/PAMR </fr>
+<fr nl="173.965" el="6" nh="174.015" eh="6">Short Range Devices </fr>
+<fr nl="174.0" el="6" nh="230.0" eh="6">Radio Microphones<br/>TV analogue (terresfrial)</fr>
+<fr nl="174.0" el="6" nh="230.0" eh="6">T-DAB </fr>
+<fr nl="230.0" el="6" nh="242.95" eh="6">T-DAB</fr>
+<fr nl="230.0" el="6" nh="242.95" eh="6">Defence systems </fr>
+<fr nl="243.055" el="6" nh="328.65" eh="6">Defence systems </fr>
+<fr nl="335.4" el="6" nh="399.9" eh="6">Defence systems </fr>
+<fr nl="380.0" el="6" nh="380.15" eh="6">DMO </fr>
+<fr nl="384.8" el="6" nh="385.0" eh="6">Emergency services<br/>AGA communications (civil) </fr>
+<fr nl="385.0" el="6" nh="390.0" eh="6">PMR/PAMR </fr>
+<fr nl="390.0" el="6" nh="390.15" eh="6">DMO </fr>
+<fr nl="394.8" el="6" nh="395.0" eh="6">Emergency services<br/>AGA communications (civil) </fr>
+<fr nl="335.4" el="6" nh="399.9" eh="6">Defence systems </fr>
+<fr nl="402.0" el="6" nh="405.0" eh="6">Sondes<br/>Weather satellites</fr>
+<fr nl="402.0" el="6" nh="405.0" eh="6">Medical implants </fr>
+<fr nl="406.1" el="6" nh="430.0" eh="6">Radio astronomy</fr>
+<fr nl="406.1" el="6" nh="430.0" eh="6">PMR/PAMR </fr>
+<fr nl="435.0" el="6" nh="438.0" eh="6">Amateur-satellite </fr>
+<fr nl="430.0" el="6" nh="440.0" eh="6">Amateur </fr>
+<fr nl="440.0" el="6" nh="470.0" eh="6">On-site paging </fr>
+<fr nl="440.0" el="6" nh="470.0" eh="6">PMR/PAMR </fr>
+<fr nl="445.2" el="6" nh="445.3" eh="6">DMO </fr>
+<fr nl="446.0" el="6" nh="446.1" eh="6">PMR 446 </fr>
+<fr nl="440.0" el="6" nh="470.0" eh="6">On-site paging </fr>
+<fr nl="440.0" el="6" nh="470.0" eh="6">PMR/PAMR </fr>
+<fr nl="450.0" el="6" nh="460.0" eh="6">Analogue cellular</fr>
+<fr nl="440.0" el="6" nh="470.0" eh="6">On-site paging </fr>
+<fr nl="440.0" el="6" nh="470.0" eh="6">PMR/PAMR </fr>
+<fr nl="457.525" el="6" nh="457.575" eh="6">On-board communications </fr>
+<fr nl="467.525" el="6" nh="467.575" eh="6">Analogue cellular<br/>On-board communications </fr>
+<fr nl="470.0" el="6" nh="862.0" eh="6">SAP/SAB and ENG/OB</fr>
+<fr nl="470.0" el="6" nh="862.0" eh="6">Radio Microphones </fr>
+<fr nl="470.0" el="6" nh="862.0" eh="6">Broadcasting (terresfrial) </fr>
+<fr nl="790.0" el="6" nh="862.0" eh="6">Defence systems </fr>
+<fr nl="863.0" el="6" nh="865.0" eh="6">Cordless telephones<br/>Radio Microphones </fr>
+<fr nl="863.0" el="6" nh="865.0" eh="6">Wireless Audio Applications </fr>
+<fr nl="868.0" el="6" nh="870.0" eh="6">Short Range Devices </fr>
+<fr nl="869.2" el="6" nh="869.25" eh="6">Social Alarms </fr>
+<fr nl="1164.0" el="6" nh="1260.0" eh="6">DMEJTIDS/MIDSSSRTACAN-DME</fr>
+<fr nl="1164.0" el="6" nh="1260.0" eh="6">Satellite navigation systems </fr>
+<fr nl="1215.0" el="6" nh="1300.0" eh="6">Aeronautical navigation<br/>Satellite navigation systems</fr>
+<fr nl="1215.0" el="6" nh="1300.0" eh="6">Radiolocation (military) </fr>
+<fr nl="1240.0" el="6" nh="1300.0" eh="6">Active sensors (satellite)</fr>
+<fr nl="1240.0" el="6" nh="1300.0" eh="6">Amateur </fr>
+<fr nl="1270.0" el="6" nh="1295.0" eh="6">Wind profilers </fr>
+<fr nl="1330.0" el="6" nh="1400.0" eh="6">Aeronautical navigation<br/>Radiolocation (civil)</fr>
+<fr nl="1330.0" el="6" nh="1400.0" eh="6">Spectral line observations </fr>
+<fr nl="1427.0" el="6" nh="1452.0" eh="6">Fixed links</fr>
+<fr nl="1427.0" el="6" nh="1452.0" eh="6">Defence systems</fr>
+<fr nl="1492.0" el="6" nh="1525.0" eh="6">Fixed links</fr>
+<fr nl="1492.0" el="6" nh="1525.0" eh="6">Defence systems </fr>
+<fr nl="1525.0" el="6" nh="1544.0" eh="6">Fixed links</fr>
+<fr nl="1525.0" el="6" nh="1544.0" eh="6">MSS Earth stations </fr>
+<fr nl="1545.0" el="6" nh="1559.0" eh="6">MSS Earth stations </fr>
+<fr nl="1610.0" el="6" nh="1626.5" eh="6">MSS Earth stations </fr>
+<fr nl="1626.5" el="6" nh="1645.5" eh="6">MSS Earth stations </fr>
+<fr nl="1646.5" el="6" nh="1660.5" eh="6">MSS Earth stations </fr>
+<fr nl="1660.0" el="6" nh="1668.4" eh="6">Continuum measurements </fr>
+<fr nl="1660.0" el="6" nh="1668.4" eh="6">VLBI observations </fr>
+<fr nl="1660.5" el="6" nh="1670.0" eh="6">Defence systems </fr>
+<fr nl="1675.0" el="6" nh="1710.0" eh="6">MeteorologyDefence systems </fr>
+<fr nl="1675.0" el="6" nh="1710.0" eh="6">Defence systems </fr>
+<fr nl="1785.7" el="6" nh="1799.4" eh="6">Land mobileRadio Microphones </fr>
+<fr nl="1900.0" el="6" nh="1980.0" eh="6">IMT-2000/UMTS </fr>
+<fr nl="2025.0" el="6" nh="2070.0" eh="6">Tactical radio relay </fr>
+<fr nl="2110.0" el="6" nh="2170.0" eh="6">IMT-2000/UMTS </fr>
+<fr nl="2200.0" el="6" nh="2245.0" eh="6">Tactical radio relay </fr>
+<fr nl="2300.0" el="6" nh="2450.0" eh="6">Aeronautical telemetry Land mobile SAP/SAB and ENG/OB</fr>
+<fr nl="2300.0" el="6" nh="2450.0" eh="6">Amateur </fr>
+<fr nl="2400.0" el="6" nh="2483.5" eh="6">ISM</fr>
+<fr nl="2400.0" el="6" nh="2483.5" eh="6">Non-specific SRDs </fr>
+<fr nl="2400.0" el="6" nh="2483.5" eh="6">RFID </fr>
+<fr nl="2400.0" el="6" nh="2483.5" eh="6">Radio LANs</fr>
+<fr nl="2446.0" el="6" nh="2454.0" eh="6">AVI</fr>
+<fr nl="2400.0" el="6" nh="2483.5" eh="6">Detection of movement </fr>
+<fr nl="2520.0" el="6" nh="2670.0" eh="6">Defence systemsFixed links</fr>
+<fr nl="2520.0" el="6" nh="2670.0" eh="6">SAP/SAB and ENG/OB </fr>
+<fr nl="2520.0" el="6" nh="2670.0" eh="6">IMT-2000/UMTS </fr>
+<fr nl="2655.0" el="6" nh="2690.0" eh="6">Fixed links</fr>
+<fr nl="2655.0" el="6" nh="2690.0" eh="6">Continuum measurements </fr>
+<fr nl="2900.0" el="6" nh="3500.0" eh="6">Aeronautical navigation</fr>
+<fr nl="2900.0" el="6" nh="3500.0" eh="6">Radiolocation (military) </fr>
+<fr nl="2900.0" el="6" nh="3500.0" eh="6">Radiolocation (civil) </fr>
+<fr nl="3400.0" el="6" nh="3600.0" eh="6">Amateur Fixed links</fr>
+<fr nl="3400.0" el="6" nh="3800.0" eh="6">Point-to-Multipoint </fr>
+<fr nl="3400.0" el="6" nh="3600.0" eh="6">SAP/SAB and ENG/OB </fr>
+<fr nl="3400.0" el="6" nh="3800.0" eh="6">Point-to-Multipoint </fr>
+<fr nl="4400.0" el="6" nh="4800.0" eh="6">Point-to-Point </fr>
+<fr nl="4400.0" el="6" nh="5000.0" eh="6">Defence systems </fr>
+<fr nl="4400.0" el="6" nh="5000.0" eh="6">SAP/SAB and ENG/OB </fr>
+<fr nl="4800.0" el="6" nh="5000.0" eh="6">Passive sensors (satellite)</fr>
+<fr nl="4800.0" el="6" nh="5030.0" eh="6">VLBI observations </fr>
+<fr nl="4400.0" el="6" nh="5000.0" eh="6">Defence systems </fr>
+<fr nl="4800.0" el="6" nh="5000.0" eh="6">Continuum measurements </fr>
+<fr nl="5150.0" el="6" nh="5350.0" eh="6">Feeder links</fr>
+<fr nl="5150.0" el="6" nh="5350.0" eh="6">HIPERLANs </fr>
+<fr nl="5250.0" el="6" nh="5460.0" eh="6">Active sensors (satellite) </fr>
+<fr nl="5250.0" el="6" nh="5725.0" eh="6">Maritime radar </fr>
+<fr nl="5250.0" el="6" nh="5725.0" eh="6">Radiolocation (civil) </fr>
+<fr nl="5250.0" el="6" nh="5725.0" eh="6">Radiolocation (military) </fr>
+<fr nl="5250.0" el="6" nh="5725.0" eh="6">Tactical radar </fr>
+<fr nl="5250.0" el="6" nh="5850.0" eh="6">Weather radar </fr>
+<fr nl="5470.0" el="6" nh="5725.0" eh="6">HIPERLANs </fr>
+<fr nl="5660.0" el="6" nh="5670.0" eh="6">Amateur </fr>
+<fr nl="5660.0" el="6" nh="5670.0" eh="6">Amateur-satellite </fr>
+<fr nl="5250.0" el="6" nh="5850.0" eh="6">Weather radar </fr>
+<fr nl="5725.0" el="6" nh="5850.0" eh="6">Amateur</fr>
+<fr nl="5725.0" el="6" nh="5875.0" eh="6">ISM</fr>
+<fr nl="5725.0" el="6" nh="5875.0" eh="6">Non-specific SRDs</fr>
+<fr nl="5795.0" el="6" nh="5805.0" eh="6">RTTT</fr>
+<fr nl="5250.0" el="6" nh="5850.0" eh="6">Weather radar </fr>
+<fr nl="5725.0" el="6" nh="5850.0" eh="6">Radiolocation (military) </fr>
+<fr nl="5850.0" el="6" nh="6700.0" eh="6">FSS Earth stations </fr>
+<fr nl="5925.0" el="6" nh="7125.0" eh="6">Point-to-Point </fr>
+<fr nl="6725.0" el="6" nh="7025.0" eh="6">Earth exploration-satellite<br/>FSS Earth stations </fr>
+<fr nl="6925.0" el="6" nh="7075.0" eh="6">Feeder links </fr>
+<fr nl="5925.0" el="6" nh="7125.0" eh="6">Point-to-Point </fr>
+<fr nl="7125.0" el="6" nh="8500.0" eh="6">Earth exploration-satellite</fr>
+<fr nl="7125.0" el="6" nh="8500.0" eh="6">Fixed links </fr>
+<fr nl="7250.0" el="6" nh="7375.0" eh="6">MSS Earth stations </fr>
+<fr nl="7250.0" el="6" nh="7750.0" eh="6">Defence systems </fr>
+<fr nl="7750.0" el="6" nh="8025.0" eh="6">Weather satellites</fr>
+<fr nl="7750.0" el="6" nh="8025.0" eh="6">Defence systems </fr>
+<fr nl="8025.0" el="6" nh="8200.0" eh="6">Earth exploration-satellite<br/>Land mobile </fr>
+<fr nl="8025.0" el="6" nh="8400.0" eh="6">Defence systems </fr>
+<fr nl="8025.0" el="6" nh="8200.0" eh="6">Land mobile </fr>
+<fr nl="8500.0" el="6" nh="10000.0" eh="6">Aeronautical</fr>
+<fr nl="8500.0" el="6" nh="10000.0" eh="6">Land military systems </fr>
+<fr nl="8500.0" el="6" nh="10000.0" eh="6">Maritime military systems </fr>
+<fr nl="8500.0" el="6" nh="10000.0" eh="6">Aeronautical military systems </fr>
+<fr nl="9200.0" el="6" nh="9975.0" eh="6">AeronauticalDetection of movement </fr>
+<fr nl="9200.0" el="6" nh="9975.0" eh="6">Detection of movement </fr>
+<fr nl="10.0" el="9" nh="10.5" eh="9">Amateur </fr>
+<fr nl="10.0" el="9" nh="10.5" eh="9">Radiolocation (military) </fr>
+<fr nl="10.0" el="9" nh="10.68" eh="9">SAP/SAB and ENG/OB </fr>
+<fr nl="10.45" el="9" nh="10.6" eh="9">Amateur-satellite<br/>Radiolocation (civil)</fr>
+<fr nl="10.45" el="9" nh="10.6" eh="9">Fixed links </fr>
+<fr nl="10.5" el="9" nh="10.6" eh="9">Detection of movement </fr>
+<fr nl="10.5" el="9" nh="10.65" eh="9">Point-to-Multipoint </fr>
+<fr nl="10.6" el="9" nh="10.7" eh="9">Fixed links<br/>Passive sensors (satellite)</fr>
+<fr nl="10.6" el="9" nh="10.7" eh="9">VLBI observations </fr>
+<fr nl="10.6" el="9" nh="10.7" eh="9">Continuum measurements </fr>
+<fr nl="10.7" el="9" nh="10.95" eh="9">FSS Earth stations </fr>
+<fr nl="10.7" el="9" nh="10.95" eh="9">SIT/SUT </fr>
+<fr nl="10.7" el="9" nh="10.95" eh="9">VSAT </fr>
+<fr nl="11.2" el="9" nh="11.45" eh="9">Fixed links FSS Earth stations </fr>
+<fr nl="11.2" el="9" nh="11.45" eh="9">SIT/SUT </fr>
+<fr nl="11.2" el="9" nh="11.45" eh="9">VSAT </fr>
+<fr nl="13.25" el="9" nh="14.0" eh="9">Airborne doppler navigation aids<br/>Earth exploration-satellite</fr>
+<fr nl="13.25" el="9" nh="14.0" eh="9">Maritime radar </fr>
+<fr nl="13.4" el="9" nh="14.0" eh="9">Aeronautical military systems </fr>
+<fr nl="13.4" el="9" nh="14.0" eh="9">Detection of movement </fr>
+<fr nl="13.4" el="9" nh="14.0" eh="9">Land military systems </fr>
+<fr nl="13.4" el="9" nh="14.0" eh="9">Maritime military systems </fr>
+<fr nl="14.0" el="9" nh="14.5" eh="9">MSS Earth stations </fr>
+<fr nl="14.0" el="9" nh="14.5" eh="9">SNG </fr>
+<fr nl="14.0" el="9" nh="14.5" eh="9">VSAT </fr>
+<fr nl="14.3" el="9" nh="14.5" eh="9">FSS Earth stations </fr>
+<fr nl="14.47" el="9" nh="15.4" eh="9">Spectral line observations</fr>
+<fr nl="14.47" el="9" nh="15.4" eh="9">VLBI observations </fr>
+<fr nl="14.5" el="9" nh="15.35" eh="9">Fixed links </fr>
+<fr nl="14.62" el="9" nh="15.23" eh="9">Defence systems </fr>
+<fr nl="15.7" el="9" nh="17.1" eh="9">Defence systems </fr>
+<fr nl="17.1" el="9" nh="17.3" eh="9">HIPERLANs </fr>
+<fr nl="17.1" el="9" nh="17.7" eh="9">Defence systems </fr>
+<fr nl="17.7" el="9" nh="19.7" eh="9">Feeder links</fr>
+<fr nl="17.7" el="9" nh="19.7" eh="9">Fixed links </fr>
+<fr nl="17.7" el="9" nh="19.7" eh="9">FSS Earth stations </fr>
+<fr nl="18.1" el="9" nh="18.4" eh="9">Feeder links </fr>
+<fr nl="19.7" el="9" nh="20.2" eh="9">MSS Earth stations</fr>
+<fr nl="19.7" el="9" nh="20.2" eh="9">SIT/SUT </fr>
+<fr nl="22.0" el="9" nh="22.5" eh="9">Passive sensors (satellite)</fr>
+<fr nl="22.0" el="9" nh="22.6" eh="9">Fixed links </fr>
+<fr nl="22.0" el="9" nh="23.6" eh="9">SAP/SAB and ENG/OB </fr>
+<fr nl="22.0" el="9" nh="22.5" eh="9">Spectral line observations </fr>
+<fr nl="22.5" el="9" nh="22.6" eh="9">Radio astronomy </fr>
+<fr nl="22.6" el="9" nh="23.55" eh="9">Spectral line observations </fr>
+<fr nl="23.0" el="9" nh="23.6" eh="9">Fixed links </fr>
+<fr nl="24.0" el="9" nh="24.25" eh="9">Amateur-satellite</fr>
+<fr nl="24.0" el="9" nh="24.25" eh="9">ISM </fr>
+<fr nl="24.0" el="9" nh="24.25" eh="9">Non-specific SRDs </fr>
+<fr nl="24.0" el="9" nh="24.5" eh="9">SAP/SAB and ENG/OB </fr>
+<fr nl="24.0" el="9" nh="24.25" eh="9">Amateur </fr>
+<fr nl="24.25" el="9" nh="24.5" eh="9">SAP/SAB P to P audio links </fr>
+<fr nl="24.5" el="9" nh="26.5" eh="9">Fixed links </fr>
+<fr nl="24.5" el="9" nh="26.5" eh="9">Point-to-Multipoint </fr>
+<fr nl="26.5" el="9" nh="27.5" eh="9">Defence systems </fr>
+<fr nl="27.5" el="9" nh="28.0525" eh="9">FSS Earth stations </fr>
+<fr nl="27.5" el="9" nh="28.0525" eh="9">SIT/SUT </fr>
+<fr nl="27.5" el="9" nh="29.5" eh="9">Feeder links </fr>
+<fr nl="27.8285" el="9" nh="28.4445" eh="9">Fixed links </fr>
+<fr nl="27.8285" el="9" nh="28.4445" eh="9">Point-to-Multipoint </fr>
+<fr nl="28.4445" el="9" nh="29.0605" eh="9">FSS Earth stations </fr>
+<fr nl="28.4445" el="9" nh="29.0605" eh="9">SIT/SUT </fr>
+<fr nl="29.4525" el="9" nh="29.5" eh="9">FSS Earth stations </fr>
+<fr nl="29.4525" el="9" nh="29.5" eh="9">SIT/SUT </fr>
+<fr nl="29.5" el="9" nh="30.0" eh="9">FSS Earth stations MSS Earth stations</fr>
+<fr nl="29.5" el="9" nh="30.0" eh="9">SIT/SUT </fr>
+<fr nl="31.0" el="9" nh="31.8" eh="9">Fixed links</fr>
+<fr nl="31.0" el="9" nh="31.8" eh="9">Continuum measurements </fr>
+<fr nl="31.5" el="9" nh="33.4" eh="9">Earth exploration-satellite Passive sensors (satellite)</fr>
+<fr nl="31.5" el="9" nh="33.4" eh="9">Fixed links </fr>
+<fr nl="31.8" el="9" nh="33.4" eh="9">Point-to-Multipoint </fr>
+<fr nl="33.4" el="9" nh="35.2" eh="9">Radiolocation (civil & military)</fr>
+<fr nl="33.4" el="9" nh="36.0" eh="9">Defence systems </fr>
+<fr nl="33.4" el="9" nh="35.2" eh="9">Detection of movement </fr>
+<fr nl="37.0" el="9" nh="37.142" eh="9">Unplanned, uncoordinated fixed links </fr>
+<fr nl="37.0" el="9" nh="39.5" eh="9">Fixed links </fr>
+<fr nl="37.0" el="9" nh="39.5" eh="9">Fixed radio relay (military) </fr>
+<fr nl="38.22" el="9" nh="38.402" eh="9">FSS Earth stations Unplanned, uncoordinated fixed links </fr>
+<fr nl="40.5" el="9" nh="43.5" eh="9">FSS Earth stations </fr>
+<fr nl="40.5" el="9" nh="43.5" eh="9">MWS </fr>
+<fr nl="47.2" el="9" nh="47.5" eh="9">HAPS </fr>
+<fr nl="47.2" el="9" nh="49.2" eh="9">FSS Earth stations</fr>
+<fr nl="47.9" el="9" nh="48.2" eh="9">HAPS </fr>
+<fr nl="47.2" el="9" nh="49.2" eh="9">Feeder links </fr>
+<fr nl="47.2" el="9" nh="50.2" eh="9">SAP/SAB and ENG/OB </fr>
+<fr nl="55.78" el="9" nh="59.0" eh="9">Fixed links </fr>
+<fr nl="52.6" el="9" nh="59.3" eh="9">Passive sensors (satellite) </fr>
+<fr nl="59.0" el="9" nh="61.0" eh="9">Defence systems </fr>
+<fr nl="62.0" el="9" nh="64.0" eh="9">Land mobile</fr>
+<fr nl="62.0" el="9" nh="64.0" eh="9">Radiolocation (military) </fr>
+<fr nl="64.0" el="9" nh="66.0" eh="9">Fixed links </fr>
+<fr nl="74.0" el="9" nh="86.0" eh="9">Space research</fr>
+<fr nl="75.5" el="9" nh="76.5" eh="9">Space researchAmateur </fr>
+<fr nl="74.0" el="9" nh="86.0" eh="9">Radio astronomy </fr>
+<fr nl="75.5" el="9" nh="76.5" eh="9">Amateur </fr>
+<fr nl="76.5" el="9" nh="77.5" eh="9">Amateur-satellite RTTT Radiolocation (civil)Amateur </fr>
+<fr nl="78.0" el="9" nh="81.0" eh="9">Radiolocation (military & civil) </fr>
+<fr nl="92.0" el="9" nh="95.0" eh="9">Radio astronomy</fr>
+<fr nl="92.0" el="9" nh="95.0" eh="9">Radiolocation (military & civil) </fr>
+<fr nl="94.1" el="9" nh="105.0" eh="9">Radiolocation (civil)</fr>
+<fr nl="94.1" el="9" nh="105.0" eh="9">Radio astronomy </fr>
+<fr nl="116.0" el="9" nh="122.25" eh="9">Passive sensors (satellite) </fr>
+<fr nl="134.0" el="9" nh="141.0" eh="9">Amateur </fr>
+<fr nl="134.0" el="9" nh="141.0" eh="9">Amateur-satellite </fr>
+<fr nl="136.0" el="9" nh="148.5" eh="9">Continuum measurements </fr>
+<fr nl="136.0" el="9" nh="148.5" eh="9">Spectral line observations </fr>
+<fr nl="151.5" el="9" nh="158.5" eh="9">Continuum measurements </fr>
+<fr nl="151.5" el="9" nh="158.5" eh="9">Spectral line observations </fr>
+<fr nl="174.5" el="9" nh="191.8" eh="9">Passive sensors (satellite) </fr>
+<fr nl="200.0" el="9" nh="209.0" eh="9">Continuum measurements Spectral line observations</fr>
+<fr nl="200.0" el="9" nh="209.0" eh="9">Earth exploration-satellite </fr>
+<fr nl="241.0" el="9" nh="250.0" eh="9">Non-specific SRDs Radio astronomy</fr>
+<fr nl="241.0" el="9" nh="250.0" eh="9">Amateur-satellite </fr>
+<fr nl="241.0" el="9" nh="250.0" eh="9">Amateur </fr></values></EMData></xml>

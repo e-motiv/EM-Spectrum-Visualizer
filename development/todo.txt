@@ -1,0 +1,42 @@
+// Magnifying glass
+https://www.google.com/search?q=notepad%2B%2B+replace+calculate&ie=utf-8&oe=utf-8&client=firefox-b-ab
+https://kihyuckhong.wordpress.com/2010/01/27/svg-zoom-example-the-famous-tiger-svg-with-magnifying-glass/
+http://www.cs.northwestern.edu/~riesbeck/demo/magnifier_v3/magnifier.html
+// TODO: get better graphics for sun on earth and atmospheric attenuation
+// TODO: Make attenuation atmosphere logarithmic Y scale
+//TODO maybe: give sun in space white color, sun on earth yellow color (though scattering is not included or is it in attenuation? But isn't it scattering AND attenuation that is responsible for yellow su?)
+
+//	TODO: Store positions in browser  for when coming back
+
+
+	//TODO Set the same grid via svg scale factor or so, cause sun & black body are not same now. OR use 2 scales with right and left explanation, max 4 with colors of lines = colors of text and
+
+/// Sinus
+		<path d="M10 10 Q 52.5 0, 95 10 T 180 10" stroke="white" fill="transparent" />
+		repeat via pattern?
+		
+//	CSS RAINBOW AND FILLS
+		background: linear-gradient(to right,red,orange,yellow, green, blue,indigo,violet); 
+		
+		
+//	Wy is spectral radiance per wavelength different as per frequency?  Tops should give different colors for same physical effect??
+//TODO: Make into svg and just load the svg, put the code in develoment folder
+
+//	TODO: TEST try css animation without requestanimationframe in js for scrolling
+
+//TOTRY: Translating svg using CSS transforms 
+
+//TOBRAINFUCK: SVG behaves as DOM and because some SVG dimensions are bigger or smaller than their attribute dimensions, part of them get out of window etc
+//If using e.g. viewBox="0 0 1600 720" then not necessary, but then the x coordinates vary unless maybe other SVG also have viewbox? But then the bands become too small?
+//But there are other ways with conserveAspectRatio like only in width and not in height or vice versa?
+
+
+//CHECK THE SECTIONS COMMENTS IN THE DEVELOPMENT XML becase WRONG illustration now without more explanation
+
+
+//TODO: USe the new function getBoundingClientRect() to get dimensions
+
+http://www.spectralcalc.com/info/about.php -> Sell or get link there
+
+
+//TODO: For some attenuation graphics, scattering and absorption are shown, for others just scattering!  DAMN, this is difficult

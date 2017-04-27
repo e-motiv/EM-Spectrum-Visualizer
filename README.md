@@ -1,7 +1,7 @@
 # EM-Spectrum-Visualiser
 A multi-purpose graphical tool to explore, learn, calculate and visualise everything around the electromagnetic spectrum.
 
-([Developers needed!](#Help-wanted))
+([Developers needed!](#help-wanted))
 
 Some examples:
 - EM spectrum bands visualisation and knowledge (radio waves, micro waves, infrared, visible spectrum, ultra violet, X-rays, gamma rays, cosmic radiation)

@@ -11,8 +11,9 @@ Some examples:
   - atmospheric attenuation
   - Popular everyday things compared to wavelength sizes
   - Irradiance / Spectrum of the sun
-- Spectrum lines (TODO)
-- Interaction with matter (TODO)
+- Spectrum lines (TO TRANSFER)
+- Interaction with matter (TO TRANSFER)
+- Frequency allocations (ITU, Europe- (TO TRANSFER)
 
 ## Screenshot
 ![Screenshot](/_screenshot.png?raw=true "Sreenshot EM SPectrum Visualiser")

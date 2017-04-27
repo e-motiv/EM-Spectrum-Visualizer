@@ -1,5 +1,6 @@
 # EM-Spectrum-Visualiser
 A multi-purpose graphical tool to explore, learn, calculate and visualise everything around the electromagnetic spectrum.
+(html / javascript / SVG)
 
 ([Developers needed!](#help-wanted))
 

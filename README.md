@@ -1,5 +1,5 @@
 # EM-Spectrum-Visualiser
-A multi-purpose graphical tool to explore, learn, calculate and visualise everything around the electromagnetic spectrum.
+A multi-purpose graphical tool / presentation to explore, learn, calculate and visualise everything around the electromagnetic spectrum.
 (html / javascript / SVG)
 
 ([Developers needed!](#help-wanted))
@@ -18,7 +18,7 @@ Some examples:
 ![Screenshot](/_screenshot.png?raw=true "Sreenshot EM SPectrum Visualiser")
 
 ## History
-A long time ago e-motiv.et (aka Ruben Goethals) had some free time on his hands, so he created the same tool in Flash (see link below). Flash together with actionscript was a promising platform for graphical presentations. Even today (2017) its benifits and possibilities are not matched. Unfortunatly, someone (like a certain former director of Apple) have made it possible to fade out Flash from popular acceptance. (You won't hear this from all the Flash haters out there though, but well..)
+A long time ago e-motiv.et (aka Ruben Goethals) had some free time on his hands, so he created the same tool in Flash (see link below). Flash together with actionscript was a promising platform for graphical presentations. Even today (2017) its benifits and possibilities are not matched. Unfortunatly, someone (like a certain former director of Apple) has made it possible to fade out Flash from popular acceptance. (You won't hear this from all the Flash haters out there though, but well..)
 
 
 It was even linked in the main "EM Spectrum" article of Wikipedia, until some editors thought it was a commerial link after I changed my domain from e-builds.com to e-motiv.net. Even though it was free.
@@ -37,6 +37,14 @@ or
 ## Help wanted
 You want to take over the torch (more or less) ?
 If you're interested (see end of History above) and you don't know where to start, [mail me](mailto:Ruben@e-motiv.net) or write me a message here.
+
+## Development notes
+Mostly, if you start fiddling with script/base.js you will understand everything if you are a developer.
+- index.html: The main starting point
+- script/base.js: Where all the magic happens!
+- content: folder with all graphic and text/html files
+- development: folder with some files to generate the SVGs that come into the content folder or the ones once used for it in case there are some extensions to be made. (In other words, the tool itself is used to make the SVGs and see how well they fit etc.)
+- style
 
 
 

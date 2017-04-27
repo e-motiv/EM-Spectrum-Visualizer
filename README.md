@@ -1,5 +1,14 @@
 # EM-Spectrum-Visualiser
 A multi-purpose graphical tool to explore, learn, calculate and visualise everything around the electromagnetic spectrum.
+Some examples:
+- EM spectrum bands visualisation and knowledge (radio waves, micro waves, infrared, visible spectrum, ultra violet, X-rays, gamma rays, cosmic radiation)
+- frequency wavelength calculator / positionor
+- Visualisation Overlays (PLots, images, ..)
+  - atmospheric attenuation
+  - Popular everyday things compared to wavelength sizes
+  - Irradiance / Spectrum of the sun
+- Spectrum lines (TODO)
+- Interaction with matter (TODO)
 
 ## Screenshot
 ![Screenshot](/_screenshot.png?raw=true "Sreenshot EM SPectrum Visualiser")
@@ -17,7 +26,7 @@ Anyway, e-motiv would hate his efforst to go to waste. This is a trial to revive
 ## Old Flash version
 If you want to know how the old one looked like for development or other reasons
 Check
-[here on gitHUB](_version flash - ld/source/Electromagnetic Spectrum.swf)
+[here on gitHUB](_version%20flash%20-%20old/source/Electromagnetic%20Spectrum.swf)
 or
 [here on e-motiv](http://attic.e-motiv.net/em-spectrum) 
 

@@ -1,4 +1,4 @@
-# EM-Spectrum-Visualiser
+# EM Spectrum Visualizer
 A multi-purpose graphical, educational, scientific, interactive, online, multimedia presentation / physics tool to explore, learn, calculate and visualise everything around the electromagnetic spectrum.  
 (html / javascript / SVG)
 
